@@ -1770,16 +1770,16 @@
   "name": "INDIA",
   "url": "http://www.crwflags.com/fotw/images/i/in.gif",
   "colors": [{
-    "hex": "#FFCC00",
+    "hex": "#FF9933",
     "percent": 33.33
   }, {
-    "hex": "#339933",
+    "hex": "#128807",
     "percent": 33.33
   }, {
     "hex": "#FDFDFD",
     "percent": 30.39
   }, {
-    "hex": "#040468",
+    "hex": "#000080",
     "percent": 1.29
   }, {
     "hex": "#27277D",
