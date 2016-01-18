@@ -6,46 +6,67 @@
 */
 
 
-.fc-afghanistan {
-  color: #006647;
+.fc-abkhazia {
+  color: #00993E;
 }
-.fc-afghanistan-bg {
-  background-color: #006647;
+.fc-abkhazia-bg {
+  background-color: #00993E;
 }
 
-.fc-afghanistan-2 {
+.fc-abkhazia-2 {
+  color: #FFFFFF;
+}
+.fc-abkhazia-2-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-abkhazia-3 {
+  color: #C8312A;
+}
+.fc-abkhazia-3-bg {
+  background-color: #C8312A;
+}
+
+.fc-afghanistan {
   color: #000000;
 }
-.fc-afghanistan-2-bg {
+.fc-afghanistan-bg {
   background-color: #000000;
 }
 
+.fc-afghanistan-2 {
+  color: #009900;
+}
+.fc-afghanistan-2-bg {
+  background-color: #009900;
+}
+
 .fc-afghanistan-3 {
-  color: #CF142B;
+  color: #BF0000;
 }
 .fc-afghanistan-3-bg {
-  background-color: #CF142B;
+  background-color: #BF0000;
 }
 
 .fc-afghanistan-4 {
-  color: #F4CED2;
+  color: #D2534D;
 }
 .fc-afghanistan-4-bg {
-  background-color: #F4CED2;
+  background-color: #D2534D;
 }
 
 .fc-albania {
-  color: #CC0001;
+  color: #E41E20;
 }
 .fc-albania-bg {
-  background-color: #CC0001;
+  background-color: #E41E20;
 }
 
 .fc-albania-2 {
-  color: #010101;
+  color: #020000;
 }
 .fc-albania-2-bg {
-  background-color: #010101;
+  background-color: #020000;
 }
 
 .fc-algeria {
@@ -56,80 +77,52 @@
 }
 
 .fc-algeria-2 {
-  color: #006633;
+  color: #006233;
 }
 .fc-algeria-2-bg {
-  background-color: #006633;
+  background-color: #006233;
 }
 
 .fc-algeria-3 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-algeria-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-american-samoa {
-  color: #0000FF;
-}
-.fc-american-samoa-bg {
-  background-color: #0000FF;
-}
-
-.fc-american-samoa-2 {
-  color: #FFFFFF;
-}
-.fc-american-samoa-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-american-samoa-3 {
-  color: #FF0000;
-}
-.fc-american-samoa-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-american-samoa-4 {
-  color: #A54A00;
-}
-.fc-american-samoa-4-bg {
-  background-color: #A54A00;
+  background-color: #D21034;
 }
 
 .fc-andorra {
-  color: #E70031;
+  color: #D0103A;
 }
 .fc-andorra-bg {
-  background-color: #E70031;
+  background-color: #D0103A;
 }
 
 .fc-andorra-2 {
-  color: #10188C;
+  color: #0018A8;
 }
 .fc-andorra-2-bg {
-  background-color: #10188C;
+  background-color: #0018A8;
 }
 
 .fc-andorra-3 {
-  color: #FFFF00;
+  color: #FDDE00;
 }
 .fc-andorra-3-bg {
-  background-color: #FFFF00;
+  background-color: #FDDE00;
 }
 
 .fc-andorra-4 {
-  color: #DEC693;
+  color: #BBA373;
 }
 .fc-andorra-4-bg {
-  background-color: #DEC693;
+  background-color: #BBA373;
 }
 
 .fc-angola {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-angola-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-angola-2 {
@@ -139,46 +132,18 @@
   background-color: #000000;
 }
 
-.fc-anguilla {
-  color: #08296B;
+.fc-angola-3 {
+  color: #F7D416;
 }
-.fc-anguilla-bg {
-  background-color: #08296B;
-}
-
-.fc-anguilla-2 {
-  color: #FFFFFF;
-}
-.fc-anguilla-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-anguilla-3 {
-  color: #C62929;
-}
-.fc-anguilla-3-bg {
-  background-color: #C62929;
-}
-
-.fc-antarctica {
-  color: #000099;
-}
-.fc-antarctica-bg {
-  background-color: #000099;
-}
-
-.fc-antarctica-2 {
-  color: #FEFEFF;
-}
-.fc-antarctica-2-bg {
-  background-color: #FEFEFF;
+.fc-angola-3-bg {
+  background-color: #F7D416;
 }
 
 .fc-antigua-and-barbuda {
-  color: #CC0000;
+  color: #CE1126;
 }
 .fc-antigua-and-barbuda-bg {
-  background-color: #CC0000;
+  background-color: #CE1126;
 }
 
 .fc-antigua-and-barbuda-2 {
@@ -189,10 +154,10 @@
 }
 
 .fc-antigua-and-barbuda-3 {
-  color: #0066CC;
+  color: #0072C6;
 }
 .fc-antigua-and-barbuda-3-bg {
-  background-color: #0066CC;
+  background-color: #0072C6;
 }
 
 .fc-antigua-and-barbuda-4 {
@@ -203,17 +168,17 @@
 }
 
 .fc-antigua-and-barbuda-5 {
-  color: #FFCC00;
+  color: #FBD116;
 }
 .fc-antigua-and-barbuda-5-bg {
-  background-color: #FFCC00;
+  background-color: #FBD116;
 }
 
 .fc-argentina {
-  color: #75AADB;
+  color: #74ACDF;
 }
 .fc-argentina-bg {
-  background-color: #75AADB;
+  background-color: #74ACDF;
 }
 
 .fc-argentina-2 {
@@ -224,45 +189,31 @@
 }
 
 .fc-armenia {
-  color: #FF0000;
+  color: #F2A800;
 }
 .fc-armenia-bg {
-  background-color: #FF0000;
+  background-color: #F2A800;
 }
 
 .fc-armenia-2 {
-  color: #FF9900;
+  color: #D90012;
 }
 .fc-armenia-2-bg {
-  background-color: #FF9900;
+  background-color: #D90012;
 }
 
 .fc-armenia-3 {
-  color: #000099;
+  color: #0033A0;
 }
 .fc-armenia-3-bg {
-  background-color: #000099;
-}
-
-.fc-aruba {
-  color: #3399CC;
-}
-.fc-aruba-bg {
-  background-color: #3399CC;
-}
-
-.fc-aruba-2 {
-  color: #FFFF00;
-}
-.fc-aruba-2-bg {
-  background-color: #FFFF00;
+  background-color: #0033A0;
 }
 
 .fc-australia {
-  color: #000066;
+  color: #00008B;
 }
 .fc-australia-bg {
-  background-color: #000066;
+  background-color: #00008B;
 }
 
 .fc-australia-2 {
@@ -273,17 +224,17 @@
 }
 
 .fc-australia-3 {
-  color: #CC0000;
+  color: #FF0101;
 }
 .fc-australia-3-bg {
-  background-color: #CC0000;
+  background-color: #FF0101;
 }
 
 .fc-austria {
-  color: #FF0000;
+  color: #ED2939;
 }
 .fc-austria-bg {
-  background-color: #FF0000;
+  background-color: #ED2939;
 }
 
 .fc-austria-2 {
@@ -294,52 +245,31 @@
 }
 
 .fc-azerbaijan {
-  color: #0099CC;
+  color: #00B9E4;
 }
 .fc-azerbaijan-bg {
-  background-color: #0099CC;
+  background-color: #00B9E4;
 }
 
 .fc-azerbaijan-2 {
-  color: #009933;
+  color: #3F9C35;
 }
 .fc-azerbaijan-2-bg {
-  background-color: #009933;
+  background-color: #3F9C35;
 }
 
 .fc-azerbaijan-3 {
-  color: #CC3333;
+  color: #ED2939;
 }
 .fc-azerbaijan-3-bg {
-  background-color: #CC3333;
-}
-
-.fc-bahamas {
-  color: #00CCCB;
-}
-.fc-bahamas-bg {
-  background-color: #00CCCB;
-}
-
-.fc-bahamas-2 {
-  color: #000000;
-}
-.fc-bahamas-2-bg {
-  background-color: #000000;
-}
-
-.fc-bahamas-3 {
-  color: #FFCC00;
-}
-.fc-bahamas-3-bg {
-  background-color: #FFCC00;
+  background-color: #ED2939;
 }
 
 .fc-bahrain {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-bahrain-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-bahrain-2 {
@@ -350,206 +280,192 @@
 }
 
 .fc-bangladesh {
-  color: #006600;
+  color: #006A4E;
 }
 .fc-bangladesh-bg {
-  background-color: #006600;
+  background-color: #006A4E;
 }
 
 .fc-bangladesh-2 {
-  color: #FF0000;
+  color: #F42A41;
 }
 .fc-bangladesh-2-bg {
-  background-color: #FF0000;
+  background-color: #F42A41;
 }
 
 .fc-barbados {
-  color: #003399;
+  color: #00267F;
 }
 .fc-barbados-bg {
-  background-color: #003399;
+  background-color: #00267F;
 }
 
 .fc-barbados-2 {
-  color: #FFCC00;
+  color: #FFC726;
 }
 .fc-barbados-2-bg {
-  background-color: #FFCC00;
+  background-color: #FFC726;
+}
+
+.fc-barbados-3 {
+  color: #010100;
+}
+.fc-barbados-3-bg {
+  background-color: #010100;
 }
 
 .fc-belarus {
-  color: #FF0000;
+  color: #C8313E;
 }
 .fc-belarus-bg {
-  background-color: #FF0000;
+  background-color: #C8313E;
 }
 
 .fc-belarus-2 {
-  color: #009900;
+  color: #4AA657;
 }
 .fc-belarus-2-bg {
-  background-color: #009900;
-}
-
-.fc-belarus-3 {
-  color: #FFFEFE;
-}
-.fc-belarus-3-bg {
-  background-color: #FFFEFE;
+  background-color: #4AA657;
 }
 
 .fc-belgium {
-  color: #FF0000;
-}
-.fc-belgium-bg {
-  background-color: #FF0000;
-}
-
-.fc-belgium-2 {
-  color: #FFFF00;
-}
-.fc-belgium-2-bg {
-  background-color: #FFFF00;
-}
-
-.fc-belgium-3 {
   color: #000000;
 }
-.fc-belgium-3-bg {
+.fc-belgium-bg {
   background-color: #000000;
 }
 
+.fc-belgium-2 {
+  color: #ED2939;
+}
+.fc-belgium-2-bg {
+  background-color: #ED2939;
+}
+
+.fc-belgium-3 {
+  color: #FAE042;
+}
+.fc-belgium-3-bg {
+  background-color: #FAE042;
+}
+
 .fc-belize {
-  color: #043E84;
+  color: #003F87;
 }
 .fc-belize-bg {
-  background-color: #043E84;
+  background-color: #003F87;
 }
 
 .fc-belize-2 {
-  color: #DC3A3B;
+  color: #CE1126;
 }
 .fc-belize-2-bg {
-  background-color: #DC3A3B;
+  background-color: #CE1126;
 }
 
 .fc-belize-3 {
-  color: #FAFBFA;
+  color: #D5DBD6;
 }
 .fc-belize-3-bg {
-  background-color: #FAFBFA;
+  background-color: #D5DBD6;
+}
+
+.fc-belize-4 {
+  color: #2A9104;
+}
+.fc-belize-4-bg {
+  background-color: #2A9104;
 }
 
 .fc-benin {
-  color: #009900;
+  color: #008751;
 }
 .fc-benin-bg {
-  background-color: #009900;
+  background-color: #008751;
 }
 
 .fc-benin-2 {
-  color: #FF0000;
+  color: #FCD116;
 }
 .fc-benin-2-bg {
-  background-color: #FF0000;
+  background-color: #FCD116;
 }
 
 .fc-benin-3 {
-  color: #FFFF00;
+  color: #E8112D;
 }
 .fc-benin-3-bg {
-  background-color: #FFFF00;
-}
-
-.fc-bermuda {
-  color: #CC0001;
-}
-.fc-bermuda-bg {
-  background-color: #CC0001;
-}
-
-.fc-bermuda-2 {
-  color: #FEFEFF;
-}
-.fc-bermuda-2-bg {
-  background-color: #FEFEFF;
-}
-
-.fc-bermuda-3 {
-  color: #010066;
-}
-.fc-bermuda-3-bg {
-  background-color: #010066;
+  background-color: #E8112D;
 }
 
 .fc-bhutan {
-  color: #FFCC00;
+  color: #FFD520;
 }
 .fc-bhutan-bg {
-  background-color: #FFCC00;
+  background-color: #FFD520;
 }
 
 .fc-bhutan-2 {
-  color: #FF6600;
+  color: #FF4E12;
 }
 .fc-bhutan-2-bg {
-  background-color: #FF6600;
+  background-color: #FF4E12;
 }
 
 .fc-bhutan-3 {
-  color: #FDFDFD;
+  color: #F3F3F3;
 }
 .fc-bhutan-3-bg {
-  background-color: #FDFDFD;
+  background-color: #F3F3F3;
 }
 
 .fc-bolivia {
-  color: #FF0000;
+  color: #D52B1E;
 }
 .fc-bolivia-bg {
-  background-color: #FF0000;
+  background-color: #D52B1E;
 }
 
 .fc-bolivia-2 {
-  color: #FFFF00;
+  color: #007934;
 }
 .fc-bolivia-2-bg {
-  background-color: #FFFF00;
+  background-color: #007934;
 }
 
 .fc-bolivia-3 {
-  color: #009900;
+  color: #FFE000;
 }
 .fc-bolivia-3-bg {
-  background-color: #009900;
+  background-color: #FFE000;
 }
 
 .fc-bosnia-and-herzegovina {
-  color: #000099;
+  color: #002395;
 }
 .fc-bosnia-and-herzegovina-bg {
-  background-color: #000099;
+  background-color: #002395;
 }
 
 .fc-bosnia-and-herzegovina-2 {
-  color: #FFCC00;
+  color: #FECB00;
 }
 .fc-bosnia-and-herzegovina-2-bg {
-  background-color: #FFCC00;
+  background-color: #FECB00;
 }
 
 .fc-bosnia-and-herzegovina-3 {
-  color: #FFFFFF;
+  color: #FDFDFE;
 }
 .fc-bosnia-and-herzegovina-3-bg {
-  background-color: #FFFFFF;
+  background-color: #FDFDFE;
 }
 
 .fc-botswana {
-  color: #35CDFF;
+  color: #75AADB;
 }
 .fc-botswana-bg {
-  background-color: #35CDFF;
+  background-color: #75AADB;
 }
 
 .fc-botswana-2 {
@@ -566,116 +482,53 @@
   background-color: #FFFFFF;
 }
 
-.fc-bouvet-island {
-  color: #FF0000;
-}
-.fc-bouvet-island-bg {
-  background-color: #FF0000;
-}
-
-.fc-bouvet-island-2 {
-  color: #003366;
-}
-.fc-bouvet-island-2-bg {
-  background-color: #003366;
-}
-
-.fc-bouvet-island-3 {
-  color: #FFFFFF;
-}
-.fc-bouvet-island-3-bg {
-  background-color: #FFFFFF;
-}
-
 .fc-brazil {
-  color: #006600;
+  color: #009B3A;
 }
 .fc-brazil-bg {
-  background-color: #006600;
+  background-color: #009B3A;
 }
 
 .fc-brazil-2 {
-  color: #FFCC00;
+  color: #FDDF00;
 }
 .fc-brazil-2-bg {
-  background-color: #FFCC00;
+  background-color: #FDDF00;
 }
 
 .fc-brazil-3 {
-  color: #000099;
+  color: #012876;
 }
 .fc-brazil-3-bg {
-  background-color: #000099;
+  background-color: #012876;
 }
 
-.fc-british-indian-ocean-territory {
+.fc-brunei {
+  color: #F7E017;
+}
+.fc-brunei-bg {
+  background-color: #F7E017;
+}
+
+.fc-brunei-2 {
   color: #FFFFFF;
 }
-.fc-british-indian-ocean-territory-bg {
+.fc-brunei-2-bg {
   background-color: #FFFFFF;
 }
 
-.fc-british-indian-ocean-territory-2 {
-  color: #000066;
+.fc-brunei-3 {
+  color: #010000;
 }
-.fc-british-indian-ocean-territory-2-bg {
-  background-color: #000066;
-}
-
-.fc-british-indian-ocean-territory-3 {
-  color: #CC0000;
-}
-.fc-british-indian-ocean-territory-3-bg {
-  background-color: #CC0000;
+.fc-brunei-3-bg {
+  background-color: #010000;
 }
 
-.fc-british-virgin-islands {
-  color: #000066;
+.fc-brunei-4 {
+  color: #CF1226;
 }
-.fc-british-virgin-islands-bg {
-  background-color: #000066;
-}
-
-.fc-british-virgin-islands-2 {
-  color: #CC0000;
-}
-.fc-british-virgin-islands-2-bg {
-  background-color: #CC0000;
-}
-
-.fc-british-virgin-islands-3 {
-  color: #FEFEFE;
-}
-.fc-british-virgin-islands-3-bg {
-  background-color: #FEFEFE;
-}
-
-.fc-brunei-darussalam {
-  color: #F7DB00;
-}
-.fc-brunei-darussalam-bg {
-  background-color: #F7DB00;
-}
-
-.fc-brunei-darussalam-2 {
-  color: #FFFFFF;
-}
-.fc-brunei-darussalam-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-brunei-darussalam-3 {
-  color: #000000;
-}
-.fc-brunei-darussalam-3-bg {
-  background-color: #000000;
-}
-
-.fc-brunei-darussalam-4 {
-  color: #CD4F47;
-}
-.fc-brunei-darussalam-4-bg {
-  background-color: #CD4F47;
+.fc-brunei-4-bg {
+  background-color: #CF1226;
 }
 
 .fc-bulgaria {
@@ -686,101 +539,94 @@
 }
 
 .fc-bulgaria-2 {
-  color: #FF0000;
+  color: #D62612;
 }
 .fc-bulgaria-2-bg {
-  background-color: #FF0000;
+  background-color: #D62612;
 }
 
 .fc-bulgaria-3 {
-  color: #009900;
+  color: #00966E;
 }
 .fc-bulgaria-3-bg {
-  background-color: #009900;
+  background-color: #00966E;
 }
 
 .fc-burkina-faso {
-  color: #009900;
+  color: #009E49;
 }
 .fc-burkina-faso-bg {
-  background-color: #009900;
+  background-color: #009E49;
 }
 
 .fc-burkina-faso-2 {
-  color: #FF0000;
+  color: #EF2B2D;
 }
 .fc-burkina-faso-2-bg {
-  background-color: #FF0000;
+  background-color: #EF2B2D;
 }
 
 .fc-burundi {
-  color: #FFFFFF;
+  color: #1EB53A;
 }
 .fc-burundi-bg {
-  background-color: #FFFFFF;
+  background-color: #1EB53A;
 }
 
 .fc-burundi-2 {
-  color: #00CC00;
-}
-.fc-burundi-2-bg {
-  background-color: #00CC00;
-}
-
-.fc-burundi-3 {
-  color: #FF0000;
-}
-.fc-burundi-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-cambodia {
-  color: #000099;
-}
-.fc-cambodia-bg {
-  background-color: #000099;
-}
-
-.fc-cambodia-2 {
-  color: #CC0000;
-}
-.fc-cambodia-2-bg {
-  background-color: #CC0000;
-}
-
-.fc-cambodia-3 {
   color: #FFFFFF;
 }
-.fc-cambodia-3-bg {
+.fc-burundi-2-bg {
   background-color: #FFFFFF;
 }
 
-.fc-cambodia-4 {
-  color: #000000;
+.fc-burundi-3 {
+  color: #CE1126;
 }
-.fc-cambodia-4-bg {
-  background-color: #000000;
+.fc-burundi-3-bg {
+  background-color: #CE1126;
+}
+
+.fc-cambodia {
+  color: #032EA1;
+}
+.fc-cambodia-bg {
+  background-color: #032EA1;
+}
+
+.fc-cambodia-2 {
+  color: #E00025;
+}
+.fc-cambodia-2-bg {
+  background-color: #E00025;
+}
+
+.fc-cambodia-3 {
+  color: #A49FA0;
+}
+.fc-cambodia-3-bg {
+  background-color: #A49FA0;
 }
 
 .fc-cameroon {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-cameroon-bg {
-  background-color: #FFFF00;
+  background-color: #FCD116;
 }
 
 .fc-cameroon-2 {
-  color: #009900;
+  color: #007A5E;
 }
 .fc-cameroon-2-bg {
-  background-color: #009900;
+  background-color: #007A5E;
 }
 
 .fc-cameroon-3 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-cameroon-3-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-canada {
@@ -798,10 +644,10 @@
 }
 
 .fc-cape-verde {
-  color: #000099;
+  color: #003893;
 }
 .fc-cape-verde-bg {
-  background-color: #000099;
+  background-color: #003893;
 }
 
 .fc-cape-verde-2 {
@@ -812,31 +658,17 @@
 }
 
 .fc-cape-verde-3 {
-  color: #FF0000;
+  color: #CF2027;
 }
 .fc-cape-verde-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-cayman-islands {
-  color: #002173;
-}
-.fc-cayman-islands-bg {
-  background-color: #002173;
-}
-
-.fc-cayman-islands-2 {
-  color: #C61018;
-}
-.fc-cayman-islands-2-bg {
-  background-color: #C61018;
+  background-color: #CF2027;
 }
 
 .fc-central-african-republic {
-  color: #FFFF00;
+  color: #FFCE00;
 }
 .fc-central-african-republic-bg {
-  background-color: #FFFF00;
+  background-color: #FFCE00;
 }
 
 .fc-central-african-republic-2 {
@@ -847,52 +679,52 @@
 }
 
 .fc-central-african-republic-3 {
-  color: #009900;
+  color: #289728;
 }
 .fc-central-african-republic-3-bg {
-  background-color: #009900;
+  background-color: #289728;
 }
 
 .fc-central-african-republic-4 {
-  color: #0000FF;
+  color: #003082;
 }
 .fc-central-african-republic-4-bg {
-  background-color: #0000FF;
+  background-color: #003082;
 }
 
 .fc-central-african-republic-5 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-central-african-republic-5-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-chad {
-  color: #FF0000;
+  color: #FECB00;
 }
 .fc-chad-bg {
-  background-color: #FF0000;
+  background-color: #FECB00;
 }
 
 .fc-chad-2 {
-  color: #FFFF00;
+  color: #002664;
 }
 .fc-chad-2-bg {
-  background-color: #FFFF00;
+  background-color: #002664;
 }
 
 .fc-chad-3 {
-  color: #000066;
+  color: #C60C30;
 }
 .fc-chad-3-bg {
-  background-color: #000066;
+  background-color: #C60C30;
 }
 
 .fc-chile {
-  color: #FF0000;
+  color: #D52B1E;
 }
 .fc-chile-bg {
-  background-color: #FF0000;
+  background-color: #D52B1E;
 }
 
 .fc-chile-2 {
@@ -903,94 +735,59 @@
 }
 
 .fc-chile-3 {
-  color: #000099;
+  color: #0039A6;
 }
 .fc-chile-3-bg {
-  background-color: #000099;
+  background-color: #0039A6;
 }
 
 .fc-china {
-  color: #CC0000;
+  color: #DE2910;
 }
 .fc-china-bg {
-  background-color: #CC0000;
-}
-
-.fc-christmas-island {
-  color: #0000BF;
-}
-.fc-christmas-island-bg {
-  background-color: #0000BF;
-}
-
-.fc-christmas-island-2 {
-  color: #00BF00;
-}
-.fc-christmas-island-2-bg {
-  background-color: #00BF00;
-}
-
-.fc-christmas-island-3 {
-  color: #FFFF00;
-}
-.fc-christmas-island-3-bg {
-  background-color: #FFFF00;
-}
-
-.fc-cocos-keeling-islands {
-  color: #007B31;
-}
-.fc-cocos-keeling-islands-bg {
-  background-color: #007B31;
-}
-
-.fc-cocos-keeling-islands-2 {
-  color: #FECE10;
-}
-.fc-cocos-keeling-islands-2-bg {
-  background-color: #FECE10;
+  background-color: #DE2910;
 }
 
 .fc-colombia {
-  color: #FFCC00;
+  color: #FCD116;
 }
 .fc-colombia-bg {
-  background-color: #FFCC00;
+  background-color: #FCD116;
 }
 
 .fc-colombia-2 {
-  color: #FF0000;
+  color: #003893;
 }
 .fc-colombia-2-bg {
-  background-color: #FF0000;
+  background-color: #003893;
 }
 
 .fc-colombia-3 {
-  color: #0000CC;
+  color: #CE1126;
 }
 .fc-colombia-3-bg {
-  background-color: #0000CC;
+  background-color: #CE1126;
 }
 
 .fc-comoros {
-  color: #FFFF00;
+  color: #3A75C4;
 }
 .fc-comoros-bg {
-  background-color: #FFFF00;
+  background-color: #3A75C4;
 }
 
 .fc-comoros-2 {
-  color: #0000FF;
+  color: #FFC61E;
 }
 .fc-comoros-2-bg {
-  background-color: #0000FF;
+  background-color: #FFC61E;
 }
 
 .fc-comoros-3 {
-  color: #008400;
+  color: #3D8E33;
 }
 .fc-comoros-3-bg {
-  background-color: #008400;
+  background-color: #3D8E33;
 }
 
 .fc-comoros-4 {
@@ -1001,94 +798,73 @@
 }
 
 .fc-comoros-5 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-comoros-5-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-congo {
-  color: #FF0000;
+  color: #009543;
 }
 .fc-congo-bg {
-  background-color: #FF0000;
+  background-color: #009543;
 }
 
 .fc-congo-2 {
-  color: #00CC00;
+  color: #DC241F;
 }
 .fc-congo-2-bg {
-  background-color: #00CC00;
+  background-color: #DC241F;
 }
 
 .fc-congo-3 {
-  color: #FFFF00;
+  color: #FBDE4A;
 }
 .fc-congo-3-bg {
-  background-color: #FFFF00;
+  background-color: #FBDE4A;
 }
 
 .fc-cook-islands {
-  color: #000066;
+  color: #00247D;
 }
 .fc-cook-islands-bg {
-  background-color: #000066;
+  background-color: #00247D;
 }
 
 .fc-cook-islands-2 {
-  color: #FFFFFF;
+  color: #FDFDFE;
 }
 .fc-cook-islands-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FDFDFE;
 }
 
 .fc-cook-islands-3 {
-  color: #CC0000;
+  color: #CF142B;
 }
 .fc-cook-islands-3-bg {
-  background-color: #CC0000;
+  background-color: #CF142B;
 }
 
 .fc-costa-rica {
-  color: #FFFFFF;
+  color: #002B7F;
 }
 .fc-costa-rica-bg {
-  background-color: #FFFFFF;
+  background-color: #002B7F;
 }
 
 .fc-costa-rica-2 {
-  color: #FF0000;
-}
-.fc-costa-rica-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-costa-rica-3 {
-  color: #003399;
-}
-.fc-costa-rica-3-bg {
-  background-color: #003399;
-}
-
-.fc-cote-divoire {
   color: #FFFFFF;
 }
-.fc-cote-divoire-bg {
+.fc-costa-rica-2-bg {
   background-color: #FFFFFF;
 }
 
-.fc-cote-divoire-2 {
-  color: #FF9900;
+.fc-costa-rica-3 {
+  color: #CE1126;
 }
-.fc-cote-divoire-2-bg {
-  background-color: #FF9900;
-}
-
-.fc-cote-divoire-3 {
-  color: #00CC00;
-}
-.fc-cote-divoire-3-bg {
-  background-color: #00CC00;
+.fc-costa-rica-3-bg {
+  background-color: #CE1126;
 }
 
 .fc-croatia {
@@ -1099,10 +875,10 @@
 }
 
 .fc-croatia-2 {
-  color: #0000CC;
+  color: #171796;
 }
 .fc-croatia-2-bg {
-  background-color: #0000CC;
+  background-color: #171796;
 }
 
 .fc-croatia-3 {
@@ -1113,10 +889,10 @@
 }
 
 .fc-cuba {
-  color: #003399;
+  color: #002A8F;
 }
 .fc-cuba-bg {
-  background-color: #003399;
+  background-color: #002A8F;
 }
 
 .fc-cuba-2 {
@@ -1127,10 +903,10 @@
 }
 
 .fc-cuba-3 {
-  color: #CC0000;
+  color: #CF142B;
 }
 .fc-cuba-3-bg {
-  background-color: #CC0000;
+  background-color: #CF142B;
 }
 
 .fc-cyprus {
@@ -1141,10 +917,10 @@
 }
 
 .fc-cyprus-2 {
-  color: #CC6600;
+  color: #D47600;
 }
 .fc-cyprus-2-bg {
-  background-color: #CC6600;
+  background-color: #D47600;
 }
 
 .fc-czech-republic {
@@ -1155,45 +931,45 @@
 }
 
 .fc-czech-republic-2 {
-  color: #FF0000;
+  color: #D7141A;
 }
 .fc-czech-republic-2-bg {
-  background-color: #FF0000;
+  background-color: #D7141A;
 }
 
 .fc-czech-republic-3 {
-  color: #0000CC;
+  color: #11457E;
 }
 .fc-czech-republic-3-bg {
-  background-color: #0000CC;
+  background-color: #11457E;
 }
 
-.fc-democratic-peoples-republic-of-korea {
-  color: #FF0000;
+.fc-democratic-republic-of-the-congo {
+  color: #007FFF;
 }
-.fc-democratic-peoples-republic-of-korea-bg {
-  background-color: #FF0000;
-}
-
-.fc-democratic-peoples-republic-of-korea-2 {
-  color: #0000FF;
-}
-.fc-democratic-peoples-republic-of-korea-2-bg {
-  background-color: #0000FF;
+.fc-democratic-republic-of-the-congo-bg {
+  background-color: #007FFF;
 }
 
-.fc-democratic-peoples-republic-of-korea-3 {
-  color: #FFFFFF;
+.fc-democratic-republic-of-the-congo-2 {
+  color: #CE1021;
 }
-.fc-democratic-peoples-republic-of-korea-3-bg {
-  background-color: #FFFFFF;
+.fc-democratic-republic-of-the-congo-2-bg {
+  background-color: #CE1021;
+}
+
+.fc-democratic-republic-of-the-congo-3 {
+  color: #F7D518;
+}
+.fc-democratic-republic-of-the-congo-3-bg {
+  background-color: #F7D518;
 }
 
 .fc-denmark {
-  color: #D81E05;
+  color: #C60C30;
 }
 .fc-denmark-bg {
-  background-color: #D81E05;
+  background-color: #C60C30;
 }
 
 .fc-denmark-2 {
@@ -1204,17 +980,17 @@
 }
 
 .fc-djibouti {
-  color: #6699FF;
+  color: #6AB2E7;
 }
 .fc-djibouti-bg {
-  background-color: #6699FF;
+  background-color: #6AB2E7;
 }
 
 .fc-djibouti-2 {
-  color: #00CC00;
+  color: #12AD2B;
 }
 .fc-djibouti-2-bg {
-  background-color: #00CC00;
+  background-color: #12AD2B;
 }
 
 .fc-djibouti-3 {
@@ -1225,52 +1001,38 @@
 }
 
 .fc-dominica {
-  color: #009900;
-}
-.fc-dominica-bg {
-  background-color: #009900;
-}
-
-.fc-dominica-2 {
-  color: #FFFF00;
-}
-.fc-dominica-2-bg {
-  background-color: #FFFF00;
-}
-
-.fc-dominica-3 {
   color: #000000;
 }
-.fc-dominica-3-bg {
+.fc-dominica-bg {
   background-color: #000000;
 }
 
-.fc-dominica-4 {
-  color: #FF0000;
+.fc-dominica-2 {
+  color: #D31C30;
 }
-.fc-dominica-4-bg {
-  background-color: #FF0000;
+.fc-dominica-2-bg {
+  background-color: #D31C30;
 }
 
-.fc-dominica-5 {
-  color: #FFFFFF;
+.fc-dominica-3 {
+  color: #FCD116;
 }
-.fc-dominica-5-bg {
-  background-color: #FFFFFF;
+.fc-dominica-3-bg {
+  background-color: #FCD116;
 }
 
 .fc-dominican-republic {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-dominican-republic-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-dominican-republic-2 {
-  color: #000099;
+  color: #002D62;
 }
 .fc-dominican-republic-2-bg {
-  background-color: #000099;
+  background-color: #002D62;
 }
 
 .fc-dominican-republic-3 {
@@ -1281,24 +1043,24 @@
 }
 
 .fc-ecuador {
-  color: #FFFF00;
+  color: #FFDD00;
 }
 .fc-ecuador-bg {
-  background-color: #FFFF00;
+  background-color: #FFDD00;
 }
 
 .fc-ecuador-2 {
-  color: #FF0000;
+  color: #ED1C24;
 }
 .fc-ecuador-2-bg {
-  background-color: #FF0000;
+  background-color: #ED1C24;
 }
 
 .fc-ecuador-3 {
-  color: #0000CC;
+  color: #034EA2;
 }
 .fc-ecuador-3-bg {
-  background-color: #0000CC;
+  background-color: #034EA2;
 }
 
 .fc-egypt {
@@ -1309,10 +1071,10 @@
 }
 
 .fc-egypt-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-egypt-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-egypt-3 {
@@ -1323,10 +1085,10 @@
 }
 
 .fc-el-salvador {
-  color: #0000FF;
+  color: #0F47AF;
 }
 .fc-el-salvador-bg {
-  background-color: #0000FF;
+  background-color: #0F47AF;
 }
 
 .fc-el-salvador-2 {
@@ -1337,17 +1099,17 @@
 }
 
 .fc-equatorial-guinea {
-  color: #009900;
+  color: #3E9A00;
 }
 .fc-equatorial-guinea-bg {
-  background-color: #009900;
+  background-color: #3E9A00;
 }
 
 .fc-equatorial-guinea-2 {
-  color: #FE0000;
+  color: #E32118;
 }
 .fc-equatorial-guinea-2-bg {
-  background-color: #FE0000;
+  background-color: #E32118;
 }
 
 .fc-equatorial-guinea-3 {
@@ -1358,38 +1120,31 @@
 }
 
 .fc-equatorial-guinea-4 {
-  color: #3399FF;
+  color: #0073CE;
 }
 .fc-equatorial-guinea-4-bg {
-  background-color: #3399FF;
+  background-color: #0073CE;
 }
 
 .fc-eritrea {
-  color: #FF0000;
+  color: #EA0437;
 }
 .fc-eritrea-bg {
-  background-color: #FF0000;
+  background-color: #EA0437;
 }
 
 .fc-eritrea-2 {
-  color: #0000CC;
+  color: #12AD2B;
 }
 .fc-eritrea-2-bg {
-  background-color: #0000CC;
+  background-color: #12AD2B;
 }
 
 .fc-eritrea-3 {
-  color: #009900;
+  color: #4189DD;
 }
 .fc-eritrea-3-bg {
-  background-color: #009900;
-}
-
-.fc-eritrea-4 {
-  color: #FFFE00;
-}
-.fc-eritrea-4-bg {
-  background-color: #FFFE00;
+  background-color: #4189DD;
 }
 
 .fc-estonia {
@@ -1400,10 +1155,10 @@
 }
 
 .fc-estonia-2 {
-  color: #0066CC;
+  color: #4891D9;
 }
 .fc-estonia-2-bg {
-  background-color: #0066CC;
+  background-color: #4891D9;
 }
 
 .fc-estonia-3 {
@@ -1414,94 +1169,45 @@
 }
 
 .fc-ethiopia {
-  color: #006633;
+  color: #078930;
 }
 .fc-ethiopia-bg {
-  background-color: #006633;
+  background-color: #078930;
 }
 
 .fc-ethiopia-2 {
-  color: #FF0000;
+  color: #DA121A;
 }
 .fc-ethiopia-2-bg {
-  background-color: #FF0000;
+  background-color: #DA121A;
 }
 
 .fc-ethiopia-3 {
-  color: #FFFF00;
+  color: #FBDD09;
 }
 .fc-ethiopia-3-bg {
-  background-color: #FFFF00;
+  background-color: #FBDD09;
 }
 
 .fc-ethiopia-4 {
-  color: #3399FF;
+  color: #0F47AF;
 }
 .fc-ethiopia-4-bg {
-  background-color: #3399FF;
-}
-
-.fc-falkland-islands-malvinas {
-  color: #000066;
-}
-.fc-falkland-islands-malvinas-bg {
-  background-color: #000066;
-}
-
-.fc-falkland-islands-malvinas-2 {
-  color: #FFFFFF;
-}
-.fc-falkland-islands-malvinas-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-falkland-islands-malvinas-3 {
-  color: #107BCE;
-}
-.fc-falkland-islands-malvinas-3-bg {
-  background-color: #107BCE;
-}
-
-.fc-faroe-islands {
-  color: #FFFFFF;
-}
-.fc-faroe-islands-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-faroe-islands-2 {
-  color: #FF0000;
-}
-.fc-faroe-islands-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-faroe-islands-3 {
-  color: #0066CC;
-}
-.fc-faroe-islands-3-bg {
-  background-color: #0066CC;
-}
-
-.fc-federated-states-of-micronesia {
-  color: #6699CC;
-}
-.fc-federated-states-of-micronesia-bg {
-  background-color: #6699CC;
+  background-color: #0F47AF;
 }
 
 .fc-fiji {
-  color: #3399FF;
+  color: #68BFE5;
 }
 .fc-fiji-bg {
-  background-color: #3399FF;
+  background-color: #68BFE5;
 }
 
 .fc-fiji-2 {
-  color: #CC0000;
+  color: #CF1129;
 }
 .fc-fiji-2-bg {
-  background-color: #CC0000;
+  background-color: #CF1129;
 }
 
 .fc-fiji-3 {
@@ -1509,13 +1215,6 @@
 }
 .fc-fiji-3-bg {
   background-color: #FEFEFE;
-}
-
-.fc-fiji-4 {
-  color: #010166;
-}
-.fc-fiji-4-bg {
-  background-color: #010166;
 }
 
 .fc-finland {
@@ -1526,10 +1225,10 @@
 }
 
 .fc-finland-2 {
-  color: #003399;
+  color: #003580;
 }
 .fc-finland-2-bg {
-  background-color: #003399;
+  background-color: #003580;
 }
 
 .fc-france {
@@ -1540,122 +1239,45 @@
 }
 
 .fc-france-2 {
-  color: #FF0000;
+  color: #002395;
 }
 .fc-france-2-bg {
-  background-color: #FF0000;
+  background-color: #002395;
 }
 
 .fc-france-3 {
-  color: #000066;
+  color: #ED2939;
 }
 .fc-france-3-bg {
-  background-color: #000066;
+  background-color: #ED2939;
 }
 
-.fc-french-guiana {
-  color: #FFFFFF;
+.fc-fs-micronesia {
+  color: #75B2DD;
 }
-.fc-french-guiana-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-french-guiana-2 {
-  color: #FF0000;
-}
-.fc-french-guiana-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-french-guiana-3 {
-  color: #000066;
-}
-.fc-french-guiana-3-bg {
-  background-color: #000066;
-}
-
-.fc-french-polynesia {
-  color: #FF0000;
-}
-.fc-french-polynesia-bg {
-  background-color: #FF0000;
-}
-
-.fc-french-polynesia-2 {
-  color: #FFFFFF;
-}
-.fc-french-polynesia-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-french-southern-territories {
-  color: #000066;
-}
-.fc-french-southern-territories-bg {
-  background-color: #000066;
-}
-
-.fc-french-southern-territories-2 {
-  color: #FFFFFF;
-}
-.fc-french-southern-territories-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-french-southern-territories-3 {
-  color: #FF0000;
-}
-.fc-french-southern-territories-3-bg {
-  background-color: #FF0000;
+.fc-fs-micronesia-bg {
+  background-color: #75B2DD;
 }
 
 .fc-gabon {
-  color: #FFFF00;
+  color: #009E60;
 }
 .fc-gabon-bg {
-  background-color: #FFFF00;
+  background-color: #009E60;
 }
 
 .fc-gabon-2 {
-  color: #003399;
+  color: #3A75C4;
 }
 .fc-gabon-2-bg {
-  background-color: #003399;
+  background-color: #3A75C4;
 }
 
 .fc-gabon-3 {
-  color: #008833;
+  color: #FCD116;
 }
 .fc-gabon-3-bg {
-  background-color: #008833;
-}
-
-.fc-gambia {
-  color: #FF0000;
-}
-.fc-gambia-bg {
-  background-color: #FF0000;
-}
-
-.fc-gambia-2 {
-  color: #009900;
-}
-.fc-gambia-2-bg {
-  background-color: #009900;
-}
-
-.fc-gambia-3 {
-  color: #000099;
-}
-.fc-gambia-3-bg {
-  background-color: #000099;
-}
-
-.fc-gambia-4 {
-  color: #FFFFFF;
-}
-.fc-gambia-4-bg {
-  background-color: #FFFFFF;
+  background-color: #FCD116;
 }
 
 .fc-georgia {
@@ -1673,66 +1295,52 @@
 }
 
 .fc-germany {
-  color: #FF0000;
+  color: #FFCE00;
 }
 .fc-germany-bg {
-  background-color: #FF0000;
+  background-color: #FFCE00;
 }
 
 .fc-germany-2 {
-  color: #FFCC00;
-}
-.fc-germany-2-bg {
-  background-color: #FFCC00;
-}
-
-.fc-germany-3 {
   color: #000000;
 }
-.fc-germany-3-bg {
+.fc-germany-2-bg {
   background-color: #000000;
 }
 
+.fc-germany-3 {
+  color: #DD0000;
+}
+.fc-germany-3-bg {
+  background-color: #DD0000;
+}
+
 .fc-ghana {
-  color: #FF0000;
+  color: #006B3F;
 }
 .fc-ghana-bg {
-  background-color: #FF0000;
+  background-color: #006B3F;
 }
 
 .fc-ghana-2 {
-  color: #009900;
+  color: #CE1126;
 }
 .fc-ghana-2-bg {
-  background-color: #009900;
+  background-color: #CE1126;
 }
 
 .fc-ghana-3 {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-ghana-3-bg {
-  background-color: #FFFF00;
-}
-
-.fc-gibraltar {
-  color: #FFFFFF;
-}
-.fc-gibraltar-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-gibraltar-2 {
-  color: #FF0000;
-}
-.fc-gibraltar-2-bg {
-  background-color: #FF0000;
+  background-color: #FCD116;
 }
 
 .fc-greece {
-  color: #000099;
+  color: #0D5EAF;
 }
 .fc-greece-bg {
-  background-color: #000099;
+  background-color: #0D5EAF;
 }
 
 .fc-greece-2 {
@@ -1742,67 +1350,32 @@
   background-color: #FFFFFF;
 }
 
-.fc-greenland {
-  color: #FFFFFF;
-}
-.fc-greenland-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-greenland-2 {
-  color: #FF0000;
-}
-.fc-greenland-2-bg {
-  background-color: #FF0000;
-}
-
 .fc-grenada {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-grenada-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-grenada-2 {
-  color: #FFCC00;
+  color: #FCD116;
 }
 .fc-grenada-2-bg {
-  background-color: #FFCC00;
+  background-color: #FCD116;
 }
 
 .fc-grenada-3 {
-  color: #009900;
+  color: #007A5E;
 }
 .fc-grenada-3-bg {
-  background-color: #009900;
-}
-
-.fc-guam {
-  color: #0000FF;
-}
-.fc-guam-bg {
-  background-color: #0000FF;
-}
-
-.fc-guam-2 {
-  color: #FF0000;
-}
-.fc-guam-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-guam-3 {
-  color: #C6C6FF;
-}
-.fc-guam-3-bg {
-  background-color: #C6C6FF;
+  background-color: #007A5E;
 }
 
 .fc-guatemala {
-  color: #0066FF;
+  color: #4997D0;
 }
 .fc-guatemala-bg {
-  background-color: #0066FF;
+  background-color: #4997D0;
 }
 
 .fc-guatemala-2 {
@@ -1813,115 +1386,94 @@
 }
 
 .fc-guinea {
-  color: #FF0000;
+  color: #009460;
 }
 .fc-guinea-bg {
-  background-color: #FF0000;
+  background-color: #009460;
 }
 
 .fc-guinea-2 {
-  color: #FFFF00;
+  color: #CE1126;
 }
 .fc-guinea-2-bg {
-  background-color: #FFFF00;
+  background-color: #CE1126;
 }
 
 .fc-guinea-3 {
-  color: #009900;
+  color: #FCD116;
 }
 .fc-guinea-3-bg {
-  background-color: #009900;
+  background-color: #FCD116;
 }
 
 .fc-guinea-bissau {
-  color: #FFFF00;
+  color: #009E49;
 }
 .fc-guinea-bissau-bg {
-  background-color: #FFFF00;
+  background-color: #009E49;
 }
 
 .fc-guinea-bissau-2 {
-  color: #009900;
+  color: #FCD116;
 }
 .fc-guinea-bissau-2-bg {
-  background-color: #009900;
+  background-color: #FCD116;
 }
 
 .fc-guinea-bissau-3 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-guinea-bissau-3-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-guyana {
-  color: #009900;
+  color: #009E49;
 }
 .fc-guyana-bg {
-  background-color: #009900;
+  background-color: #009E49;
 }
 
 .fc-guyana-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-guyana-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-guyana-3 {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-guyana-3-bg {
-  background-color: #FFFF00;
+  background-color: #FCD116;
 }
 
 .fc-guyana-4 {
-  color: #FFFFFF;
+  color: #FEFEFD;
 }
 .fc-guyana-4-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-guyana-5 {
-  color: #000000;
-}
-.fc-guyana-5-bg {
-  background-color: #000000;
+  background-color: #FEFEFD;
 }
 
 .fc-haiti {
-  color: #FF0000;
+  color: #00209F;
 }
 .fc-haiti-bg {
-  background-color: #FF0000;
+  background-color: #00209F;
 }
 
 .fc-haiti-2 {
-  color: #000099;
+  color: #D21034;
 }
 .fc-haiti-2-bg {
-  background-color: #000099;
-}
-
-.fc-holy-see-vatican-city-state {
-  color: #FFFF00;
-}
-.fc-holy-see-vatican-city-state-bg {
-  background-color: #FFFF00;
-}
-
-.fc-holy-see-vatican-city-state-2 {
-  color: #FFFFFF;
-}
-.fc-holy-see-vatican-city-state-2-bg {
-  background-color: #FFFFFF;
+  background-color: #D21034;
 }
 
 .fc-honduras {
-  color: #000099;
+  color: #0073CF;
 }
 .fc-honduras-bg {
-  background-color: #000099;
+  background-color: #0073CF;
 }
 
 .fc-honduras-2 {
@@ -1931,53 +1483,39 @@
   background-color: #FFFFFF;
 }
 
-.fc-hong-kong {
-  color: #FF0101;
-}
-.fc-hong-kong-bg {
-  background-color: #FF0101;
-}
-
-.fc-hong-kong-2 {
-  color: #FFFDFD;
-}
-.fc-hong-kong-2-bg {
-  background-color: #FFFDFD;
-}
-
 .fc-hungary {
-  color: #FF0000;
+  color: #436F4D;
 }
 .fc-hungary-bg {
-  background-color: #FF0000;
+  background-color: #436F4D;
 }
 
 .fc-hungary-2 {
-  color: #FFFFFF;
+  color: #CD2A3E;
 }
 .fc-hungary-2-bg {
-  background-color: #FFFFFF;
+  background-color: #CD2A3E;
 }
 
 .fc-hungary-3 {
-  color: #008400;
+  color: #FFFFFF;
 }
 .fc-hungary-3-bg {
-  background-color: #008400;
+  background-color: #FFFFFF;
 }
 
 .fc-iceland {
-  color: #0000CC;
+  color: #003897;
 }
 .fc-iceland-bg {
-  background-color: #0000CC;
+  background-color: #003897;
 }
 
 .fc-iceland-2 {
-  color: #FF0000;
+  color: #D72828;
 }
 .fc-iceland-2-bg {
-  background-color: #FF0000;
+  background-color: #D72828;
 }
 
 .fc-iceland-3 {
@@ -1987,102 +1525,102 @@
   background-color: #FFFFFF;
 }
 
+.fc-iceland-4 {
+  color: #EA8C8C;
+}
+.fc-iceland-4-bg {
+  background-color: #EA8C8C;
+}
+
 .fc-india {
-  color: #FFCC00;
+  color: #FF9933;
 }
 .fc-india-bg {
-  background-color: #FFCC00;
+  background-color: #FF9933;
 }
 
 .fc-india-2 {
-  color: #339933;
+  color: #128807;
 }
 .fc-india-2-bg {
-  background-color: #339933;
+  background-color: #128807;
 }
 
 .fc-india-3 {
-  color: #FDFDFD;
+  color: #FFFFFF;
 }
 .fc-india-3-bg {
-  background-color: #FDFDFD;
+  background-color: #FFFFFF;
 }
 
 .fc-indonesia {
-  color: #FF0000;
+  color: #FFFFFF;
 }
 .fc-indonesia-bg {
-  background-color: #FF0000;
+  background-color: #FFFFFF;
 }
 
 .fc-indonesia-2 {
-  color: #FFFFFF;
+  color: #CE1126;
 }
 .fc-indonesia-2-bg {
+  background-color: #CE1126;
+}
+
+.fc-iran {
+  color: #FFFFFF;
+}
+.fc-iran-bg {
   background-color: #FFFFFF;
+}
+
+.fc-iran-2 {
+  color: #DA0101;
+}
+.fc-iran-2-bg {
+  background-color: #DA0101;
+}
+
+.fc-iran-3 {
+  color: #239F40;
+}
+.fc-iran-3-bg {
+  background-color: #239F40;
 }
 
 .fc-iraq {
-  color: #CC0000;
-}
-.fc-iraq-bg {
-  background-color: #CC0000;
-}
-
-.fc-iraq-2 {
   color: #000000;
 }
-.fc-iraq-2-bg {
+.fc-iraq-bg {
   background-color: #000000;
 }
 
-.fc-iraq-3 {
-  color: #FFFFFF;
+.fc-iraq-2 {
+  color: #DCEDE5;
 }
-.fc-iraq-3-bg {
-  background-color: #FFFFFF;
+.fc-iraq-2-bg {
+  background-color: #DCEDE5;
 }
 
 .fc-ireland {
-  color: #FFFFFF;
+  color: #FF883E;
 }
 .fc-ireland-bg {
-  background-color: #FFFFFF;
+  background-color: #FF883E;
 }
 
 .fc-ireland-2 {
-  color: #FF6600;
-}
-.fc-ireland-2-bg {
-  background-color: #FF6600;
-}
-
-.fc-ireland-3 {
-  color: #009900;
-}
-.fc-ireland-3-bg {
-  background-color: #009900;
-}
-
-.fc-islamic-republic-of-iran {
   color: #FFFFFF;
 }
-.fc-islamic-republic-of-iran-bg {
+.fc-ireland-2-bg {
   background-color: #FFFFFF;
 }
 
-.fc-islamic-republic-of-iran-2 {
-  color: #FF0000;
+.fc-ireland-3 {
+  color: #169B62;
 }
-.fc-islamic-republic-of-iran-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-islamic-republic-of-iran-3 {
-  color: #009933;
-}
-.fc-islamic-republic-of-iran-3-bg {
-  background-color: #009933;
+.fc-ireland-3-bg {
+  background-color: #169B62;
 }
 
 .fc-israel {
@@ -2093,10 +1631,10 @@
 }
 
 .fc-israel-2 {
-  color: #0000CC;
+  color: #0038B8;
 }
 .fc-israel-2-bg {
-  background-color: #0000CC;
+  background-color: #0038B8;
 }
 
 .fc-italy {
@@ -2107,38 +1645,59 @@
 }
 
 .fc-italy-2 {
-  color: #FF0000;
+  color: #009246;
 }
 .fc-italy-2-bg {
-  background-color: #FF0000;
+  background-color: #009246;
 }
 
 .fc-italy-3 {
-  color: #009900;
+  color: #CE2B37;
 }
 .fc-italy-3-bg {
-  background-color: #009900;
+  background-color: #CE2B37;
+}
+
+.fc-ivory-coast {
+  color: #FFFFFF;
+}
+.fc-ivory-coast-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-ivory-coast-2 {
+  color: #F77F00;
+}
+.fc-ivory-coast-2-bg {
+  background-color: #F77F00;
+}
+
+.fc-ivory-coast-3 {
+  color: #009E60;
+}
+.fc-ivory-coast-3-bg {
+  background-color: #009E60;
 }
 
 .fc-jamaica {
-  color: #FFCC00;
+  color: #000000;
 }
 .fc-jamaica-bg {
-  background-color: #FFCC00;
+  background-color: #000000;
 }
 
 .fc-jamaica-2 {
-  color: #009900;
+  color: #009B3A;
 }
 .fc-jamaica-2-bg {
-  background-color: #009900;
+  background-color: #009B3A;
 }
 
 .fc-jamaica-3 {
-  color: #000000;
+  color: #FED100;
 }
 .fc-jamaica-3-bg {
-  background-color: #000000;
+  background-color: #FED100;
 }
 
 .fc-japan {
@@ -2149,17 +1708,17 @@
 }
 
 .fc-japan-2 {
-  color: #FF0000;
+  color: #BC002D;
 }
 .fc-japan-2-bg {
-  background-color: #FF0000;
+  background-color: #BC002D;
 }
 
 .fc-jordan {
-  color: #009900;
+  color: #007A3D;
 }
 .fc-jordan-bg {
-  background-color: #009900;
+  background-color: #007A3D;
 }
 
 .fc-jordan-2 {
@@ -2170,10 +1729,10 @@
 }
 
 .fc-jordan-3 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-jordan-3-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-jordan-4 {
@@ -2184,17 +1743,24 @@
 }
 
 .fc-kazakhstan {
-  color: #0099FF;
+  color: #00AFCA;
 }
 .fc-kazakhstan-bg {
-  background-color: #0099FF;
+  background-color: #00AFCA;
 }
 
 .fc-kazakhstan-2 {
-  color: #FFFF00;
+  color: #FAC50F;
 }
 .fc-kazakhstan-2-bg {
-  background-color: #FFFF00;
+  background-color: #FAC50F;
+}
+
+.fc-kazakhstan-3 {
+  color: #97BC59;
+}
+.fc-kazakhstan-3-bg {
+  background-color: #97BC59;
 }
 
 .fc-kenya {
@@ -2205,17 +1771,17 @@
 }
 
 .fc-kenya-2 {
-  color: #009900;
+  color: #BB0000;
 }
 .fc-kenya-2-bg {
-  background-color: #009900;
+  background-color: #BB0000;
 }
 
 .fc-kenya-3 {
-  color: #CC0000;
+  color: #006600;
 }
 .fc-kenya-3-bg {
-  background-color: #CC0000;
+  background-color: #006600;
 }
 
 .fc-kenya-4 {
@@ -2225,46 +1791,74 @@
   background-color: #FFFFFF;
 }
 
-.fc-kiribati {
-  color: #B23A3C;
+.fc-kingdom-of-the-netherlands {
+  color: #AE1C28;
 }
-.fc-kiribati-bg {
-  background-color: #B23A3C;
-}
-
-.fc-kiribati-2 {
-  color: #3D4971;
-}
-.fc-kiribati-2-bg {
-  background-color: #3D4971;
+.fc-kingdom-of-the-netherlands-bg {
+  background-color: #AE1C28;
 }
 
-.fc-kiribati-3 {
+.fc-kingdom-of-the-netherlands-2 {
+  color: #21468B;
+}
+.fc-kingdom-of-the-netherlands-2-bg {
+  background-color: #21468B;
+}
+
+.fc-kingdom-of-the-netherlands-3 {
   color: #FFFFFF;
 }
-.fc-kiribati-3-bg {
+.fc-kingdom-of-the-netherlands-3-bg {
   background-color: #FFFFFF;
 }
 
-.fc-kiribati-4 {
-  color: #F5B224;
+.fc-kiribati {
+  color: #CE1126;
 }
-.fc-kiribati-4-bg {
-  background-color: #F5B224;
+.fc-kiribati-bg {
+  background-color: #CE1126;
+}
+
+.fc-kiribati-2 {
+  color: #FFFEFF;
+}
+.fc-kiribati-2-bg {
+  background-color: #FFFEFF;
+}
+
+.fc-kiribati-3 {
+  color: #FACF15;
+}
+.fc-kiribati-3-bg {
+  background-color: #FACF15;
+}
+
+.fc-kosovo {
+  color: #244AA5;
+}
+.fc-kosovo-bg {
+  background-color: #244AA5;
+}
+
+.fc-kosovo-2 {
+  color: #D0A650;
+}
+.fc-kosovo-2-bg {
+  background-color: #D0A650;
 }
 
 .fc-kuwait {
-  color: #009900;
+  color: #007A3D;
 }
 .fc-kuwait-bg {
-  background-color: #009900;
+  background-color: #007A3D;
 }
 
 .fc-kuwait-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-kuwait-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-kuwait-3 {
@@ -2282,45 +1876,45 @@
 }
 
 .fc-kyrgyzstan {
-  color: #FF0000;
+  color: #E8112D;
 }
 .fc-kyrgyzstan-bg {
-  background-color: #FF0000;
+  background-color: #E8112D;
 }
 
 .fc-kyrgyzstan-2 {
-  color: #FFFF00;
+  color: #FFED00;
 }
 .fc-kyrgyzstan-2-bg {
-  background-color: #FFFF00;
+  background-color: #FFED00;
 }
 
-.fc-lao-peoples-democratic-republic {
-  color: #FF0000;
+.fc-laos {
+  color: #CE1126;
 }
-.fc-lao-peoples-democratic-republic-bg {
-  background-color: #FF0000;
-}
-
-.fc-lao-peoples-democratic-republic-2 {
-  color: #000099;
-}
-.fc-lao-peoples-democratic-republic-2-bg {
-  background-color: #000099;
+.fc-laos-bg {
+  background-color: #CE1126;
 }
 
-.fc-lao-peoples-democratic-republic-3 {
-  color: #FFFFFF;
+.fc-laos-2 {
+  color: #002868;
 }
-.fc-lao-peoples-democratic-republic-3-bg {
-  background-color: #FFFFFF;
+.fc-laos-2-bg {
+  background-color: #002868;
+}
+
+.fc-laos-3 {
+  color: #FEFFFF;
+}
+.fc-laos-3-bg {
+  background-color: #FEFFFF;
 }
 
 .fc-latvia {
-  color: #990000;
+  color: #9E3039;
 }
 .fc-latvia-bg {
-  background-color: #990000;
+  background-color: #9E3039;
 }
 
 .fc-latvia-2 {
@@ -2331,10 +1925,10 @@
 }
 
 .fc-lebanon {
-  color: #FF0000;
+  color: #ED1C24;
 }
 .fc-lebanon-bg {
-  background-color: #FF0000;
+  background-color: #ED1C24;
 }
 
 .fc-lebanon-2 {
@@ -2345,10 +1939,10 @@
 }
 
 .fc-lebanon-3 {
-  color: #009900;
+  color: #01A652;
 }
 .fc-lebanon-3-bg {
-  background-color: #009900;
+  background-color: #01A652;
 }
 
 .fc-lesotho {
@@ -2359,24 +1953,24 @@
 }
 
 .fc-lesotho-2 {
-  color: #000099;
+  color: #00209F;
 }
 .fc-lesotho-2-bg {
-  background-color: #000099;
+  background-color: #00209F;
 }
 
 .fc-lesotho-3 {
-  color: #009933;
+  color: #009543;
 }
 .fc-lesotho-3-bg {
-  background-color: #009933;
+  background-color: #009543;
 }
 
 .fc-liberia {
-  color: #CC0000;
+  color: #BF0A30;
 }
 .fc-liberia-bg {
-  background-color: #CC0000;
+  background-color: #BF0A30;
 }
 
 .fc-liberia-2 {
@@ -2387,101 +1981,108 @@
 }
 
 .fc-liberia-3 {
-  color: #000066;
+  color: #002868;
 }
 .fc-liberia-3-bg {
-  background-color: #000066;
+  background-color: #002868;
 }
 
-.fc-libyan-arab-jamahiriya {
+.fc-liberia-4 {
+  color: #EAADBA;
+}
+.fc-liberia-4-bg {
+  background-color: #EAADBA;
+}
+
+.fc-libya {
   color: #000000;
 }
-.fc-libyan-arab-jamahiriya-bg {
+.fc-libya-bg {
   background-color: #000000;
 }
 
-.fc-libyan-arab-jamahiriya-2 {
-  color: #239E46;
-}
-.fc-libyan-arab-jamahiriya-2-bg {
-  background-color: #239E46;
-}
-
-.fc-libyan-arab-jamahiriya-3 {
+.fc-libya-2 {
   color: #E70013;
 }
-.fc-libyan-arab-jamahiriya-3-bg {
+.fc-libya-2-bg {
   background-color: #E70013;
 }
 
+.fc-libya-3 {
+  color: #239E46;
+}
+.fc-libya-3-bg {
+  background-color: #239E46;
+}
+
 .fc-liechtenstein {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-liechtenstein-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-liechtenstein-2 {
-  color: #000099;
+  color: #002B7F;
 }
 .fc-liechtenstein-2-bg {
-  background-color: #000099;
+  background-color: #002B7F;
 }
 
 .fc-lithuania {
-  color: #FF0000;
+  color: #FDB913;
 }
 .fc-lithuania-bg {
-  background-color: #FF0000;
+  background-color: #FDB913;
 }
 
 .fc-lithuania-2 {
-  color: #FFFF00;
+  color: #C1272D;
 }
 .fc-lithuania-2-bg {
-  background-color: #FFFF00;
+  background-color: #C1272D;
 }
 
 .fc-lithuania-3 {
-  color: #009900;
+  color: #006A44;
 }
 .fc-lithuania-3-bg {
-  background-color: #009900;
+  background-color: #006A44;
 }
 
 .fc-luxembourg {
-  color: #FFFFFF;
+  color: #00A1DE;
 }
 .fc-luxembourg-bg {
-  background-color: #FFFFFF;
+  background-color: #00A1DE;
 }
 
 .fc-luxembourg-2 {
-  color: #FF0000;
+  color: #ED2939;
 }
 .fc-luxembourg-2-bg {
-  background-color: #FF0000;
+  background-color: #ED2939;
 }
 
 .fc-luxembourg-3 {
-  color: #0099FF;
+  color: #FFFFFF;
 }
 .fc-luxembourg-3-bg {
-  background-color: #0099FF;
+  background-color: #FFFFFF;
 }
 
-.fc-macao {
-  color: #009900;
+.fc-macedonia {
+  color: #D20000;
 }
-.fc-macao-bg {
-  background-color: #009900;
+.fc-macedonia-bg {
+  background-color: #D20000;
 }
 
-.fc-macao-2 {
-  color: #FEFFFE;
+.fc-macedonia-2 {
+  color: #FFE600;
 }
-.fc-macao-2-bg {
-  background-color: #FEFFFE;
+.fc-macedonia-2-bg {
+  background-color: #FFE600;
 }
 
 .fc-madagascar {
@@ -2492,31 +2093,31 @@
 }
 
 .fc-madagascar-2 {
-  color: #FF0000;
+  color: #007E3A;
 }
 .fc-madagascar-2-bg {
-  background-color: #FF0000;
+  background-color: #007E3A;
 }
 
 .fc-madagascar-3 {
-  color: #009900;
+  color: #FC3D32;
 }
 .fc-madagascar-3-bg {
-  background-color: #009900;
+  background-color: #FC3D32;
 }
 
 .fc-malawi {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-malawi-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-malawi-2 {
-  color: #009900;
+  color: #339E35;
 }
 .fc-malawi-2-bg {
-  background-color: #009900;
+  background-color: #339E35;
 }
 
 .fc-malawi-3 {
@@ -2527,17 +2128,17 @@
 }
 
 .fc-malaysia {
-  color: #FFFFFF;
+  color: #CC0001;
 }
 .fc-malaysia-bg {
-  background-color: #FFFFFF;
+  background-color: #CC0001;
 }
 
 .fc-malaysia-2 {
-  color: #CC0001;
+  color: #FFFFFF;
 }
 .fc-malaysia-2-bg {
-  background-color: #CC0001;
+  background-color: #FFFFFF;
 }
 
 .fc-malaysia-3 {
@@ -2548,52 +2149,52 @@
 }
 
 .fc-malaysia-4 {
-  color: #FECD01;
+  color: #E26E6F;
 }
 .fc-malaysia-4-bg {
-  background-color: #FECD01;
+  background-color: #E26E6F;
 }
 
 .fc-maldives {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-maldives-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-maldives-2 {
-  color: #009900;
+  color: #007E3A;
 }
 .fc-maldives-2-bg {
-  background-color: #009900;
+  background-color: #007E3A;
 }
 
 .fc-mali {
-  color: #FF0000;
+  color: #14B53A;
 }
 .fc-mali-bg {
-  background-color: #FF0000;
+  background-color: #14B53A;
 }
 
 .fc-mali-2 {
-  color: #FFFF00;
+  color: #CE1126;
 }
 .fc-mali-2-bg {
-  background-color: #FFFF00;
+  background-color: #CE1126;
 }
 
 .fc-mali-3 {
-  color: #009900;
+  color: #FCD116;
 }
 .fc-mali-3-bg {
-  background-color: #009900;
+  background-color: #FCD116;
 }
 
 .fc-malta {
-  color: #FF0000;
+  color: #CF142B;
 }
 .fc-malta-bg {
-  background-color: #FF0000;
+  background-color: #CF142B;
 }
 
 .fc-malta-2 {
@@ -2604,94 +2205,80 @@
 }
 
 .fc-marshall-islands {
-  color: #000066;
+  color: #003893;
 }
 .fc-marshall-islands-bg {
-  background-color: #000066;
+  background-color: #003893;
 }
 
 .fc-marshall-islands-2 {
-  color: #FFFFFF;
+  color: #FEFEFE;
 }
 .fc-marshall-islands-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFEFE;
 }
 
 .fc-marshall-islands-3 {
-  color: #FF6600;
+  color: #DD7500;
 }
 .fc-marshall-islands-3-bg {
-  background-color: #FF6600;
+  background-color: #DD7500;
 }
 
 .fc-mauritania {
-  color: #009900;
+  color: #006233;
 }
 .fc-mauritania-bg {
-  background-color: #009900;
+  background-color: #006233;
 }
 
 .fc-mauritania-2 {
-  color: #FFFF00;
+  color: #FFC400;
 }
 .fc-mauritania-2-bg {
-  background-color: #FFFF00;
+  background-color: #FFC400;
 }
 
 .fc-mauritius {
-  color: #FFFF00;
+  color: #FFD500;
 }
 .fc-mauritius-bg {
-  background-color: #FFFF00;
+  background-color: #FFD500;
 }
 
 .fc-mauritius-2 {
-  color: #CC0000;
+  color: #00A551;
 }
 .fc-mauritius-2-bg {
-  background-color: #CC0000;
+  background-color: #00A551;
 }
 
 .fc-mauritius-3 {
-  color: #000066;
+  color: #EA2839;
 }
 .fc-mauritius-3-bg {
-  background-color: #000066;
+  background-color: #EA2839;
 }
 
 .fc-mauritius-4 {
-  color: #009900;
+  color: #1A206D;
 }
 .fc-mauritius-4-bg {
-  background-color: #009900;
-}
-
-.fc-mayotte {
-  color: #FFFFFF;
-}
-.fc-mayotte-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-mayotte-2 {
-  color: #FF0101;
-}
-.fc-mayotte-2-bg {
-  background-color: #FF0101;
+  background-color: #1A206D;
 }
 
 .fc-mexico {
-  color: #FF0000;
+  color: #006847;
 }
 .fc-mexico-bg {
-  background-color: #FF0000;
+  background-color: #006847;
 }
 
 .fc-mexico-2 {
-  color: #003300;
+  color: #CE1126;
 }
 .fc-mexico-2-bg {
-  background-color: #003300;
+  background-color: #CE1126;
 }
 
 .fc-mexico-3 {
@@ -2699,6 +2286,27 @@
 }
 .fc-mexico-3-bg {
   background-color: #FFFFFF;
+}
+
+.fc-moldova {
+  color: #CC092F;
+}
+.fc-moldova-bg {
+  background-color: #CC092F;
+}
+
+.fc-moldova-2 {
+  color: #0046AE;
+}
+.fc-moldova-2-bg {
+  background-color: #0046AE;
+}
+
+.fc-moldova-3 {
+  color: #FFD200;
+}
+.fc-moldova-3-bg {
+  background-color: #FFD200;
 }
 
 .fc-monaco {
@@ -2709,73 +2317,66 @@
 }
 
 .fc-monaco-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-monaco-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-mongolia {
-  color: #FF0000;
+  color: #C4272F;
 }
 .fc-mongolia-bg {
-  background-color: #FF0000;
+  background-color: #C4272F;
 }
 
 .fc-mongolia-2 {
-  color: #0000FF;
+  color: #015197;
 }
 .fc-mongolia-2-bg {
-  background-color: #0000FF;
+  background-color: #015197;
 }
 
 .fc-mongolia-3 {
-  color: #FFFF00;
+  color: #F9CF02;
 }
 .fc-mongolia-3-bg {
-  background-color: #FFFF00;
+  background-color: #F9CF02;
 }
 
-.fc-montserrat {
-  color: #000066;
+.fc-montenegro {
+  color: #C40308;
 }
-.fc-montserrat-bg {
-  background-color: #000066;
-}
-
-.fc-montserrat-2 {
-  color: #CC0000;
-}
-.fc-montserrat-2-bg {
-  background-color: #CC0000;
+.fc-montenegro-bg {
+  background-color: #C40308;
 }
 
-.fc-montserrat-3 {
-  color: #FFFFFF;
+.fc-montenegro-2 {
+  color: #D3AD3B;
 }
-.fc-montserrat-3-bg {
-  background-color: #FFFFFF;
+.fc-montenegro-2-bg {
+  background-color: #D3AD3B;
 }
 
 .fc-morocco {
-  color: #FF0000;
+  color: #C1272D;
 }
 .fc-morocco-bg {
-  background-color: #FF0000;
+  background-color: #C1272D;
 }
 
 .fc-mozambique {
-  color: #FFCC00;
+  color: #FCE100;
 }
 .fc-mozambique-bg {
-  background-color: #FFCC00;
+  background-color: #FCE100;
 }
 
 .fc-mozambique-2 {
-  color: #009900;
+  color: #007168;
 }
 .fc-mozambique-2-bg {
-  background-color: #009900;
+  background-color: #007168;
 }
 
 .fc-mozambique-3 {
@@ -2786,178 +2387,157 @@
 }
 
 .fc-mozambique-4 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-mozambique-4-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-myanmar {
-  color: #FFDA23;
+  color: #FECB00;
 }
 .fc-myanmar-bg {
-  background-color: #FFDA23;
+  background-color: #FECB00;
 }
 
 .fc-myanmar-2 {
-  color: #EF5049;
+  color: #EA2839;
 }
 .fc-myanmar-2-bg {
-  background-color: #EF5049;
+  background-color: #EA2839;
 }
 
 .fc-myanmar-3 {
-  color: #45B653;
+  color: #34B233;
 }
 .fc-myanmar-3-bg {
-  background-color: #45B653;
+  background-color: #34B233;
 }
 
 .fc-myanmar-4 {
-  color: #FFFFFF;
+  color: #FEFFFE;
 }
 .fc-myanmar-4-bg {
+  background-color: #FEFFFE;
+}
+
+.fc-nagorno-karabakh-republic {
+  color: #F2A800;
+}
+.fc-nagorno-karabakh-republic-bg {
+  background-color: #F2A800;
+}
+
+.fc-nagorno-karabakh-republic-2 {
+  color: #D90012;
+}
+.fc-nagorno-karabakh-republic-2-bg {
+  background-color: #D90012;
+}
+
+.fc-nagorno-karabakh-republic-3 {
+  color: #0033A0;
+}
+.fc-nagorno-karabakh-republic-3-bg {
+  background-color: #0033A0;
+}
+
+.fc-nagorno-karabakh-republic-4 {
+  color: #FFFFFF;
+}
+.fc-nagorno-karabakh-republic-4-bg {
   background-color: #FFFFFF;
 }
 
 .fc-namibia {
-  color: #009900;
+  color: #009543;
 }
 .fc-namibia-bg {
-  background-color: #009900;
+  background-color: #009543;
 }
 
 .fc-namibia-2 {
-  color: #000099;
+  color: #003580;
 }
 .fc-namibia-2-bg {
-  background-color: #000099;
+  background-color: #003580;
 }
 
 .fc-namibia-3 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-namibia-3-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-namibia-4 {
-  color: #FFFFFF;
+  color: #FEFDFD;
 }
 .fc-namibia-4-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFDFD;
 }
 
 .fc-nauru {
-  color: #003366;
+  color: #002B7F;
 }
 .fc-nauru-bg {
-  background-color: #003366;
+  background-color: #002B7F;
 }
 
 .fc-nauru-2 {
-  color: #FFCC33;
+  color: #FFC61E;
 }
 .fc-nauru-2-bg {
-  background-color: #FFCC33;
+  background-color: #FFC61E;
 }
 
 .fc-nepal {
-  color: #000000;
+  color: #003A96;
 }
 .fc-nepal-bg {
-  background-color: #000000;
+  background-color: #003A96;
 }
 
 .fc-nepal-2 {
-  color: #CE0000;
+  color: #DC143C;
 }
 .fc-nepal-2-bg {
-  background-color: #CE0000;
+  background-color: #DC143C;
 }
 
 .fc-nepal-3 {
-  color: #000063;
-}
-.fc-nepal-3-bg {
-  background-color: #000063;
-}
-
-.fc-nepal-4 {
   color: #FFFEFE;
 }
-.fc-nepal-4-bg {
+.fc-nepal-3-bg {
   background-color: #FFFEFE;
 }
 
-.fc-netherlands {
-  color: #FFFFFF;
-}
-.fc-netherlands-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-netherlands-2 {
-  color: #FF0033;
-}
-.fc-netherlands-2-bg {
-  background-color: #FF0033;
-}
-
-.fc-netherlands-3 {
-  color: #003399;
-}
-.fc-netherlands-3-bg {
-  background-color: #003399;
-}
-
-.fc-netherlands-antilles {
-  color: #FFFFFF;
-}
-.fc-netherlands-antilles-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-netherlands-antilles-2 {
-  color: #000099;
-}
-.fc-netherlands-antilles-2-bg {
-  background-color: #000099;
-}
-
-.fc-netherlands-antilles-3 {
-  color: #FF0000;
-}
-.fc-netherlands-antilles-3-bg {
-  background-color: #FF0000;
-}
-
 .fc-new-zealand {
-  color: #000066;
+  color: #00247D;
 }
 .fc-new-zealand-bg {
-  background-color: #000066;
+  background-color: #00247D;
 }
 
 .fc-new-zealand-2 {
-  color: #CC0000;
+  color: #CC142B;
 }
 .fc-new-zealand-2-bg {
-  background-color: #CC0000;
+  background-color: #CC142B;
 }
 
 .fc-new-zealand-3 {
-  color: #FEFEFE;
+  color: #FEFDFE;
 }
 .fc-new-zealand-3-bg {
-  background-color: #FEFEFE;
+  background-color: #FEFDFE;
 }
 
 .fc-nicaragua {
-  color: #0066CC;
+  color: #0067C6;
 }
 .fc-nicaragua-bg {
-  background-color: #0066CC;
+  background-color: #0067C6;
 }
 
 .fc-nicaragua-2 {
@@ -2968,17 +2548,17 @@
 }
 
 .fc-niger {
-  color: #FF6600;
+  color: #E05206;
 }
 .fc-niger-bg {
-  background-color: #FF6600;
+  background-color: #E05206;
 }
 
 .fc-niger-2 {
-  color: #009900;
+  color: #0DB02B;
 }
 .fc-niger-2-bg {
-  background-color: #009900;
+  background-color: #0DB02B;
 }
 
 .fc-niger-3 {
@@ -2989,10 +2569,10 @@
 }
 
 .fc-nigeria {
-  color: #009900;
+  color: #008751;
 }
 .fc-nigeria-bg {
-  background-color: #009900;
+  background-color: #008751;
 }
 
 .fc-nigeria-2 {
@@ -3003,80 +2583,80 @@
 }
 
 .fc-niue {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-niue-bg {
-  background-color: #FFFF00;
+  background-color: #FCD116;
 }
 
 .fc-niue-2 {
-  color: #FFFFFF;
+  color: #FEFEFE;
 }
 .fc-niue-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFEFE;
 }
 
 .fc-niue-3 {
-  color: #CC0000;
+  color: #CF142B;
 }
 .fc-niue-3-bg {
-  background-color: #CC0000;
+  background-color: #CF142B;
 }
 
 .fc-niue-4 {
-  color: #000066;
+  color: #002868;
 }
 .fc-niue-4-bg {
-  background-color: #000066;
+  background-color: #002868;
 }
 
-.fc-norfolk-island {
-  color: #008348;
+.fc-north-korea {
+  color: #ED1C27;
 }
-.fc-norfolk-island-bg {
-  background-color: #008348;
-}
-
-.fc-norfolk-island-2 {
-  color: #FDFDFC;
-}
-.fc-norfolk-island-2-bg {
-  background-color: #FDFDFC;
+.fc-north-korea-bg {
+  background-color: #ED1C27;
 }
 
-.fc-northern-mariana-islands {
-  color: #295598;
+.fc-north-korea-2 {
+  color: #024FA2;
 }
-.fc-northern-mariana-islands-bg {
-  background-color: #295598;
-}
-
-.fc-northern-mariana-islands-2 {
-  color: #FDFDFD;
-}
-.fc-northern-mariana-islands-2-bg {
-  background-color: #FDFDFD;
+.fc-north-korea-2-bg {
+  background-color: #024FA2;
 }
 
-.fc-northern-mariana-islands-3 {
-  color: #98B1B9;
+.fc-north-korea-3 {
+  color: #FFFEFE;
 }
-.fc-northern-mariana-islands-3-bg {
-  background-color: #98B1B9;
+.fc-north-korea-3-bg {
+  background-color: #FFFEFE;
+}
+
+.fc-northern-cyprus {
+  color: #FFFFFF;
+}
+.fc-northern-cyprus-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-northern-cyprus-2 {
+  color: #E30A17;
+}
+.fc-northern-cyprus-2-bg {
+  background-color: #E30A17;
 }
 
 .fc-norway {
-  color: #FF0000;
+  color: #EF2B2D;
 }
 .fc-norway-bg {
-  background-color: #FF0000;
+  background-color: #EF2B2D;
 }
 
 .fc-norway-2 {
-  color: #003366;
+  color: #002868;
 }
 .fc-norway-2-bg {
-  background-color: #003366;
+  background-color: #002868;
 }
 
 .fc-norway-3 {
@@ -3086,39 +2666,11 @@
   background-color: #FFFFFF;
 }
 
-.fc-occupied-palestinian-territory {
-  color: #009900;
-}
-.fc-occupied-palestinian-territory-bg {
-  background-color: #009900;
-}
-
-.fc-occupied-palestinian-territory-2 {
-  color: #000000;
-}
-.fc-occupied-palestinian-territory-2-bg {
-  background-color: #000000;
-}
-
-.fc-occupied-palestinian-territory-3 {
-  color: #FFFFFF;
-}
-.fc-occupied-palestinian-territory-3-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-occupied-palestinian-territory-4 {
-  color: #FF0000;
-}
-.fc-occupied-palestinian-territory-4-bg {
-  background-color: #FF0000;
-}
-
 .fc-oman {
-  color: #FF0000;
+  color: #DB161B;
 }
 .fc-oman-bg {
-  background-color: #FF0000;
+  background-color: #DB161B;
 }
 
 .fc-oman-2 {
@@ -3129,17 +2681,17 @@
 }
 
 .fc-oman-3 {
-  color: #009900;
+  color: #008000;
 }
 .fc-oman-3-bg {
-  background-color: #009900;
+  background-color: #008000;
 }
 
 .fc-pakistan {
-  color: #006600;
+  color: #01411C;
 }
 .fc-pakistan-bg {
-  background-color: #006600;
+  background-color: #01411C;
 }
 
 .fc-pakistan-2 {
@@ -3150,17 +2702,17 @@
 }
 
 .fc-palau {
-  color: #0099FF;
+  color: #4AADD6;
 }
 .fc-palau-bg {
-  background-color: #0099FF;
+  background-color: #4AADD6;
 }
 
 .fc-palau-2 {
-  color: #FFFF00;
+  color: #FFDE00;
 }
 .fc-palau-2-bg {
-  background-color: #FFFF00;
+  background-color: #FFDE00;
 }
 
 .fc-panama {
@@ -3171,17 +2723,17 @@
 }
 
 .fc-panama-2 {
-  color: #083E88;
+  color: #005293;
 }
 .fc-panama-2-bg {
-  background-color: #083E88;
+  background-color: #005293;
 }
 
 .fc-panama-3 {
-  color: #ED1C24;
+  color: #D21034;
 }
 .fc-panama-3-bg {
-  background-color: #ED1C24;
+  background-color: #D21034;
 }
 
 .fc-papua-new-guinea {
@@ -3192,17 +2744,17 @@
 }
 
 .fc-papua-new-guinea-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-papua-new-guinea-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-papua-new-guinea-3 {
-  color: #FFFF00;
+  color: #FCD016;
 }
 .fc-papua-new-guinea-3-bg {
-  background-color: #FFFF00;
+  background-color: #FCD016;
 }
 
 .fc-paraguay {
@@ -3220,17 +2772,17 @@
 }
 
 .fc-paraguay-3 {
-  color: #FEFEFE;
+  color: #FFFFFF;
 }
 .fc-paraguay-3-bg {
-  background-color: #FEFEFE;
+  background-color: #FFFFFF;
 }
 
 .fc-peru {
-  color: #FF0000;
+  color: #D91023;
 }
 .fc-peru-bg {
-  background-color: #FF0000;
+  background-color: #D91023;
 }
 
 .fc-peru-2 {
@@ -3241,52 +2793,24 @@
 }
 
 .fc-philippines {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-philippines-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-philippines-2 {
-  color: #00009C;
+  color: #0038A8;
 }
 .fc-philippines-2-bg {
-  background-color: #00009C;
+  background-color: #0038A8;
 }
 
 .fc-philippines-3 {
-  color: #FFFFFF;
+  color: #FFFFFE;
 }
 .fc-philippines-3-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-philippines-4 {
-  color: #FCD114;
-}
-.fc-philippines-4-bg {
-  background-color: #FCD114;
-}
-
-.fc-pitcairn {
-  color: #10319C;
-}
-.fc-pitcairn-bg {
-  background-color: #10319C;
-}
-
-.fc-pitcairn-2 {
-  color: #DE2110;
-}
-.fc-pitcairn-2-bg {
-  background-color: #DE2110;
-}
-
-.fc-pitcairn-3 {
-  color: #FFFFFF;
-}
-.fc-pitcairn-3-bg {
-  background-color: #FFFFFF;
+  background-color: #FFFFFE;
 }
 
 .fc-poland {
@@ -3297,10 +2821,10 @@
 }
 
 .fc-poland-2 {
-  color: #FF0000;
+  color: #DC143C;
 }
 .fc-poland-2-bg {
-  background-color: #FF0000;
+  background-color: #DC143C;
 }
 
 .fc-portugal {
@@ -3317,48 +2841,6 @@
   background-color: #006600;
 }
 
-.fc-portugal-3 {
-  color: #B1AF02;
-}
-.fc-portugal-3-bg {
-  background-color: #B1AF02;
-}
-
-.fc-province-of-china-taiwan {
-  color: #FF0000;
-}
-.fc-province-of-china-taiwan-bg {
-  background-color: #FF0000;
-}
-
-.fc-province-of-china-taiwan-2 {
-  color: #000099;
-}
-.fc-province-of-china-taiwan-2-bg {
-  background-color: #000099;
-}
-
-.fc-puerto-rico {
-  color: #CC0000;
-}
-.fc-puerto-rico-bg {
-  background-color: #CC0000;
-}
-
-.fc-puerto-rico-2 {
-  color: #FFFFFF;
-}
-.fc-puerto-rico-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-puerto-rico-3 {
-  color: #0000FF;
-}
-.fc-puerto-rico-3-bg {
-  background-color: #0000FF;
-}
-
 .fc-qatar {
   color: #8D1B3D;
 }
@@ -3367,164 +2849,101 @@
 }
 
 .fc-qatar-2 {
-  color: #FFFEFF;
+  color: #FFFFFF;
 }
 .fc-qatar-2-bg {
-  background-color: #FFFEFF;
-}
-
-.fc-republic-of-korea {
-  color: #FFFFFF;
-}
-.fc-republic-of-korea-bg {
   background-color: #FFFFFF;
-}
-
-.fc-republic-of-korea-2 {
-  color: #000000;
-}
-.fc-republic-of-korea-2-bg {
-  background-color: #000000;
-}
-
-.fc-republic-of-korea-3 {
-  color: #FF0000;
-}
-.fc-republic-of-korea-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-republic-of-korea-4 {
-  color: #003399;
-}
-.fc-republic-of-korea-4-bg {
-  background-color: #003399;
-}
-
-.fc-republic-of-moldova {
-  color: #CC092F;
-}
-.fc-republic-of-moldova-bg {
-  background-color: #CC092F;
-}
-
-.fc-republic-of-moldova-2 {
-  color: #0046AE;
-}
-.fc-republic-of-moldova-2-bg {
-  background-color: #0046AE;
-}
-
-.fc-republic-of-moldova-3 {
-  color: #FFD200;
-}
-.fc-republic-of-moldova-3-bg {
-  background-color: #FFD200;
-}
-
-.fc-reunion {
-  color: #FFFFFF;
-}
-.fc-reunion-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-reunion-2 {
-  color: #FF0000;
-}
-.fc-reunion-2-bg {
-  background-color: #FF0000;
-}
-
-.fc-reunion-3 {
-  color: #000066;
-}
-.fc-reunion-3-bg {
-  background-color: #000066;
 }
 
 .fc-romania {
-  color: #FFCC00;
+  color: #002B7F;
 }
 .fc-romania-bg {
-  background-color: #FFCC00;
+  background-color: #002B7F;
 }
 
 .fc-romania-2 {
-  color: #CC0000;
+  color: #CE1126;
 }
 .fc-romania-2-bg {
-  background-color: #CC0000;
+  background-color: #CE1126;
 }
 
 .fc-romania-3 {
-  color: #003399;
+  color: #FCD116;
 }
 .fc-romania-3-bg {
-  background-color: #003399;
+  background-color: #FCD116;
 }
 
-.fc-russian-federation {
+.fc-russia {
   color: #FFFFFF;
 }
-.fc-russian-federation-bg {
+.fc-russia-bg {
   background-color: #FFFFFF;
 }
 
-.fc-russian-federation-2 {
-  color: #FF0000;
+.fc-russia-2 {
+  color: #D52B1E;
 }
-.fc-russian-federation-2-bg {
-  background-color: #FF0000;
+.fc-russia-2-bg {
+  background-color: #D52B1E;
 }
 
-.fc-russian-federation-3 {
-  color: #0000FF;
+.fc-russia-3 {
+  color: #0039A6;
 }
-.fc-russian-federation-3-bg {
-  background-color: #0000FF;
+.fc-russia-3-bg {
+  background-color: #0039A6;
 }
 
 .fc-rwanda {
-  color: #3399FF;
+  color: #00A1DE;
 }
 .fc-rwanda-bg {
-  background-color: #3399FF;
+  background-color: #00A1DE;
 }
 
 .fc-rwanda-2 {
-  color: #FFFF00;
+  color: #FAD201;
 }
 .fc-rwanda-2-bg {
-  background-color: #FFFF00;
+  background-color: #FAD201;
 }
 
 .fc-rwanda-3 {
-  color: #009900;
+  color: #20603D;
 }
 .fc-rwanda-3-bg {
-  background-color: #009900;
+  background-color: #20603D;
 }
 
-.fc-saint-helena {
-  color: #000080;
+.fc-sahrawi-arab-democratic-republic {
+  color: #000000;
 }
-.fc-saint-helena-bg {
-  background-color: #000080;
-}
-
-.fc-saint-helena-2 {
-  color: #FF0000;
-}
-.fc-saint-helena-2-bg {
-  background-color: #FF0000;
+.fc-sahrawi-arab-democratic-republic-bg {
+  background-color: #000000;
 }
 
-.fc-saint-helena-3 {
+.fc-sahrawi-arab-democratic-republic-2 {
+  color: #007A3D;
+}
+.fc-sahrawi-arab-democratic-republic-2-bg {
+  background-color: #007A3D;
+}
+
+.fc-sahrawi-arab-democratic-republic-3 {
   color: #FFFFFF;
 }
-.fc-saint-helena-3-bg {
+.fc-sahrawi-arab-democratic-republic-3-bg {
   background-color: #FFFFFF;
+}
+
+.fc-sahrawi-arab-democratic-republic-4 {
+  color: #C4111B;
+}
+.fc-sahrawi-arab-democratic-republic-4-bg {
+  background-color: #C4111B;
 }
 
 .fc-saint-kitts-and-nevis {
@@ -3535,24 +2954,24 @@
 }
 
 .fc-saint-kitts-and-nevis-2 {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-saint-kitts-and-nevis-2-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-saint-kitts-and-nevis-3 {
-  color: #009900;
+  color: #009E49;
 }
 .fc-saint-kitts-and-nevis-3-bg {
-  background-color: #009900;
+  background-color: #009E49;
 }
 
 .fc-saint-kitts-and-nevis-4 {
-  color: #FFFF00;
+  color: #FBD116;
 }
 .fc-saint-kitts-and-nevis-4-bg {
-  background-color: #FFFF00;
+  background-color: #FBD116;
 }
 
 .fc-saint-lucia {
@@ -3563,213 +2982,171 @@
 }
 
 .fc-saint-lucia-2 {
-  color: #FFCC00;
+  color: #FCD116;
 }
 .fc-saint-lucia-2-bg {
-  background-color: #FFCC00;
+  background-color: #FCD116;
 }
 
-.fc-saint-pierre-and-miquelon {
-  color: #38B8D8;
-}
-.fc-saint-pierre-and-miquelon-bg {
-  background-color: #38B8D8;
-}
-
-.fc-saint-pierre-and-miquelon-2 {
+.fc-saint-lucia-3 {
   color: #FDFEFE;
 }
-.fc-saint-pierre-and-miquelon-2-bg {
+.fc-saint-lucia-3-bg {
   background-color: #FDFEFE;
 }
 
 .fc-saint-vincent-and-the-grenadines {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-saint-vincent-and-the-grenadines-bg {
-  background-color: #FFFF00;
+  background-color: #FCD116;
 }
 
 .fc-saint-vincent-and-the-grenadines-2 {
-  color: #009900;
+  color: #009E60;
 }
 .fc-saint-vincent-and-the-grenadines-2-bg {
-  background-color: #009900;
+  background-color: #009E60;
 }
 
 .fc-saint-vincent-and-the-grenadines-3 {
-  color: #0000CC;
+  color: #0072C6;
 }
 .fc-saint-vincent-and-the-grenadines-3-bg {
-  background-color: #0000CC;
+  background-color: #0072C6;
 }
 
 .fc-samoa {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-samoa-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-samoa-2 {
-  color: #000066;
+  color: #002B7F;
 }
 .fc-samoa-2-bg {
-  background-color: #000066;
+  background-color: #002B7F;
 }
 
 .fc-san-marino {
-  color: #4CB2CC;
+  color: #FFFFFF;
 }
 .fc-san-marino-bg {
-  background-color: #4CB2CC;
+  background-color: #FFFFFF;
 }
 
 .fc-san-marino-2 {
-  color: #FFFFFF;
+  color: #5EB6E4;
 }
 .fc-san-marino-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-san-marino-3 {
-  color: #407040;
-}
-.fc-san-marino-3-bg {
-  background-color: #407040;
-}
-
-.fc-sao-tome-and-principe {
-  color: #009900;
-}
-.fc-sao-tome-and-principe-bg {
-  background-color: #009900;
-}
-
-.fc-sao-tome-and-principe-2 {
-  color: #FFFF00;
-}
-.fc-sao-tome-and-principe-2-bg {
-  background-color: #FFFF00;
-}
-
-.fc-sao-tome-and-principe-3 {
-  color: #FF0000;
-}
-.fc-sao-tome-and-principe-3-bg {
-  background-color: #FF0000;
+  background-color: #5EB6E4;
 }
 
 .fc-saudi-arabia {
-  color: #006600;
+  color: #006C35;
 }
 .fc-saudi-arabia-bg {
-  background-color: #006600;
+  background-color: #006C35;
 }
 
 .fc-saudi-arabia-2 {
-  color: #FFFFFF;
+  color: #FBFDFC;
 }
 .fc-saudi-arabia-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FBFDFC;
 }
 
 .fc-senegal {
-  color: #009900;
+  color: #00853F;
 }
 .fc-senegal-bg {
-  background-color: #009900;
+  background-color: #00853F;
 }
 
 .fc-senegal-2 {
-  color: #FF0000;
+  color: #E31B23;
 }
 .fc-senegal-2-bg {
-  background-color: #FF0000;
+  background-color: #E31B23;
 }
 
 .fc-senegal-3 {
-  color: #FFFF00;
+  color: #FDEF42;
 }
 .fc-senegal-3-bg {
-  background-color: #FFFF00;
+  background-color: #FDEF42;
 }
 
-.fc-serbia-and-montenegro {
-  color: #FFFFFF;
+.fc-serbia {
+  color: #C6363C;
 }
-.fc-serbia-and-montenegro-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-serbia-and-montenegro-2 {
-  color: #FF0000;
-}
-.fc-serbia-and-montenegro-2-bg {
-  background-color: #FF0000;
+.fc-serbia-bg {
+  background-color: #C6363C;
 }
 
-.fc-serbia-and-montenegro-3 {
-  color: #000099;
+.fc-serbia-2 {
+  color: #0C4076;
 }
-.fc-serbia-and-montenegro-3-bg {
-  background-color: #000099;
+.fc-serbia-2-bg {
+  background-color: #0C4076;
 }
 
 .fc-seychelles {
-  color: #FF0000;
+  color: #D62828;
 }
 .fc-seychelles-bg {
-  background-color: #FF0000;
+  background-color: #D62828;
 }
 
 .fc-seychelles-2 {
-  color: #FFFF00;
+  color: #003F87;
 }
 .fc-seychelles-2-bg {
-  background-color: #FFFF00;
+  background-color: #003F87;
 }
 
 .fc-seychelles-3 {
-  color: #FFFFFF;
+  color: #007A3D;
 }
 .fc-seychelles-3-bg {
-  background-color: #FFFFFF;
+  background-color: #007A3D;
 }
 
 .fc-seychelles-4 {
-  color: #000099;
+  color: #FCD856;
 }
 .fc-seychelles-4-bg {
-  background-color: #000099;
+  background-color: #FCD856;
 }
 
 .fc-seychelles-5 {
-  color: #009900;
+  color: #FFFEFE;
 }
 .fc-seychelles-5-bg {
-  background-color: #009900;
+  background-color: #FFFEFE;
 }
 
 .fc-sierra-leone {
-  color: #FFFFFF;
+  color: #0072C6;
 }
 .fc-sierra-leone-bg {
-  background-color: #FFFFFF;
+  background-color: #0072C6;
 }
 
 .fc-sierra-leone-2 {
-  color: #0000CC;
+  color: #1EB53A;
 }
 .fc-sierra-leone-2-bg {
-  background-color: #0000CC;
+  background-color: #1EB53A;
 }
 
 .fc-sierra-leone-3 {
-  color: #00CC00;
+  color: #FFFFFF;
 }
 .fc-sierra-leone-3-bg {
-  background-color: #00CC00;
+  background-color: #FFFFFF;
 }
 
 .fc-singapore {
@@ -3780,17 +3157,17 @@
 }
 
 .fc-singapore-2 {
-  color: #FF0000;
+  color: #ED2939;
 }
 .fc-singapore-2-bg {
-  background-color: #FF0000;
+  background-color: #ED2939;
 }
 
 .fc-slovakia {
-  color: #FF0000;
+  color: #EE1C25;
 }
 .fc-slovakia-bg {
-  background-color: #FF0000;
+  background-color: #EE1C25;
 }
 
 .fc-slovakia-2 {
@@ -3801,24 +3178,24 @@
 }
 
 .fc-slovakia-3 {
-  color: #0000CC;
+  color: #0B4EA2;
 }
 .fc-slovakia-3-bg {
-  background-color: #0000CC;
+  background-color: #0B4EA2;
 }
 
 .fc-slovenia {
-  color: #FF0000;
+  color: #ED1C24;
 }
 .fc-slovenia-bg {
-  background-color: #FF0000;
+  background-color: #ED1C24;
 }
 
 .fc-slovenia-2 {
-  color: #000099;
+  color: #005DA4;
 }
 .fc-slovenia-2-bg {
-  background-color: #000099;
+  background-color: #005DA4;
 }
 
 .fc-slovenia-3 {
@@ -3829,66 +3206,80 @@
 }
 
 .fc-solomon-islands {
-  color: #006600;
+  color: #215B33;
 }
 .fc-solomon-islands-bg {
-  background-color: #006600;
+  background-color: #215B33;
 }
 
 .fc-solomon-islands-2 {
-  color: #0000CC;
+  color: #0051BA;
 }
 .fc-solomon-islands-2-bg {
-  background-color: #0000CC;
+  background-color: #0051BA;
 }
 
 .fc-solomon-islands-3 {
-  color: #FFFF00;
+  color: #FCD116;
 }
 .fc-solomon-islands-3-bg {
-  background-color: #FFFF00;
+  background-color: #FCD116;
 }
 
 .fc-somalia {
-  color: #3399FF;
+  color: #4189DD;
 }
 .fc-somalia-bg {
-  background-color: #3399FF;
+  background-color: #4189DD;
 }
 
 .fc-somalia-2 {
-  color: #FFFFFF;
+  color: #FEFFFF;
 }
 .fc-somalia-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFFFF;
+}
+
+.fc-somaliland {
+  color: #020202;
+}
+.fc-somaliland-bg {
+  background-color: #020202;
+}
+
+.fc-somaliland-2 {
+  color: #006D21;
+}
+.fc-somaliland-2-bg {
+  background-color: #006D21;
 }
 
 .fc-south-africa {
-  color: #009933;
+  color: #007A4D;
 }
 .fc-south-africa-bg {
-  background-color: #009933;
+  background-color: #007A4D;
 }
 
 .fc-south-africa-2 {
-  color: #003399;
+  color: #002395;
 }
 .fc-south-africa-2-bg {
-  background-color: #003399;
+  background-color: #002395;
 }
 
 .fc-south-africa-3 {
-  color: #FF0000;
+  color: #DE3831;
 }
 .fc-south-africa-3-bg {
-  background-color: #FF0000;
+  background-color: #DE3831;
 }
 
 .fc-south-africa-4 {
-  color: #FDFEFD;
+  color: #FEFEFE;
 }
 .fc-south-africa-4-bg {
-  background-color: #FDFEFD;
+  background-color: #FEFEFE;
 }
 
 .fc-south-africa-5 {
@@ -3899,73 +3290,157 @@
 }
 
 .fc-south-africa-6 {
-  color: #FECC00;
+  color: #FDB512;
 }
 .fc-south-africa-6-bg {
-  background-color: #FECC00;
+  background-color: #FDB512;
 }
 
-.fc-south-georgia-and-the-south-sandwich-islands {
-  color: #000066;
-}
-.fc-south-georgia-and-the-south-sandwich-islands-bg {
-  background-color: #000066;
-}
-
-.fc-south-georgia-and-the-south-sandwich-islands-2 {
+.fc-south-korea {
   color: #FFFFFF;
 }
-.fc-south-georgia-and-the-south-sandwich-islands-2-bg {
+.fc-south-korea-bg {
   background-color: #FFFFFF;
 }
 
-.fc-south-georgia-and-the-south-sandwich-islands-3 {
-  color: #CC0000;
+.fc-south-korea-2 {
+  color: #013478;
 }
-.fc-south-georgia-and-the-south-sandwich-islands-3-bg {
-  background-color: #CC0000;
+.fc-south-korea-2-bg {
+  background-color: #013478;
 }
 
-.fc-spain {
+.fc-south-korea-3 {
+  color: #C60C30;
+}
+.fc-south-korea-3-bg {
+  background-color: #C60C30;
+}
+
+.fc-south-korea-4 {
+  color: #030303;
+}
+.fc-south-korea-4-bg {
+  background-color: #030303;
+}
+
+.fc-south-ossetia {
+  color: #FFFFFF;
+}
+.fc-south-ossetia-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-south-ossetia-2 {
+  color: #FFDF00;
+}
+.fc-south-ossetia-2-bg {
+  background-color: #FFDF00;
+}
+
+.fc-south-ossetia-3 {
   color: #FF0000;
 }
-.fc-spain-bg {
+.fc-south-ossetia-3-bg {
   background-color: #FF0000;
 }
 
+.fc-south-sudan {
+  color: #078930;
+}
+.fc-south-sudan-bg {
+  background-color: #078930;
+}
+
+.fc-south-sudan-2 {
+  color: #000000;
+}
+.fc-south-sudan-2-bg {
+  background-color: #000000;
+}
+
+.fc-south-sudan-3 {
+  color: #0F47AF;
+}
+.fc-south-sudan-3-bg {
+  background-color: #0F47AF;
+}
+
+.fc-south-sudan-4 {
+  color: #DA121A;
+}
+.fc-south-sudan-4-bg {
+  background-color: #DA121A;
+}
+
+.fc-south-sudan-5 {
+  color: #FFFFFF;
+}
+.fc-south-sudan-5-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-spain {
+  color: #C60B1E;
+}
+.fc-spain-bg {
+  background-color: #C60B1E;
+}
+
 .fc-spain-2 {
-  color: #FFFF00;
+  color: #FFC400;
 }
 .fc-spain-2-bg {
-  background-color: #FFFF00;
+  background-color: #FFC400;
 }
 
 .fc-sri-lanka {
-  color: #FFCC00;
+  color: #FEB700;
 }
 .fc-sri-lanka-bg {
-  background-color: #FFCC00;
+  background-color: #FEB700;
 }
 
 .fc-sri-lanka-2 {
-  color: #991B33;
+  color: #8D2029;
 }
 .fc-sri-lanka-2-bg {
-  background-color: #991B33;
+  background-color: #8D2029;
 }
 
 .fc-sri-lanka-3 {
-  color: #FF6600;
+  color: #005641;
 }
 .fc-sri-lanka-3-bg {
-  background-color: #FF6600;
+  background-color: #005641;
 }
 
-.fc-sri-lanka-4 {
-  color: #006600;
+.fc-state-of-palestine {
+  color: #007A3D;
 }
-.fc-sri-lanka-4-bg {
-  background-color: #006600;
+.fc-state-of-palestine-bg {
+  background-color: #007A3D;
+}
+
+.fc-state-of-palestine-2 {
+  color: #000000;
+}
+.fc-state-of-palestine-2-bg {
+  background-color: #000000;
+}
+
+.fc-state-of-palestine-3 {
+  color: #FFFFFF;
+}
+.fc-state-of-palestine-3-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-state-of-palestine-4 {
+  color: #CE1126;
+}
+.fc-state-of-palestine-4-bg {
+  background-color: #CE1126;
 }
 
 .fc-sudan {
@@ -3976,10 +3451,10 @@
 }
 
 .fc-sudan-2 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-sudan-2-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-sudan-3 {
@@ -3990,24 +3465,24 @@
 }
 
 .fc-sudan-4 {
-  color: #009900;
+  color: #007229;
 }
 .fc-sudan-4-bg {
-  background-color: #009900;
+  background-color: #007229;
 }
 
 .fc-suriname {
-  color: #009900;
+  color: #377E3F;
 }
 .fc-suriname-bg {
-  background-color: #009900;
+  background-color: #377E3F;
 }
 
 .fc-suriname-2 {
-  color: #FF0000;
+  color: #B40A2D;
 }
 .fc-suriname-2-bg {
-  background-color: #FF0000;
+  background-color: #B40A2D;
 }
 
 .fc-suriname-3 {
@@ -4017,67 +3492,53 @@
   background-color: #FFFFFF;
 }
 
-.fc-svalbard-and-jan-mayen {
-  color: #FF0000;
-}
-.fc-svalbard-and-jan-mayen-bg {
-  background-color: #FF0000;
-}
-
-.fc-svalbard-and-jan-mayen-2 {
-  color: #003366;
-}
-.fc-svalbard-and-jan-mayen-2-bg {
-  background-color: #003366;
-}
-
-.fc-svalbard-and-jan-mayen-3 {
-  color: #FFFFFF;
-}
-.fc-svalbard-and-jan-mayen-3-bg {
-  background-color: #FFFFFF;
-}
-
 .fc-swaziland {
-  color: #6699CC;
+  color: #3E5EB9;
 }
 .fc-swaziland-bg {
-  background-color: #6699CC;
+  background-color: #3E5EB9;
 }
 
 .fc-swaziland-2 {
-  color: #990000;
+  color: #B10C0C;
 }
 .fc-swaziland-2-bg {
-  background-color: #990000;
+  background-color: #B10C0C;
 }
 
 .fc-swaziland-3 {
-  color: #FFCC00;
+  color: #FED800;
 }
 .fc-swaziland-3-bg {
-  background-color: #FFCC00;
+  background-color: #FED800;
 }
 
 .fc-swaziland-4 {
-  color: #FFFFFF;
+  color: #FEFEFE;
 }
 .fc-swaziland-4-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFEFE;
+}
+
+.fc-swaziland-5 {
+  color: #020202;
+}
+.fc-swaziland-5-bg {
+  background-color: #020202;
 }
 
 .fc-sweden {
-  color: #006699;
+  color: #006AA7;
 }
 .fc-sweden-bg {
-  background-color: #006699;
+  background-color: #006AA7;
 }
 
 .fc-sweden-2 {
-  color: #FFCC00;
+  color: #FECC00;
 }
 .fc-sweden-2-bg {
-  background-color: #FFCC00;
+  background-color: #FECC00;
 }
 
 .fc-switzerland {
@@ -4094,25 +3555,60 @@
   background-color: #FFFFFF;
 }
 
-.fc-syrian-arab-republic {
-  color: #FF0000;
-}
-.fc-syrian-arab-republic-bg {
-  background-color: #FF0000;
-}
-
-.fc-syrian-arab-republic-2 {
+.fc-syria {
   color: #000000;
 }
-.fc-syrian-arab-republic-2-bg {
+.fc-syria-bg {
   background-color: #000000;
 }
 
-.fc-syrian-arab-republic-3 {
+.fc-syria-2 {
+  color: #CE1126;
+}
+.fc-syria-2-bg {
+  background-color: #CE1126;
+}
+
+.fc-syria-3 {
   color: #FFFFFF;
 }
-.fc-syrian-arab-republic-3-bg {
+.fc-syria-3-bg {
   background-color: #FFFFFF;
+}
+
+.fc-são-tomé-and-príncipe {
+  color: #12AD2B;
+}
+.fc-são-tomé-and-príncipe-bg {
+  background-color: #12AD2B;
+}
+
+.fc-são-tomé-and-príncipe-2 {
+  color: #FFCE00;
+}
+.fc-são-tomé-and-príncipe-2-bg {
+  background-color: #FFCE00;
+}
+
+.fc-são-tomé-and-príncipe-3 {
+  color: #D21034;
+}
+.fc-são-tomé-and-príncipe-3-bg {
+  background-color: #D21034;
+}
+
+.fc-taiwan {
+  color: #FE0000;
+}
+.fc-taiwan-bg {
+  background-color: #FE0000;
+}
+
+.fc-taiwan-2 {
+  color: #000095;
+}
+.fc-taiwan-2-bg {
+  background-color: #000095;
 }
 
 .fc-tajikistan {
@@ -4123,17 +3619,45 @@
 }
 
 .fc-tajikistan-2 {
-  color: #CC0000;
+  color: #006600;
 }
 .fc-tajikistan-2-bg {
-  background-color: #CC0000;
+  background-color: #006600;
 }
 
 .fc-tajikistan-3 {
-  color: #006600;
+  color: #CC0000;
 }
 .fc-tajikistan-3-bg {
-  background-color: #006600;
+  background-color: #CC0000;
+}
+
+.fc-tanzania {
+  color: #000000;
+}
+.fc-tanzania-bg {
+  background-color: #000000;
+}
+
+.fc-tanzania-2 {
+  color: #1EB53A;
+}
+.fc-tanzania-2-bg {
+  background-color: #1EB53A;
+}
+
+.fc-tanzania-3 {
+  color: #00A3DD;
+}
+.fc-tanzania-3-bg {
+  background-color: #00A3DD;
+}
+
+.fc-tanzania-4 {
+  color: #FBD016;
+}
+.fc-tanzania-4-bg {
+  background-color: #FBD016;
 }
 
 .fc-thailand {
@@ -4144,59 +3668,73 @@
 }
 
 .fc-thailand-2 {
-  color: #FF0000;
+  color: #241D4F;
 }
 .fc-thailand-2-bg {
-  background-color: #FF0000;
+  background-color: #241D4F;
 }
 
 .fc-thailand-3 {
-  color: #000099;
+  color: #ED1C24;
 }
 .fc-thailand-3-bg {
-  background-color: #000099;
+  background-color: #ED1C24;
 }
 
-.fc-the-democratic-republic-of-the-congo {
-  color: #00A0E0;
+.fc-the-bahamas {
+  color: #00ABC9;
 }
-.fc-the-democratic-republic-of-the-congo-bg {
-  background-color: #00A0E0;
-}
-
-.fc-the-democratic-republic-of-the-congo-2 {
-  color: #E00010;
-}
-.fc-the-democratic-republic-of-the-congo-2-bg {
-  background-color: #E00010;
+.fc-the-bahamas-bg {
+  background-color: #00ABC9;
 }
 
-.fc-the-democratic-republic-of-the-congo-3 {
-  color: #FFE000;
+.fc-the-bahamas-2 {
+  color: #000000;
 }
-.fc-the-democratic-republic-of-the-congo-3-bg {
-  background-color: #FFE000;
-}
-
-.fc-the-former-yugoslav-republic-of-macedonia {
-  color: #FF0000;
-}
-.fc-the-former-yugoslav-republic-of-macedonia-bg {
-  background-color: #FF0000;
+.fc-the-bahamas-2-bg {
+  background-color: #000000;
 }
 
-.fc-the-former-yugoslav-republic-of-macedonia-2 {
-  color: #FFFF00;
+.fc-the-bahamas-3 {
+  color: #FAE042;
 }
-.fc-the-former-yugoslav-republic-of-macedonia-2-bg {
-  background-color: #FFFF00;
+.fc-the-bahamas-3-bg {
+  background-color: #FAE042;
+}
+
+.fc-the-gambia {
+  color: #CE1126;
+}
+.fc-the-gambia-bg {
+  background-color: #CE1126;
+}
+
+.fc-the-gambia-2 {
+  color: #3A7728;
+}
+.fc-the-gambia-2-bg {
+  background-color: #3A7728;
+}
+
+.fc-the-gambia-3 {
+  color: #0C1C8C;
+}
+.fc-the-gambia-3-bg {
+  background-color: #0C1C8C;
+}
+
+.fc-the-gambia-4 {
+  color: #FFFFFF;
+}
+.fc-the-gambia-4-bg {
+  background-color: #FFFFFF;
 }
 
 .fc-timor-leste {
-  color: #FF0000;
+  color: #DC241F;
 }
 .fc-timor-leste-bg {
-  background-color: #FF0000;
+  background-color: #DC241F;
 }
 
 .fc-timor-leste-2 {
@@ -4207,52 +3745,38 @@
 }
 
 .fc-timor-leste-3 {
-  color: #FFFF01;
+  color: #FFC726;
 }
 .fc-timor-leste-3-bg {
-  background-color: #FFFF01;
+  background-color: #FFC726;
 }
 
 .fc-togo {
-  color: #009900;
+  color: #006A4E;
 }
 .fc-togo-bg {
-  background-color: #009900;
+  background-color: #006A4E;
 }
 
 .fc-togo-2 {
-  color: #FFCC00;
+  color: #FFCE00;
 }
 .fc-togo-2-bg {
-  background-color: #FFCC00;
+  background-color: #FFCE00;
 }
 
 .fc-togo-3 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-togo-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-tokelau {
-  color: #000098;
-}
-.fc-tokelau-bg {
-  background-color: #000098;
-}
-
-.fc-tokelau-2 {
-  color: #FFCC00;
-}
-.fc-tokelau-2-bg {
-  background-color: #FFCC00;
+  background-color: #D21034;
 }
 
 .fc-tonga {
-  color: #FF0000;
+  color: #C10000;
 }
 .fc-tonga-bg {
-  background-color: #FF0000;
+  background-color: #C10000;
 }
 
 .fc-tonga-2 {
@@ -4262,11 +3786,25 @@
   background-color: #FFFFFF;
 }
 
+.fc-transnistria {
+  color: #DE0000;
+}
+.fc-transnistria-bg {
+  background-color: #DE0000;
+}
+
+.fc-transnistria-2 {
+  color: #009933;
+}
+.fc-transnistria-2-bg {
+  background-color: #009933;
+}
+
 .fc-trinidad-and-tobago {
-  color: #FF0000;
+  color: #CE1126;
 }
 .fc-trinidad-and-tobago-bg {
-  background-color: #FF0000;
+  background-color: #CE1126;
 }
 
 .fc-trinidad-and-tobago-2 {
@@ -4277,115 +3815,94 @@
 }
 
 .fc-trinidad-and-tobago-3 {
-  color: #FFFFFF;
+  color: #FEFDFE;
 }
 .fc-trinidad-and-tobago-3-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFDFE;
 }
 
 .fc-tunisia {
-  color: #FF0000;
+  color: #E70013;
 }
 .fc-tunisia-bg {
-  background-color: #FF0000;
+  background-color: #E70013;
 }
 
 .fc-tunisia-2 {
-  color: #FFFFFF;
-}
-.fc-tunisia-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-turkey {
-  color: #FF0000;
-}
-.fc-turkey-bg {
-  background-color: #FF0000;
-}
-
-.fc-turkey-2 {
-  color: #FFFFFF;
-}
-.fc-turkey-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-turkmenistan {
-  color: #006600;
-}
-.fc-turkmenistan-bg {
-  background-color: #006600;
-}
-
-.fc-turkmenistan-2 {
-  color: #950204;
-}
-.fc-turkmenistan-2-bg {
-  background-color: #950204;
-}
-
-.fc-turks-and-caicos-islands {
-  color: #000066;
-}
-.fc-turks-and-caicos-islands-bg {
-  background-color: #000066;
-}
-
-.fc-turks-and-caicos-islands-2 {
-  color: #CC0101;
-}
-.fc-turks-and-caicos-islands-2-bg {
-  background-color: #CC0101;
-}
-
-.fc-turks-and-caicos-islands-3 {
-  color: #FEFEFE;
-}
-.fc-turks-and-caicos-islands-3-bg {
-  background-color: #FEFEFE;
-}
-
-.fc-tuvalu {
-  color: #6699FF;
-}
-.fc-tuvalu-bg {
-  background-color: #6699FF;
-}
-
-.fc-tuvalu-2 {
-  color: #CC0001;
-}
-.fc-tuvalu-2-bg {
-  background-color: #CC0001;
-}
-
-.fc-tuvalu-3 {
   color: #FFFEFE;
 }
-.fc-tuvalu-3-bg {
+.fc-tunisia-2-bg {
   background-color: #FFFEFE;
 }
 
-.fc-tuvalu-4 {
-  color: #010066;
+.fc-turkey {
+  color: #E30A17;
 }
-.fc-tuvalu-4-bg {
-  background-color: #010066;
+.fc-turkey-bg {
+  background-color: #E30A17;
 }
 
-.fc-tuvalu-5 {
-  color: #FECC01;
+.fc-turkey-2 {
+  color: #FFFEFE;
 }
-.fc-tuvalu-5-bg {
-  background-color: #FECC01;
+.fc-turkey-2-bg {
+  background-color: #FFFEFE;
+}
+
+.fc-turkmenistan {
+  color: #28AE66;
+}
+.fc-turkmenistan-bg {
+  background-color: #28AE66;
+}
+
+.fc-turkmenistan-2 {
+  color: #C93745;
+}
+.fc-turkmenistan-2-bg {
+  background-color: #C93745;
+}
+
+.fc-turkmenistan-3 {
+  color: #B47134;
+}
+.fc-turkmenistan-3-bg {
+  background-color: #B47134;
+}
+
+.fc-tuvalu {
+  color: #5B97B1;
+}
+.fc-tuvalu-bg {
+  background-color: #5B97B1;
+}
+
+.fc-tuvalu-2 {
+  color: #CF142B;
+}
+.fc-tuvalu-2-bg {
+  background-color: #CF142B;
+}
+
+.fc-tuvalu-3 {
+  color: #FEFEFE;
+}
+.fc-tuvalu-3-bg {
+  background-color: #FEFEFE;
+}
+
+.fc-tuvalu-4 {
+  color: #00247D;
+}
+.fc-tuvalu-4-bg {
+  background-color: #00247D;
 }
 
 .fc-uganda {
-  color: #FFFF00;
+  color: #FCDC04;
 }
 .fc-uganda-bg {
-  background-color: #FFFF00;
+  background-color: #FCDC04;
 }
 
 .fc-uganda-2 {
@@ -4396,24 +3913,31 @@
 }
 
 .fc-uganda-3 {
-  color: #FF0000;
+  color: #D90000;
 }
 .fc-uganda-3-bg {
-  background-color: #FF0000;
+  background-color: #D90000;
+}
+
+.fc-uganda-4 {
+  color: #FEFDFD;
+}
+.fc-uganda-4-bg {
+  background-color: #FEFDFD;
 }
 
 .fc-ukraine {
-  color: #FFFF00;
+  color: #FFD500;
 }
 .fc-ukraine-bg {
-  background-color: #FFFF00;
+  background-color: #FFD500;
 }
 
 .fc-ukraine-2 {
-  color: #0099FF;
+  color: #005BBB;
 }
 .fc-ukraine-2-bg {
-  background-color: #0099FF;
+  background-color: #005BBB;
 }
 
 .fc-united-arab-emirates {
@@ -4438,17 +3962,17 @@
 }
 
 .fc-united-arab-emirates-4 {
-  color: #009900;
+  color: #00732F;
 }
 .fc-united-arab-emirates-4-bg {
-  background-color: #009900;
+  background-color: #00732F;
 }
 
 .fc-united-kingdom {
-  color: #CC0000;
+  color: #CF142B;
 }
 .fc-united-kingdom-bg {
-  background-color: #CC0000;
+  background-color: #CF142B;
 }
 
 .fc-united-kingdom-2 {
@@ -4458,81 +3982,39 @@
   background-color: #FFFFFF;
 }
 
-.fc-united-kingdom-3 {
-  color: #000066;
-}
-.fc-united-kingdom-3-bg {
-  background-color: #000066;
-}
-
-.fc-united-republic-of-tanzania {
-  color: #000000;
-}
-.fc-united-republic-of-tanzania-bg {
-  background-color: #000000;
-}
-
-.fc-united-republic-of-tanzania-2 {
-  color: #0099FF;
-}
-.fc-united-republic-of-tanzania-2-bg {
-  background-color: #0099FF;
-}
-
-.fc-united-republic-of-tanzania-3 {
-  color: #009900;
-}
-.fc-united-republic-of-tanzania-3-bg {
-  background-color: #009900;
-}
-
-.fc-united-republic-of-tanzania-4 {
-  color: #FFFF00;
-}
-.fc-united-republic-of-tanzania-4-bg {
-  background-color: #FFFF00;
-}
-
 .fc-united-states {
-  color: #CC0000;
+  color: #B22234;
 }
 .fc-united-states-bg {
-  background-color: #CC0000;
+  background-color: #B22234;
 }
 
 .fc-united-states-2 {
-  color: #FFFFFF;
+  color: #FEFEFE;
 }
 .fc-united-states-2-bg {
-  background-color: #FFFFFF;
+  background-color: #FEFEFE;
 }
 
 .fc-united-states-3 {
-  color: #000066;
+  color: #3C3B6E;
 }
 .fc-united-states-3-bg {
-  background-color: #000066;
+  background-color: #3C3B6E;
 }
 
-.fc-united-states-minor-outlying-islands {
-  color: #CC0000;
+.fc-united-states-4 {
+  color: #CA6673;
 }
-.fc-united-states-minor-outlying-islands-bg {
-  background-color: #CC0000;
-}
-
-.fc-united-states-minor-outlying-islands-2 {
-  color: #FFFFFF;
-}
-.fc-united-states-minor-outlying-islands-2-bg {
-  background-color: #FFFFFF;
+.fc-united-states-4-bg {
+  background-color: #CA6673;
 }
 
-.fc-united-states-minor-outlying-islands-3 {
-  color: #000066;
+.fc-united-states-5 {
+  color: #EDCDD1;
 }
-.fc-united-states-minor-outlying-islands-3-bg {
-  background-color: #000066;
+.fc-united-states-5-bg {
+  background-color: #EDCDD1;
 }
 
 .fc-uruguay {
@@ -4542,261 +4024,191 @@
   background-color: #FFFFFF;
 }
 
-.fc-uruguay-2 {
-  color: #0066CC;
-}
-.fc-uruguay-2-bg {
-  background-color: #0066CC;
-}
-
-.fc-us-virgin-islands {
+.fc-uzbekistan {
   color: #FFFFFF;
 }
-.fc-us-virgin-islands-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-us-virgin-islands-2 {
-  color: #FFFF00;
-}
-.fc-us-virgin-islands-2-bg {
-  background-color: #FFFF00;
-}
-
-.fc-us-virgin-islands-3 {
-  color: #000000;
-}
-.fc-us-virgin-islands-3-bg {
-  background-color: #000000;
-}
-
-.fc-us-virgin-islands-4 {
-  color: #7E7EFF;
-}
-.fc-us-virgin-islands-4-bg {
-  background-color: #7E7EFF;
-}
-
-.fc-uzbekistan {
-  color: #007F00;
-}
 .fc-uzbekistan-bg {
-  background-color: #007F00;
+  background-color: #FFFFFF;
 }
 
 .fc-uzbekistan-2 {
-  color: #FFFFFF;
+  color: #1EB53A;
 }
 .fc-uzbekistan-2-bg {
-  background-color: #FFFFFF;
+  background-color: #1EB53A;
 }
 
 .fc-uzbekistan-3 {
-  color: #00007F;
+  color: #0099B5;
 }
 .fc-uzbekistan-3-bg {
-  background-color: #00007F;
+  background-color: #0099B5;
 }
 
 .fc-uzbekistan-4 {
-  color: #7F0000;
+  color: #CE1126;
 }
 .fc-uzbekistan-4-bg {
-  background-color: #7F0000;
+  background-color: #CE1126;
 }
 
 .fc-vanuatu {
-  color: #006600;
+  color: #009543;
 }
 .fc-vanuatu-bg {
-  background-color: #006600;
+  background-color: #009543;
 }
 
 .fc-vanuatu-2 {
-  color: #FF0000;
+  color: #D21034;
 }
 .fc-vanuatu-2-bg {
-  background-color: #FF0000;
+  background-color: #D21034;
 }
 
 .fc-vanuatu-3 {
-  color: #000000;
+  color: #010100;
 }
 .fc-vanuatu-3-bg {
-  background-color: #000000;
+  background-color: #010100;
 }
 
 .fc-vanuatu-4 {
-  color: #FFFF00;
+  color: #FCCE12;
 }
 .fc-vanuatu-4-bg {
-  background-color: #FFFF00;
+  background-color: #FCCE12;
+}
+
+.fc-vatican-city {
+  color: #FFE000;
+}
+.fc-vatican-city-bg {
+  background-color: #FFE000;
+}
+
+.fc-vatican-city-2 {
+  color: #FFFFFF;
+}
+.fc-vatican-city-2-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-vatican-city-3 {
+  color: #D1D0CE;
+}
+.fc-vatican-city-3-bg {
+  background-color: #D1D0CE;
 }
 
 .fc-venezuela {
-  color: #FF0000;
+  color: #FFCC00;
 }
 .fc-venezuela-bg {
-  background-color: #FF0000;
+  background-color: #FFCC00;
 }
 
 .fc-venezuela-2 {
-  color: #0000F7;
+  color: #CF142B;
 }
 .fc-venezuela-2-bg {
-  background-color: #0000F7;
+  background-color: #CF142B;
 }
 
 .fc-venezuela-3 {
-  color: #FFFF00;
+  color: #00247D;
 }
 .fc-venezuela-3-bg {
-  background-color: #FFFF00;
+  background-color: #00247D;
 }
 
-.fc-viet-nam {
-  color: #FF0000;
+.fc-vietnam {
+  color: #DA251D;
 }
-.fc-viet-nam-bg {
-  background-color: #FF0000;
-}
-
-.fc-viet-nam-2 {
-  color: #FFFF00;
-}
-.fc-viet-nam-2-bg {
-  background-color: #FFFF00;
+.fc-vietnam-bg {
+  background-color: #DA251D;
 }
 
-.fc-wallis-and-futuna {
-  color: #BF0000;
+.fc-vietnam-2 {
+  color: #FFFE00;
 }
-.fc-wallis-and-futuna-bg {
-  background-color: #BF0000;
-}
-
-.fc-wallis-and-futuna-2 {
-  color: #FFFFFF;
-}
-.fc-wallis-and-futuna-2-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-wallis-and-futuna-3 {
-  color: #0000AA;
-}
-.fc-wallis-and-futuna-3-bg {
-  background-color: #0000AA;
-}
-
-.fc-western-sahara {
-  color: #000000;
-}
-.fc-western-sahara-bg {
-  background-color: #000000;
-}
-
-.fc-western-sahara-2 {
-  color: #009900;
-}
-.fc-western-sahara-2-bg {
-  background-color: #009900;
-}
-
-.fc-western-sahara-3 {
-  color: #FFFFFF;
-}
-.fc-western-sahara-3-bg {
-  background-color: #FFFFFF;
-}
-
-.fc-western-sahara-4 {
-  color: #FF0000;
-}
-.fc-western-sahara-4-bg {
-  background-color: #FF0000;
+.fc-vietnam-2-bg {
+  background-color: #FFFE00;
 }
 
 .fc-yemen {
-  color: #FFFFFF;
+  color: #000000;
 }
 .fc-yemen-bg {
-  background-color: #FFFFFF;
+  background-color: #000000;
 }
 
 .fc-yemen-2 {
-  color: #000000;
+  color: #CE1126;
 }
 .fc-yemen-2-bg {
-  background-color: #000000;
+  background-color: #CE1126;
 }
 
 .fc-yemen-3 {
-  color: #FF0000;
-}
-.fc-yemen-3-bg {
-  background-color: #FF0000;
-}
-
-.fc-zambia {
-  color: #339933;
-}
-.fc-zambia-bg {
-  background-color: #339933;
-}
-
-.fc-zambia-2 {
-  color: #FF6600;
-}
-.fc-zambia-2-bg {
-  background-color: #FF6600;
-}
-
-.fc-zambia-3 {
-  color: #000000;
-}
-.fc-zambia-3-bg {
-  background-color: #000000;
-}
-
-.fc-zambia-4 {
-  color: #FF0000;
-}
-.fc-zambia-4-bg {
-  background-color: #FF0000;
-}
-
-.fc-zimbabwe {
-  color: #009900;
-}
-.fc-zimbabwe-bg {
-  background-color: #009900;
-}
-
-.fc-zimbabwe-2 {
-  color: #FFFF00;
-}
-.fc-zimbabwe-2-bg {
-  background-color: #FFFF00;
-}
-
-.fc-zimbabwe-3 {
-  color: #CC0000;
-}
-.fc-zimbabwe-3-bg {
-  background-color: #CC0000;
-}
-
-.fc-zimbabwe-4 {
   color: #FFFFFF;
 }
-.fc-zimbabwe-4-bg {
+.fc-yemen-3-bg {
   background-color: #FFFFFF;
 }
 
-.fc-zimbabwe-5 {
+.fc-zambia {
+  color: #198A00;
+}
+.fc-zambia-bg {
+  background-color: #198A00;
+}
+
+.fc-zambia-2 {
+  color: #EF7D00;
+}
+.fc-zambia-2-bg {
+  background-color: #EF7D00;
+}
+
+.fc-zambia-3 {
+  color: #DE2010;
+}
+.fc-zambia-3-bg {
+  background-color: #DE2010;
+}
+
+.fc-zambia-4 {
   color: #000000;
 }
-.fc-zimbabwe-5-bg {
+.fc-zambia-4-bg {
+  background-color: #000000;
+}
+
+.fc-zimbabwe {
+  color: #319208;
+}
+.fc-zimbabwe-bg {
+  background-color: #319208;
+}
+
+.fc-zimbabwe-2 {
+  color: #DE2010;
+}
+.fc-zimbabwe-2-bg {
+  background-color: #DE2010;
+}
+
+.fc-zimbabwe-3 {
+  color: #FFFFFF;
+}
+.fc-zimbabwe-3-bg {
+  background-color: #FFFFFF;
+}
+
+.fc-zimbabwe-4 {
+  color: #000000;
+}
+.fc-zimbabwe-4-bg {
   background-color: #000000;
 }
