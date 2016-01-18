@@ -9,9 +9,11 @@
   {% for color in flag %}
     .fc-{{color.name}} {
       color: {{color.hex}};
-    };
+    }
+
     .fc-{{color.name}}-bg {
       background-color: {{color.hex}};
-    };
+    }
+
   {% endfor %}
 {% endfor %}
