@@ -1,5 +1,7 @@
 var companyContainer = document.getElementById('flags'),
     text = document.getElementById('flag-name'),
+    flag = document.getElementById('flag-image'),
+    initialImage = flag.src,
     initialText = text.innerHTML,
     hex = document.getElementById('hex'),
     initialHex = hex.innerHTML,
@@ -73,6 +75,7 @@ var companyContainer = document.getElementById('flags'),
 
   function updateState(event) {
     var name = event.target.innerHTML,
+        imageUrl = event.target.getAttribute('data-flag-image'),
         color = getStyle(event.target, 'background-color'),
         hexColor = rgb2hex(color),
         textColor = getContrastYIQ(hexColor.substring(1));
@@ -81,6 +84,7 @@ var companyContainer = document.getElementById('flags'),
 
     text.innerHTML = name;
     hex.innerHTML = hexColor;
+    flag.src = imageUrl;
 
     body.style.color = textColor;
     body.style.backgroundColor = color;
@@ -89,6 +93,8 @@ var companyContainer = document.getElementById('flags'),
   function resetState(){
     text.innerHTML = initialText;
     hex.innerHTML = initialHex;
+    flag.src = initialImage;
+
 
     body.style.color = 'black';
     body.style.backgroundColor = 'rgba(255,255,255,0.9)';
