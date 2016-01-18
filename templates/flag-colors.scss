@@ -6,7 +6,5 @@
 */
 
 {% for flag in flags %}
-  {% for color in flag %}
-    $fc-{{color.name}}: {{color.color}};
-  {% endfor %}
+  $fc-{{flag.name}}: {{flag.hex}};
 {% endfor %}

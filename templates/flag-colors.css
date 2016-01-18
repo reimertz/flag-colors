@@ -6,14 +6,10 @@
 */
 
 {% for flag in flags %}
-  {% for color in flag %}
-    .fc-{{color.name}} {
-      color: {{color.hex}};
-    }
-
-    .fc-{{color.name}}-bg {
-      background-color: {{color.hex}};
-    }
-
-  {% endfor %}
+.fc-{{flag.name}} {
+  color: {{flag.hex}};
+}
+.fc-{{flag.name}}-bg {
+  background-color: {{flag.hex}};
+}
 {% endfor %}
