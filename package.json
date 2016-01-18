@@ -1,6 +1,6 @@
 {
   "name": "flag-colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of flag colors of all major countries.",
   "homepage": "https://flag-colors.com",
   "main": "data/flagColors.js",
