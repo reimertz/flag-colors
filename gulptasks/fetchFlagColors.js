@@ -1,12 +1,13 @@
 var gulp = require('gulp'),
     g = require('gulp-load-plugins')({lazy: false}),
 
+    r = require('request'),
     rp = require('request-promise'),
     Promise = require("bluebird"),
     fs = require('fs'),
     beautify = require('js-beautify').js_beautify,
     imagecolors = require('imagecolors-stream'),
-    API_URL = 'https://api.import.io/store/connector/f2420128-23f0-42cc-8954-db34f21c8906/_query?input=webpage/url:http%3A%2F%2Fhewgill.com%2Fflags%2F&&_apikey=14e350964c104e2c83431f736f26d88132e298f3b06bf9eb20645142e26b5318922c9b62f2e709735504d251579d24ba509c51d0addc46eca43e1bc042819255f7b7ebffb2634144f8080e5aa901534a';
+    API_URL = 'https://api.import.io/store/connector/89b3fdcc-e171-4132-b3b1-eecd343db5dc/_query?input=webpage/url:https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGallery_of_sovereign_state_flags&&_apikey=14e350964c104e2c83431f736f26d88132e298f3b06bf9eb20645142e26b5318922c9b62f2e709735504d251579d24ba509c51d0addc46eca43e1bc042819255f7b7ebffb2634144f8080e5aa901534a';
 
 function parseJSON(response){
   console.log('Parsing json..');
@@ -20,27 +21,46 @@ function generateImageArray(json){
   return Promise.map(json.results, function(object) {
 
     var image = {
-      name:   object['link_4/_text'].replace('\'', '').replace('(', '').replace(')', '').replace('.','').replace('.',''),
-      url:  object['image_2']
+      name:   object.name.replace('\'', '').replace('(', '').replace(')', '').replace('.','').replace('.',''),
+      url:  object.image
     }
 
-    // 'moldivia, republic of' -> republic of moldivia
-    if(image.name.indexOf(',') > -1) {
-      image.name = image.name.split(',')[1].substring(1) + ' ' + image.name.split(',')[0];
-    }
+    //Bug with import.io
+    if(image.name  === "Nepal") image.url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/164px-Flag_of_Nepal.svg.png';
 
     return image;
   });
 }
 
+function saveImages(imageArray){
+  console.log('Saving images data to disk..');
+
+  return Promise.map(imageArray, function(image){
+
+    return new Promise(function (resolve, reject) {
+      var ws = fs.createWriteStream('./data/flags/' + image.name + '.png', { overwrite: true, flags: 'w' });
+
+      ws.on("finish", function(){
+        resolve(image);
+      });
+
+      ws.on("error", function(err){
+        reject(err);
+      });
+
+      r(image.url).pipe(ws);
+    });
+  });
+};
+
 function parseImageColors(imageArray){
+
   console.log('Calculating image palettes..');
   return Promise.map(imageArray, function(image){
 
     return new Promise(function (resolve, reject) {
-      imagecolors.extract(image.url, 6, function(err, palette){
+      imagecolors.extract('./data/flags/' + image.name + '.png', 6, function(err, palette){
         if(err) return resolve();
-
         image.colors = palette.map(function(color){
           return {
             hex: color.hex,
@@ -85,6 +105,7 @@ gulp.task('fetch-flag-colors', function () {
   rp(API_URL)
     .then(parseJSON)
     .then(generateImageArray)
+    .then(saveImages)
     .then(parseImageColors)
     .then(filterFaultyImages)
     .then(saveDataToFile)
