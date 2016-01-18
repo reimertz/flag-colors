@@ -1,0 +1,28 @@
+{
+  "name": "flag-colors",
+  "version": "0.0.1",
+  "description": "A Collection with flag colors (CSS, LESS, SCSS, Stylus).",
+  "authors": [
+    "Pierre Reimertz <pierre@pierrereimertz.com>"
+  ],
+  "homepage": "reimertz.github.io/flag-colors",
+  "keywords": [
+    "flag",
+    "color",
+    "flag-color",
+    "flaging"
+  ],
+  "main": [
+    "dist/latest/css/flag-colors.latest.css",
+    "dist/latest/less/flag-colors.latest.less",
+    "dist/latest/sass/flag-colors.latest.sass",
+    "dist/latest/scss/flag-colors.latest.scss",
+    "dist/latest/stylus/flag-colors.latest.styl"
+  ],
+  "ignore": [
+  "node-modules/**",
+  "CNAME"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

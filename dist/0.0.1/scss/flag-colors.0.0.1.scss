@@ -1,0 +1,2797 @@
+/*
+* @preserve flag-colors 0.0.1
+* http://reimertz.github.io/flags-colors
+* (c) 2016 Pierre Reimertz
+* may be freely distributed under the MIT license.
+*/
+
+
+  
+    $fc-andorra: ;
+  
+    $fc-andorra-2: ;
+  
+    $fc-andorra-3: ;
+  
+    $fc-andorra-4: ;
+  
+    $fc-andorra-5: ;
+  
+    $fc-andorra-6: ;
+  
+
+  
+    $fc-united-arab-emirates: ;
+  
+    $fc-united-arab-emirates-2: ;
+  
+    $fc-united-arab-emirates-3: ;
+  
+    $fc-united-arab-emirates-4: ;
+  
+
+  
+    $fc-afghanistan: ;
+  
+    $fc-afghanistan-2: ;
+  
+    $fc-afghanistan-3: ;
+  
+    $fc-afghanistan-4: ;
+  
+    $fc-afghanistan-5: ;
+  
+    $fc-afghanistan-6: ;
+  
+
+  
+    $fc-antigua-and-barbuda: ;
+  
+    $fc-antigua-and-barbuda-2: ;
+  
+    $fc-antigua-and-barbuda-3: ;
+  
+    $fc-antigua-and-barbuda-4: ;
+  
+    $fc-antigua-and-barbuda-5: ;
+  
+    $fc-antigua-and-barbuda-6: ;
+  
+
+  
+    $fc-anguilla: ;
+  
+    $fc-anguilla-2: ;
+  
+    $fc-anguilla-3: ;
+  
+    $fc-anguilla-4: ;
+  
+    $fc-anguilla-5: ;
+  
+    $fc-anguilla-6: ;
+  
+
+  
+    $fc-albania: ;
+  
+    $fc-albania-2: ;
+  
+    $fc-albania-3: ;
+  
+
+  
+    $fc-armenia: ;
+  
+    $fc-armenia-2: ;
+  
+    $fc-armenia-3: ;
+  
+
+  
+    $fc-netherlands-antilles: ;
+  
+    $fc-netherlands-antilles-2: ;
+  
+    $fc-netherlands-antilles-3: ;
+  
+    $fc-netherlands-antilles-4: ;
+  
+    $fc-netherlands-antilles-5: ;
+  
+    $fc-netherlands-antilles-6: ;
+  
+
+  
+    $fc-angola: ;
+  
+    $fc-angola-2: ;
+  
+    $fc-angola-3: ;
+  
+    $fc-angola-4: ;
+  
+    $fc-angola-5: ;
+  
+    $fc-angola-6: ;
+  
+
+  
+    $fc-antarctica: ;
+  
+    $fc-antarctica-2: ;
+  
+    $fc-antarctica-3: ;
+  
+    $fc-antarctica-4: ;
+  
+    $fc-antarctica-5: ;
+  
+
+  
+    $fc-argentina: ;
+  
+    $fc-argentina-2: ;
+  
+    $fc-argentina-3: ;
+  
+    $fc-argentina-4: ;
+  
+    $fc-argentina-5: ;
+  
+    $fc-argentina-6: ;
+  
+
+  
+    $fc-american-samoa: ;
+  
+    $fc-american-samoa-2: ;
+  
+    $fc-american-samoa-3: ;
+  
+    $fc-american-samoa-4: ;
+  
+    $fc-american-samoa-5: ;
+  
+    $fc-american-samoa-6: ;
+  
+
+  
+    $fc-austria: ;
+  
+    $fc-austria-2: ;
+  
+
+  
+    $fc-australia: ;
+  
+    $fc-australia-2: ;
+  
+    $fc-australia-3: ;
+  
+    $fc-australia-4: ;
+  
+    $fc-australia-5: ;
+  
+    $fc-australia-6: ;
+  
+
+  
+    $fc-aruba: ;
+  
+    $fc-aruba-2: ;
+  
+    $fc-aruba-3: ;
+  
+    $fc-aruba-4: ;
+  
+    $fc-aruba-5: ;
+  
+    $fc-aruba-6: ;
+  
+
+  
+    $fc-azerbaijan: ;
+  
+    $fc-azerbaijan-2: ;
+  
+    $fc-azerbaijan-3: ;
+  
+    $fc-azerbaijan-4: ;
+  
+    $fc-azerbaijan-5: ;
+  
+    $fc-azerbaijan-6: ;
+  
+
+  
+    $fc-bosnia-and-herzegovina: ;
+  
+    $fc-bosnia-and-herzegovina-2: ;
+  
+    $fc-bosnia-and-herzegovina-3: ;
+  
+
+  
+    $fc-barbados: ;
+  
+    $fc-barbados-2: ;
+  
+    $fc-barbados-3: ;
+  
+    $fc-barbados-4: ;
+  
+    $fc-barbados-5: ;
+  
+    $fc-barbados-6: ;
+  
+
+  
+    $fc-bangladesh: ;
+  
+    $fc-bangladesh-2: ;
+  
+    $fc-bangladesh-3: ;
+  
+    $fc-bangladesh-4: ;
+  
+    $fc-bangladesh-5: ;
+  
+
+  
+    $fc-belgium: ;
+  
+    $fc-belgium-2: ;
+  
+    $fc-belgium-3: ;
+  
+
+  
+    $fc-burkina-faso: ;
+  
+    $fc-burkina-faso-2: ;
+  
+    $fc-burkina-faso-3: ;
+  
+    $fc-burkina-faso-4: ;
+  
+    $fc-burkina-faso-5: ;
+  
+
+  
+    $fc-bulgaria: ;
+  
+    $fc-bulgaria-2: ;
+  
+    $fc-bulgaria-3: ;
+  
+
+  
+    $fc-bahrain: ;
+  
+    $fc-bahrain-2: ;
+  
+    $fc-bahrain-3: ;
+  
+    $fc-bahrain-4: ;
+  
+    $fc-bahrain-5: ;
+  
+
+  
+    $fc-burundi: ;
+  
+    $fc-burundi-2: ;
+  
+    $fc-burundi-3: ;
+  
+    $fc-burundi-4: ;
+  
+    $fc-burundi-5: ;
+  
+    $fc-burundi-6: ;
+  
+
+  
+    $fc-benin: ;
+  
+    $fc-benin-2: ;
+  
+    $fc-benin-3: ;
+  
+
+  
+    $fc-bermuda: ;
+  
+    $fc-bermuda-2: ;
+  
+    $fc-bermuda-3: ;
+  
+    $fc-bermuda-4: ;
+  
+    $fc-bermuda-5: ;
+  
+    $fc-bermuda-6: ;
+  
+
+  
+    $fc-brunei-darussalam: ;
+  
+    $fc-brunei-darussalam-2: ;
+  
+    $fc-brunei-darussalam-3: ;
+  
+    $fc-brunei-darussalam-4: ;
+  
+    $fc-brunei-darussalam-5: ;
+  
+    $fc-brunei-darussalam-6: ;
+  
+
+  
+    $fc-bolivia: ;
+  
+    $fc-bolivia-2: ;
+  
+    $fc-bolivia-3: ;
+  
+
+  
+    $fc-brazil: ;
+  
+    $fc-brazil-2: ;
+  
+    $fc-brazil-3: ;
+  
+    $fc-brazil-4: ;
+  
+    $fc-brazil-5: ;
+  
+    $fc-brazil-6: ;
+  
+
+  
+    $fc-bahamas: ;
+  
+    $fc-bahamas-2: ;
+  
+    $fc-bahamas-3: ;
+  
+    $fc-bahamas-4: ;
+  
+    $fc-bahamas-5: ;
+  
+    $fc-bahamas-6: ;
+  
+
+  
+    $fc-bhutan: ;
+  
+    $fc-bhutan-2: ;
+  
+    $fc-bhutan-3: ;
+  
+    $fc-bhutan-4: ;
+  
+    $fc-bhutan-5: ;
+  
+    $fc-bhutan-6: ;
+  
+
+  
+    $fc-bouvet-island: ;
+  
+    $fc-bouvet-island-2: ;
+  
+    $fc-bouvet-island-3: ;
+  
+
+  
+    $fc-botswana: ;
+  
+    $fc-botswana-2: ;
+  
+    $fc-botswana-3: ;
+  
+
+  
+    $fc-belarus: ;
+  
+    $fc-belarus-2: ;
+  
+    $fc-belarus-3: ;
+  
+    $fc-belarus-4: ;
+  
+    $fc-belarus-5: ;
+  
+    $fc-belarus-6: ;
+  
+
+  
+    $fc-belize: ;
+  
+    $fc-belize-2: ;
+  
+    $fc-belize-3: ;
+  
+    $fc-belize-4: ;
+  
+    $fc-belize-5: ;
+  
+    $fc-belize-6: ;
+  
+
+  
+    $fc-canada: ;
+  
+    $fc-canada-2: ;
+  
+    $fc-canada-3: ;
+  
+    $fc-canada-4: ;
+  
+    $fc-canada-5: ;
+  
+
+  
+    $fc-cocos-keeling-islands: ;
+  
+    $fc-cocos-keeling-islands-2: ;
+  
+    $fc-cocos-keeling-islands-3: ;
+  
+    $fc-cocos-keeling-islands-4: ;
+  
+    $fc-cocos-keeling-islands-5: ;
+  
+    $fc-cocos-keeling-islands-6: ;
+  
+
+  
+    $fc-the-democratic-republic-of-the-congo: ;
+  
+    $fc-the-democratic-republic-of-the-congo-2: ;
+  
+    $fc-the-democratic-republic-of-the-congo-3: ;
+  
+    $fc-the-democratic-republic-of-the-congo-4: ;
+  
+    $fc-the-democratic-republic-of-the-congo-5: ;
+  
+    $fc-the-democratic-republic-of-the-congo-6: ;
+  
+
+  
+    $fc-central-african-republic: ;
+  
+    $fc-central-african-republic-2: ;
+  
+    $fc-central-african-republic-3: ;
+  
+    $fc-central-african-republic-4: ;
+  
+    $fc-central-african-republic-5: ;
+  
+    $fc-central-african-republic-6: ;
+  
+
+  
+    $fc-congo: ;
+  
+    $fc-congo-2: ;
+  
+    $fc-congo-3: ;
+  
+
+  
+    $fc-switzerland: ;
+  
+    $fc-switzerland-2: ;
+  
+
+  
+    $fc-cote-divoire: ;
+  
+    $fc-cote-divoire-2: ;
+  
+    $fc-cote-divoire-3: ;
+  
+
+  
+    $fc-cook-islands: ;
+  
+    $fc-cook-islands-2: ;
+  
+    $fc-cook-islands-3: ;
+  
+    $fc-cook-islands-4: ;
+  
+    $fc-cook-islands-5: ;
+  
+    $fc-cook-islands-6: ;
+  
+
+  
+    $fc-chile: ;
+  
+    $fc-chile-2: ;
+  
+    $fc-chile-3: ;
+  
+    $fc-chile-4: ;
+  
+    $fc-chile-5: ;
+  
+    $fc-chile-6: ;
+  
+
+  
+    $fc-cameroon: ;
+  
+    $fc-cameroon-2: ;
+  
+    $fc-cameroon-3: ;
+  
+    $fc-cameroon-4: ;
+  
+    $fc-cameroon-5: ;
+  
+    $fc-cameroon-6: ;
+  
+
+  
+    $fc-china: ;
+  
+    $fc-china-2: ;
+  
+    $fc-china-3: ;
+  
+
+  
+    $fc-colombia: ;
+  
+    $fc-colombia-2: ;
+  
+    $fc-colombia-3: ;
+  
+
+  
+    $fc-costa-rica: ;
+  
+    $fc-costa-rica-2: ;
+  
+    $fc-costa-rica-3: ;
+  
+
+  
+    $fc-cuba: ;
+  
+    $fc-cuba-2: ;
+  
+    $fc-cuba-3: ;
+  
+    $fc-cuba-4: ;
+  
+    $fc-cuba-5: ;
+  
+    $fc-cuba-6: ;
+  
+
+  
+    $fc-cape-verde: ;
+  
+    $fc-cape-verde-2: ;
+  
+    $fc-cape-verde-3: ;
+  
+    $fc-cape-verde-4: ;
+  
+    $fc-cape-verde-5: ;
+  
+    $fc-cape-verde-6: ;
+  
+
+  
+    $fc-christmas-island: ;
+  
+    $fc-christmas-island-2: ;
+  
+    $fc-christmas-island-3: ;
+  
+    $fc-christmas-island-4: ;
+  
+
+  
+    $fc-cyprus: ;
+  
+    $fc-cyprus-2: ;
+  
+    $fc-cyprus-3: ;
+  
+    $fc-cyprus-4: ;
+  
+    $fc-cyprus-5: ;
+  
+    $fc-cyprus-6: ;
+  
+
+  
+    $fc-czech-republic: ;
+  
+    $fc-czech-republic-2: ;
+  
+    $fc-czech-republic-3: ;
+  
+    $fc-czech-republic-4: ;
+  
+    $fc-czech-republic-5: ;
+  
+    $fc-czech-republic-6: ;
+  
+
+  
+    $fc-germany: ;
+  
+    $fc-germany-2: ;
+  
+    $fc-germany-3: ;
+  
+
+  
+    $fc-djibouti: ;
+  
+    $fc-djibouti-2: ;
+  
+    $fc-djibouti-3: ;
+  
+    $fc-djibouti-4: ;
+  
+    $fc-djibouti-5: ;
+  
+    $fc-djibouti-6: ;
+  
+
+  
+    $fc-denmark: ;
+  
+    $fc-denmark-2: ;
+  
+
+  
+    $fc-dominica: ;
+  
+    $fc-dominica-2: ;
+  
+    $fc-dominica-3: ;
+  
+    $fc-dominica-4: ;
+  
+    $fc-dominica-5: ;
+  
+    $fc-dominica-6: ;
+  
+
+  
+    $fc-dominican-republic: ;
+  
+    $fc-dominican-republic-2: ;
+  
+    $fc-dominican-republic-3: ;
+  
+    $fc-dominican-republic-4: ;
+  
+    $fc-dominican-republic-5: ;
+  
+    $fc-dominican-republic-6: ;
+  
+
+  
+    $fc-algeria: ;
+  
+    $fc-algeria-2: ;
+  
+    $fc-algeria-3: ;
+  
+    $fc-algeria-4: ;
+  
+    $fc-algeria-5: ;
+  
+    $fc-algeria-6: ;
+  
+
+  
+    $fc-ecuador: ;
+  
+    $fc-ecuador-2: ;
+  
+    $fc-ecuador-3: ;
+  
+
+  
+    $fc-estonia: ;
+  
+    $fc-estonia-2: ;
+  
+    $fc-estonia-3: ;
+  
+
+  
+    $fc-egypt: ;
+  
+    $fc-egypt-2: ;
+  
+    $fc-egypt-3: ;
+  
+    $fc-egypt-4: ;
+  
+    $fc-egypt-5: ;
+  
+    $fc-egypt-6: ;
+  
+
+  
+    $fc-western-sahara: ;
+  
+    $fc-western-sahara-2: ;
+  
+    $fc-western-sahara-3: ;
+  
+    $fc-western-sahara-4: ;
+  
+    $fc-western-sahara-5: ;
+  
+    $fc-western-sahara-6: ;
+  
+
+  
+    $fc-eritrea: ;
+  
+    $fc-eritrea-2: ;
+  
+    $fc-eritrea-3: ;
+  
+    $fc-eritrea-4: ;
+  
+    $fc-eritrea-5: ;
+  
+    $fc-eritrea-6: ;
+  
+
+  
+    $fc-spain: ;
+  
+    $fc-spain-2: ;
+  
+    $fc-spain-3: ;
+  
+    $fc-spain-4: ;
+  
+    $fc-spain-5: ;
+  
+    $fc-spain-6: ;
+  
+
+  
+    $fc-ethiopia: ;
+  
+    $fc-ethiopia-2: ;
+  
+    $fc-ethiopia-3: ;
+  
+    $fc-ethiopia-4: ;
+  
+    $fc-ethiopia-5: ;
+  
+    $fc-ethiopia-6: ;
+  
+
+  
+    $fc-finland: ;
+  
+    $fc-finland-2: ;
+  
+
+  
+    $fc-fiji: ;
+  
+    $fc-fiji-2: ;
+  
+    $fc-fiji-3: ;
+  
+    $fc-fiji-4: ;
+  
+    $fc-fiji-5: ;
+  
+    $fc-fiji-6: ;
+  
+
+  
+    $fc-falkland-islands-malvinas: ;
+  
+    $fc-falkland-islands-malvinas-2: ;
+  
+    $fc-falkland-islands-malvinas-3: ;
+  
+    $fc-falkland-islands-malvinas-4: ;
+  
+    $fc-falkland-islands-malvinas-5: ;
+  
+    $fc-falkland-islands-malvinas-6: ;
+  
+
+  
+    $fc-federated-states-of-micronesia: ;
+  
+    $fc-federated-states-of-micronesia-2: ;
+  
+    $fc-federated-states-of-micronesia-3: ;
+  
+
+  
+    $fc-faroe-islands: ;
+  
+    $fc-faroe-islands-2: ;
+  
+    $fc-faroe-islands-3: ;
+  
+
+  
+    $fc-france: ;
+  
+    $fc-france-2: ;
+  
+    $fc-france-3: ;
+  
+
+  
+    $fc-gabon: ;
+  
+    $fc-gabon-2: ;
+  
+    $fc-gabon-3: ;
+  
+
+  
+    $fc-united-kingdom: ;
+  
+    $fc-united-kingdom-2: ;
+  
+    $fc-united-kingdom-3: ;
+  
+    $fc-united-kingdom-4: ;
+  
+    $fc-united-kingdom-5: ;
+  
+    $fc-united-kingdom-6: ;
+  
+
+  
+    $fc-grenada: ;
+  
+    $fc-grenada-2: ;
+  
+    $fc-grenada-3: ;
+  
+    $fc-grenada-4: ;
+  
+    $fc-grenada-5: ;
+  
+    $fc-grenada-6: ;
+  
+
+  
+    $fc-georgia: ;
+  
+    $fc-georgia-2: ;
+  
+    $fc-georgia-3: ;
+  
+    $fc-georgia-4: ;
+  
+    $fc-georgia-5: ;
+  
+
+  
+    $fc-french-guiana: ;
+  
+    $fc-french-guiana-2: ;
+  
+    $fc-french-guiana-3: ;
+  
+
+  
+    $fc-ghana: ;
+  
+    $fc-ghana-2: ;
+  
+    $fc-ghana-3: ;
+  
+    $fc-ghana-4: ;
+  
+    $fc-ghana-5: ;
+  
+    $fc-ghana-6: ;
+  
+
+  
+    $fc-gibraltar: ;
+  
+    $fc-gibraltar-2: ;
+  
+    $fc-gibraltar-3: ;
+  
+    $fc-gibraltar-4: ;
+  
+    $fc-gibraltar-5: ;
+  
+    $fc-gibraltar-6: ;
+  
+
+  
+    $fc-greenland: ;
+  
+    $fc-greenland-2: ;
+  
+    $fc-greenland-3: ;
+  
+    $fc-greenland-4: ;
+  
+    $fc-greenland-5: ;
+  
+    $fc-greenland-6: ;
+  
+
+  
+    $fc-gambia: ;
+  
+    $fc-gambia-2: ;
+  
+    $fc-gambia-3: ;
+  
+    $fc-gambia-4: ;
+  
+
+  
+    $fc-guinea: ;
+  
+    $fc-guinea-2: ;
+  
+    $fc-guinea-3: ;
+  
+
+  
+    $fc-equatorial-guinea: ;
+  
+    $fc-equatorial-guinea-2: ;
+  
+    $fc-equatorial-guinea-3: ;
+  
+    $fc-equatorial-guinea-4: ;
+  
+    $fc-equatorial-guinea-5: ;
+  
+    $fc-equatorial-guinea-6: ;
+  
+
+  
+    $fc-greece: ;
+  
+    $fc-greece-2: ;
+  
+
+  
+    $fc-south-georgia-and-the-south-sandwich-islands: ;
+  
+    $fc-south-georgia-and-the-south-sandwich-islands-2: ;
+  
+    $fc-south-georgia-and-the-south-sandwich-islands-3: ;
+  
+    $fc-south-georgia-and-the-south-sandwich-islands-4: ;
+  
+    $fc-south-georgia-and-the-south-sandwich-islands-5: ;
+  
+    $fc-south-georgia-and-the-south-sandwich-islands-6: ;
+  
+
+  
+    $fc-guatemala: ;
+  
+    $fc-guatemala-2: ;
+  
+
+  
+    $fc-guam: ;
+  
+    $fc-guam-2: ;
+  
+    $fc-guam-3: ;
+  
+    $fc-guam-4: ;
+  
+    $fc-guam-5: ;
+  
+    $fc-guam-6: ;
+  
+
+  
+    $fc-guinea-bissau: ;
+  
+    $fc-guinea-bissau-2: ;
+  
+    $fc-guinea-bissau-3: ;
+  
+    $fc-guinea-bissau-4: ;
+  
+    $fc-guinea-bissau-5: ;
+  
+    $fc-guinea-bissau-6: ;
+  
+
+  
+    $fc-guyana: ;
+  
+    $fc-guyana-2: ;
+  
+    $fc-guyana-3: ;
+  
+    $fc-guyana-4: ;
+  
+    $fc-guyana-5: ;
+  
+    $fc-guyana-6: ;
+  
+
+  
+    $fc-hong-kong: ;
+  
+    $fc-hong-kong-2: ;
+  
+    $fc-hong-kong-3: ;
+  
+    $fc-hong-kong-4: ;
+  
+    $fc-hong-kong-5: ;
+  
+
+  
+    $fc-honduras: ;
+  
+    $fc-honduras-2: ;
+  
+    $fc-honduras-3: ;
+  
+    $fc-honduras-4: ;
+  
+    $fc-honduras-5: ;
+  
+    $fc-honduras-6: ;
+  
+
+  
+    $fc-croatia: ;
+  
+    $fc-croatia-2: ;
+  
+    $fc-croatia-3: ;
+  
+    $fc-croatia-4: ;
+  
+    $fc-croatia-5: ;
+  
+    $fc-croatia-6: ;
+  
+
+  
+    $fc-haiti: ;
+  
+    $fc-haiti-2: ;
+  
+
+  
+    $fc-hungary: ;
+  
+    $fc-hungary-2: ;
+  
+    $fc-hungary-3: ;
+  
+
+  
+    $fc-indonesia: ;
+  
+    $fc-indonesia-2: ;
+  
+
+  
+    $fc-ireland: ;
+  
+    $fc-ireland-2: ;
+  
+    $fc-ireland-3: ;
+  
+
+  
+    $fc-israel: ;
+  
+    $fc-israel-2: ;
+  
+    $fc-israel-3: ;
+  
+    $fc-israel-4: ;
+  
+
+  
+    $fc-india: ;
+  
+    $fc-india-2: ;
+  
+    $fc-india-3: ;
+  
+    $fc-india-4: ;
+  
+    $fc-india-5: ;
+  
+    $fc-india-6: ;
+  
+
+  
+    $fc-british-indian-ocean-territory: ;
+  
+    $fc-british-indian-ocean-territory-2: ;
+  
+    $fc-british-indian-ocean-territory-3: ;
+  
+    $fc-british-indian-ocean-territory-4: ;
+  
+    $fc-british-indian-ocean-territory-5: ;
+  
+    $fc-british-indian-ocean-territory-6: ;
+  
+
+  
+    $fc-iraq: ;
+  
+    $fc-iraq-2: ;
+  
+    $fc-iraq-3: ;
+  
+    $fc-iraq-4: ;
+  
+    $fc-iraq-5: ;
+  
+    $fc-iraq-6: ;
+  
+
+  
+    $fc-islamic-republic-of-iran: ;
+  
+    $fc-islamic-republic-of-iran-2: ;
+  
+    $fc-islamic-republic-of-iran-3: ;
+  
+    $fc-islamic-republic-of-iran-4: ;
+  
+    $fc-islamic-republic-of-iran-5: ;
+  
+    $fc-islamic-republic-of-iran-6: ;
+  
+
+  
+    $fc-iceland: ;
+  
+    $fc-iceland-2: ;
+  
+    $fc-iceland-3: ;
+  
+
+  
+    $fc-italy: ;
+  
+    $fc-italy-2: ;
+  
+    $fc-italy-3: ;
+  
+
+  
+    $fc-jamaica: ;
+  
+    $fc-jamaica-2: ;
+  
+    $fc-jamaica-3: ;
+  
+    $fc-jamaica-4: ;
+  
+    $fc-jamaica-5: ;
+  
+    $fc-jamaica-6: ;
+  
+
+  
+    $fc-jordan: ;
+  
+    $fc-jordan-2: ;
+  
+    $fc-jordan-3: ;
+  
+    $fc-jordan-4: ;
+  
+    $fc-jordan-5: ;
+  
+    $fc-jordan-6: ;
+  
+
+  
+    $fc-japan: ;
+  
+    $fc-japan-2: ;
+  
+    $fc-japan-3: ;
+  
+    $fc-japan-4: ;
+  
+    $fc-japan-5: ;
+  
+
+  
+    $fc-kenya: ;
+  
+    $fc-kenya-2: ;
+  
+    $fc-kenya-3: ;
+  
+    $fc-kenya-4: ;
+  
+    $fc-kenya-5: ;
+  
+    $fc-kenya-6: ;
+  
+
+  
+    $fc-kyrgyzstan: ;
+  
+    $fc-kyrgyzstan-2: ;
+  
+    $fc-kyrgyzstan-3: ;
+  
+    $fc-kyrgyzstan-4: ;
+  
+
+  
+    $fc-cambodia: ;
+  
+    $fc-cambodia-2: ;
+  
+    $fc-cambodia-3: ;
+  
+    $fc-cambodia-4: ;
+  
+
+  
+    $fc-kiribati: ;
+  
+    $fc-kiribati-2: ;
+  
+    $fc-kiribati-3: ;
+  
+    $fc-kiribati-4: ;
+  
+    $fc-kiribati-5: ;
+  
+    $fc-kiribati-6: ;
+  
+
+  
+    $fc-comoros: ;
+  
+    $fc-comoros-2: ;
+  
+    $fc-comoros-3: ;
+  
+    $fc-comoros-4: ;
+  
+    $fc-comoros-5: ;
+  
+    $fc-comoros-6: ;
+  
+
+  
+    $fc-saint-kitts-and-nevis: ;
+  
+    $fc-saint-kitts-and-nevis-2: ;
+  
+    $fc-saint-kitts-and-nevis-3: ;
+  
+    $fc-saint-kitts-and-nevis-4: ;
+  
+    $fc-saint-kitts-and-nevis-5: ;
+  
+    $fc-saint-kitts-and-nevis-6: ;
+  
+
+  
+    $fc-democratic-peoples-republic-of-korea: ;
+  
+    $fc-democratic-peoples-republic-of-korea-2: ;
+  
+    $fc-democratic-peoples-republic-of-korea-3: ;
+  
+    $fc-democratic-peoples-republic-of-korea-4: ;
+  
+    $fc-democratic-peoples-republic-of-korea-5: ;
+  
+
+  
+    $fc-republic-of-korea: ;
+  
+    $fc-republic-of-korea-2: ;
+  
+    $fc-republic-of-korea-3: ;
+  
+    $fc-republic-of-korea-4: ;
+  
+    $fc-republic-of-korea-5: ;
+  
+    $fc-republic-of-korea-6: ;
+  
+
+  
+    $fc-kuwait: ;
+  
+    $fc-kuwait-2: ;
+  
+    $fc-kuwait-3: ;
+  
+    $fc-kuwait-4: ;
+  
+    $fc-kuwait-5: ;
+  
+    $fc-kuwait-6: ;
+  
+
+  
+    $fc-cayman-islands: ;
+  
+    $fc-cayman-islands-2: ;
+  
+    $fc-cayman-islands-3: ;
+  
+    $fc-cayman-islands-4: ;
+  
+    $fc-cayman-islands-5: ;
+  
+    $fc-cayman-islands-6: ;
+  
+
+  
+    $fc-kazakhstan: ;
+  
+    $fc-kazakhstan-2: ;
+  
+    $fc-kazakhstan-3: ;
+  
+    $fc-kazakhstan-4: ;
+  
+    $fc-kazakhstan-5: ;
+  
+
+  
+    $fc-lao-peoples-democratic-republic: ;
+  
+    $fc-lao-peoples-democratic-republic-2: ;
+  
+    $fc-lao-peoples-democratic-republic-3: ;
+  
+    $fc-lao-peoples-democratic-republic-4: ;
+  
+    $fc-lao-peoples-democratic-republic-5: ;
+  
+    $fc-lao-peoples-democratic-republic-6: ;
+  
+
+  
+    $fc-lebanon: ;
+  
+    $fc-lebanon-2: ;
+  
+    $fc-lebanon-3: ;
+  
+    $fc-lebanon-4: ;
+  
+    $fc-lebanon-5: ;
+  
+    $fc-lebanon-6: ;
+  
+
+  
+    $fc-saint-lucia: ;
+  
+    $fc-saint-lucia-2: ;
+  
+    $fc-saint-lucia-3: ;
+  
+    $fc-saint-lucia-4: ;
+  
+    $fc-saint-lucia-5: ;
+  
+    $fc-saint-lucia-6: ;
+  
+
+  
+    $fc-liechtenstein: ;
+  
+    $fc-liechtenstein-2: ;
+  
+    $fc-liechtenstein-3: ;
+  
+    $fc-liechtenstein-4: ;
+  
+    $fc-liechtenstein-5: ;
+  
+    $fc-liechtenstein-6: ;
+  
+
+  
+    $fc-sri-lanka: ;
+  
+    $fc-sri-lanka-2: ;
+  
+    $fc-sri-lanka-3: ;
+  
+    $fc-sri-lanka-4: ;
+  
+    $fc-sri-lanka-5: ;
+  
+    $fc-sri-lanka-6: ;
+  
+
+  
+    $fc-liberia: ;
+  
+    $fc-liberia-2: ;
+  
+    $fc-liberia-3: ;
+  
+    $fc-liberia-4: ;
+  
+    $fc-liberia-5: ;
+  
+    $fc-liberia-6: ;
+  
+
+  
+    $fc-lesotho: ;
+  
+    $fc-lesotho-2: ;
+  
+    $fc-lesotho-3: ;
+  
+    $fc-lesotho-4: ;
+  
+    $fc-lesotho-5: ;
+  
+    $fc-lesotho-6: ;
+  
+
+  
+    $fc-lithuania: ;
+  
+    $fc-lithuania-2: ;
+  
+    $fc-lithuania-3: ;
+  
+
+  
+    $fc-luxembourg: ;
+  
+    $fc-luxembourg-2: ;
+  
+    $fc-luxembourg-3: ;
+  
+
+  
+    $fc-latvia: ;
+  
+    $fc-latvia-2: ;
+  
+
+  
+    $fc-libyan-arab-jamahiriya: ;
+  
+    $fc-libyan-arab-jamahiriya-2: ;
+  
+    $fc-libyan-arab-jamahiriya-3: ;
+  
+    $fc-libyan-arab-jamahiriya-4: ;
+  
+    $fc-libyan-arab-jamahiriya-5: ;
+  
+    $fc-libyan-arab-jamahiriya-6: ;
+  
+
+  
+    $fc-morocco: ;
+  
+    $fc-morocco-2: ;
+  
+    $fc-morocco-3: ;
+  
+    $fc-morocco-4: ;
+  
+    $fc-morocco-5: ;
+  
+    $fc-morocco-6: ;
+  
+
+  
+    $fc-monaco: ;
+  
+    $fc-monaco-2: ;
+  
+
+  
+    $fc-republic-of-moldova: ;
+  
+    $fc-republic-of-moldova-2: ;
+  
+    $fc-republic-of-moldova-3: ;
+  
+    $fc-republic-of-moldova-4: ;
+  
+    $fc-republic-of-moldova-5: ;
+  
+    $fc-republic-of-moldova-6: ;
+  
+
+  
+    $fc-madagascar: ;
+  
+    $fc-madagascar-2: ;
+  
+    $fc-madagascar-3: ;
+  
+
+  
+    $fc-marshall-islands: ;
+  
+    $fc-marshall-islands-2: ;
+  
+    $fc-marshall-islands-3: ;
+  
+    $fc-marshall-islands-4: ;
+  
+    $fc-marshall-islands-5: ;
+  
+    $fc-marshall-islands-6: ;
+  
+
+  
+    $fc-the-former-yugoslav-republic-of-macedonia: ;
+  
+    $fc-the-former-yugoslav-republic-of-macedonia-2: ;
+  
+    $fc-the-former-yugoslav-republic-of-macedonia-3: ;
+  
+    $fc-the-former-yugoslav-republic-of-macedonia-4: ;
+  
+
+  
+    $fc-mali: ;
+  
+    $fc-mali-2: ;
+  
+    $fc-mali-3: ;
+  
+
+  
+    $fc-myanmar: ;
+  
+    $fc-myanmar-2: ;
+  
+    $fc-myanmar-3: ;
+  
+    $fc-myanmar-4: ;
+  
+    $fc-myanmar-5: ;
+  
+    $fc-myanmar-6: ;
+  
+
+  
+    $fc-mongolia: ;
+  
+    $fc-mongolia-2: ;
+  
+    $fc-mongolia-3: ;
+  
+    $fc-mongolia-4: ;
+  
+    $fc-mongolia-5: ;
+  
+
+  
+    $fc-macao: ;
+  
+    $fc-macao-2: ;
+  
+    $fc-macao-3: ;
+  
+    $fc-macao-4: ;
+  
+    $fc-macao-5: ;
+  
+    $fc-macao-6: ;
+  
+
+  
+    $fc-northern-mariana-islands: ;
+  
+    $fc-northern-mariana-islands-2: ;
+  
+    $fc-northern-mariana-islands-3: ;
+  
+    $fc-northern-mariana-islands-4: ;
+  
+    $fc-northern-mariana-islands-5: ;
+  
+    $fc-northern-mariana-islands-6: ;
+  
+
+  
+    $fc-mauritania: ;
+  
+    $fc-mauritania-2: ;
+  
+    $fc-mauritania-3: ;
+  
+    $fc-mauritania-4: ;
+  
+
+  
+    $fc-montserrat: ;
+  
+    $fc-montserrat-2: ;
+  
+    $fc-montserrat-3: ;
+  
+    $fc-montserrat-4: ;
+  
+    $fc-montserrat-5: ;
+  
+    $fc-montserrat-6: ;
+  
+
+  
+    $fc-malta: ;
+  
+    $fc-malta-2: ;
+  
+    $fc-malta-3: ;
+  
+    $fc-malta-4: ;
+  
+    $fc-malta-5: ;
+  
+    $fc-malta-6: ;
+  
+
+  
+    $fc-mauritius: ;
+  
+    $fc-mauritius-2: ;
+  
+    $fc-mauritius-3: ;
+  
+    $fc-mauritius-4: ;
+  
+
+  
+    $fc-maldives: ;
+  
+    $fc-maldives-2: ;
+  
+    $fc-maldives-3: ;
+  
+    $fc-maldives-4: ;
+  
+    $fc-maldives-5: ;
+  
+    $fc-maldives-6: ;
+  
+
+  
+    $fc-malawi: ;
+  
+    $fc-malawi-2: ;
+  
+    $fc-malawi-3: ;
+  
+    $fc-malawi-4: ;
+  
+
+  
+    $fc-mexico: ;
+  
+    $fc-mexico-2: ;
+  
+    $fc-mexico-3: ;
+  
+    $fc-mexico-4: ;
+  
+    $fc-mexico-5: ;
+  
+    $fc-mexico-6: ;
+  
+
+  
+    $fc-malaysia: ;
+  
+    $fc-malaysia-2: ;
+  
+    $fc-malaysia-3: ;
+  
+    $fc-malaysia-4: ;
+  
+    $fc-malaysia-5: ;
+  
+    $fc-malaysia-6: ;
+  
+
+  
+    $fc-mozambique: ;
+  
+    $fc-mozambique-2: ;
+  
+    $fc-mozambique-3: ;
+  
+    $fc-mozambique-4: ;
+  
+    $fc-mozambique-5: ;
+  
+    $fc-mozambique-6: ;
+  
+
+  
+    $fc-namibia: ;
+  
+    $fc-namibia-2: ;
+  
+    $fc-namibia-3: ;
+  
+    $fc-namibia-4: ;
+  
+    $fc-namibia-5: ;
+  
+    $fc-namibia-6: ;
+  
+
+  
+    $fc-niger: ;
+  
+    $fc-niger-2: ;
+  
+    $fc-niger-3: ;
+  
+    $fc-niger-4: ;
+  
+    $fc-niger-5: ;
+  
+
+  
+    $fc-norfolk-island: ;
+  
+    $fc-norfolk-island-2: ;
+  
+    $fc-norfolk-island-3: ;
+  
+    $fc-norfolk-island-4: ;
+  
+    $fc-norfolk-island-5: ;
+  
+    $fc-norfolk-island-6: ;
+  
+
+  
+    $fc-nigeria: ;
+  
+    $fc-nigeria-2: ;
+  
+
+  
+    $fc-nicaragua: ;
+  
+    $fc-nicaragua-2: ;
+  
+    $fc-nicaragua-3: ;
+  
+    $fc-nicaragua-4: ;
+  
+    $fc-nicaragua-5: ;
+  
+    $fc-nicaragua-6: ;
+  
+
+  
+    $fc-netherlands: ;
+  
+    $fc-netherlands-2: ;
+  
+    $fc-netherlands-3: ;
+  
+
+  
+    $fc-norway: ;
+  
+    $fc-norway-2: ;
+  
+    $fc-norway-3: ;
+  
+
+  
+    $fc-nepal: ;
+  
+    $fc-nepal-2: ;
+  
+    $fc-nepal-3: ;
+  
+    $fc-nepal-4: ;
+  
+    $fc-nepal-5: ;
+  
+    $fc-nepal-6: ;
+  
+
+  
+    $fc-nauru: ;
+  
+    $fc-nauru-2: ;
+  
+    $fc-nauru-3: ;
+  
+    $fc-nauru-4: ;
+  
+    $fc-nauru-5: ;
+  
+    $fc-nauru-6: ;
+  
+
+  
+    $fc-niue: ;
+  
+    $fc-niue-2: ;
+  
+    $fc-niue-3: ;
+  
+    $fc-niue-4: ;
+  
+
+  
+    $fc-new-zealand: ;
+  
+    $fc-new-zealand-2: ;
+  
+    $fc-new-zealand-3: ;
+  
+    $fc-new-zealand-4: ;
+  
+    $fc-new-zealand-5: ;
+  
+    $fc-new-zealand-6: ;
+  
+
+  
+    $fc-oman: ;
+  
+    $fc-oman-2: ;
+  
+    $fc-oman-3: ;
+  
+    $fc-oman-4: ;
+  
+    $fc-oman-5: ;
+  
+    $fc-oman-6: ;
+  
+
+  
+    $fc-panama: ;
+  
+    $fc-panama-2: ;
+  
+    $fc-panama-3: ;
+  
+    $fc-panama-4: ;
+  
+    $fc-panama-5: ;
+  
+    $fc-panama-6: ;
+  
+
+  
+    $fc-peru: ;
+  
+    $fc-peru-2: ;
+  
+
+  
+    $fc-french-polynesia: ;
+  
+    $fc-french-polynesia-2: ;
+  
+    $fc-french-polynesia-3: ;
+  
+    $fc-french-polynesia-4: ;
+  
+    $fc-french-polynesia-5: ;
+  
+    $fc-french-polynesia-6: ;
+  
+
+  
+    $fc-papua-new-guinea: ;
+  
+    $fc-papua-new-guinea-2: ;
+  
+    $fc-papua-new-guinea-3: ;
+  
+    $fc-papua-new-guinea-4: ;
+  
+    $fc-papua-new-guinea-5: ;
+  
+    $fc-papua-new-guinea-6: ;
+  
+
+  
+    $fc-philippines: ;
+  
+    $fc-philippines-2: ;
+  
+    $fc-philippines-3: ;
+  
+    $fc-philippines-4: ;
+  
+    $fc-philippines-5: ;
+  
+    $fc-philippines-6: ;
+  
+
+  
+    $fc-pakistan: ;
+  
+    $fc-pakistan-2: ;
+  
+    $fc-pakistan-3: ;
+  
+    $fc-pakistan-4: ;
+  
+    $fc-pakistan-5: ;
+  
+    $fc-pakistan-6: ;
+  
+
+  
+    $fc-poland: ;
+  
+    $fc-poland-2: ;
+  
+
+  
+    $fc-saint-pierre-and-miquelon: ;
+  
+    $fc-saint-pierre-and-miquelon-2: ;
+  
+    $fc-saint-pierre-and-miquelon-3: ;
+  
+    $fc-saint-pierre-and-miquelon-4: ;
+  
+    $fc-saint-pierre-and-miquelon-5: ;
+  
+    $fc-saint-pierre-and-miquelon-6: ;
+  
+
+  
+    $fc-pitcairn: ;
+  
+    $fc-pitcairn-2: ;
+  
+    $fc-pitcairn-3: ;
+  
+    $fc-pitcairn-4: ;
+  
+    $fc-pitcairn-5: ;
+  
+    $fc-pitcairn-6: ;
+  
+
+  
+    $fc-puerto-rico: ;
+  
+    $fc-puerto-rico-2: ;
+  
+    $fc-puerto-rico-3: ;
+  
+
+  
+    $fc-occupied-palestinian-territory: ;
+  
+    $fc-occupied-palestinian-territory-2: ;
+  
+    $fc-occupied-palestinian-territory-3: ;
+  
+    $fc-occupied-palestinian-territory-4: ;
+  
+    $fc-occupied-palestinian-territory-5: ;
+  
+    $fc-occupied-palestinian-territory-6: ;
+  
+
+  
+    $fc-portugal: ;
+  
+    $fc-portugal-2: ;
+  
+    $fc-portugal-3: ;
+  
+    $fc-portugal-4: ;
+  
+    $fc-portugal-5: ;
+  
+    $fc-portugal-6: ;
+  
+
+  
+    $fc-palau: ;
+  
+    $fc-palau-2: ;
+  
+    $fc-palau-3: ;
+  
+    $fc-palau-4: ;
+  
+    $fc-palau-5: ;
+  
+    $fc-palau-6: ;
+  
+
+  
+    $fc-paraguay: ;
+  
+    $fc-paraguay-2: ;
+  
+    $fc-paraguay-3: ;
+  
+    $fc-paraguay-4: ;
+  
+    $fc-paraguay-5: ;
+  
+    $fc-paraguay-6: ;
+  
+
+  
+    $fc-qatar: ;
+  
+    $fc-qatar-2: ;
+  
+    $fc-qatar-3: ;
+  
+    $fc-qatar-4: ;
+  
+
+  
+    $fc-reunion: ;
+  
+    $fc-reunion-2: ;
+  
+    $fc-reunion-3: ;
+  
+
+  
+    $fc-romania: ;
+  
+    $fc-romania-2: ;
+  
+    $fc-romania-3: ;
+  
+
+  
+    $fc-russian-federation: ;
+  
+    $fc-russian-federation-2: ;
+  
+    $fc-russian-federation-3: ;
+  
+
+  
+    $fc-rwanda: ;
+  
+    $fc-rwanda-2: ;
+  
+    $fc-rwanda-3: ;
+  
+    $fc-rwanda-4: ;
+  
+    $fc-rwanda-5: ;
+  
+    $fc-rwanda-6: ;
+  
+
+  
+    $fc-saudi-arabia: ;
+  
+    $fc-saudi-arabia-2: ;
+  
+    $fc-saudi-arabia-3: ;
+  
+    $fc-saudi-arabia-4: ;
+  
+    $fc-saudi-arabia-5: ;
+  
+    $fc-saudi-arabia-6: ;
+  
+
+  
+    $fc-solomon-islands: ;
+  
+    $fc-solomon-islands-2: ;
+  
+    $fc-solomon-islands-3: ;
+  
+    $fc-solomon-islands-4: ;
+  
+    $fc-solomon-islands-5: ;
+  
+    $fc-solomon-islands-6: ;
+  
+
+  
+    $fc-seychelles: ;
+  
+    $fc-seychelles-2: ;
+  
+    $fc-seychelles-3: ;
+  
+    $fc-seychelles-4: ;
+  
+    $fc-seychelles-5: ;
+  
+    $fc-seychelles-6: ;
+  
+
+  
+    $fc-sudan: ;
+  
+    $fc-sudan-2: ;
+  
+    $fc-sudan-3: ;
+  
+    $fc-sudan-4: ;
+  
+    $fc-sudan-5: ;
+  
+    $fc-sudan-6: ;
+  
+
+  
+    $fc-sweden: ;
+  
+    $fc-sweden-2: ;
+  
+
+  
+    $fc-singapore: ;
+  
+    $fc-singapore-2: ;
+  
+    $fc-singapore-3: ;
+  
+    $fc-singapore-4: ;
+  
+    $fc-singapore-5: ;
+  
+
+  
+    $fc-saint-helena: ;
+  
+    $fc-saint-helena-2: ;
+  
+    $fc-saint-helena-3: ;
+  
+    $fc-saint-helena-4: ;
+  
+    $fc-saint-helena-5: ;
+  
+    $fc-saint-helena-6: ;
+  
+
+  
+    $fc-slovenia: ;
+  
+    $fc-slovenia-2: ;
+  
+    $fc-slovenia-3: ;
+  
+    $fc-slovenia-4: ;
+  
+    $fc-slovenia-5: ;
+  
+    $fc-slovenia-6: ;
+  
+
+  
+    $fc-svalbard-and-jan-mayen: ;
+  
+    $fc-svalbard-and-jan-mayen-2: ;
+  
+    $fc-svalbard-and-jan-mayen-3: ;
+  
+
+  
+    $fc-slovakia: ;
+  
+    $fc-slovakia-2: ;
+  
+    $fc-slovakia-3: ;
+  
+    $fc-slovakia-4: ;
+  
+    $fc-slovakia-5: ;
+  
+    $fc-slovakia-6: ;
+  
+
+  
+    $fc-sierra-leone: ;
+  
+    $fc-sierra-leone-2: ;
+  
+    $fc-sierra-leone-3: ;
+  
+
+  
+    $fc-san-marino: ;
+  
+    $fc-san-marino-2: ;
+  
+    $fc-san-marino-3: ;
+  
+    $fc-san-marino-4: ;
+  
+    $fc-san-marino-5: ;
+  
+    $fc-san-marino-6: ;
+  
+
+  
+    $fc-senegal: ;
+  
+    $fc-senegal-2: ;
+  
+    $fc-senegal-3: ;
+  
+    $fc-senegal-4: ;
+  
+    $fc-senegal-5: ;
+  
+
+  
+    $fc-somalia: ;
+  
+    $fc-somalia-2: ;
+  
+    $fc-somalia-3: ;
+  
+    $fc-somalia-4: ;
+  
+
+  
+    $fc-suriname: ;
+  
+    $fc-suriname-2: ;
+  
+    $fc-suriname-3: ;
+  
+    $fc-suriname-4: ;
+  
+    $fc-suriname-5: ;
+  
+
+  
+    $fc-sao-tome-and-principe: ;
+  
+    $fc-sao-tome-and-principe-2: ;
+  
+    $fc-sao-tome-and-principe-3: ;
+  
+    $fc-sao-tome-and-principe-4: ;
+  
+    $fc-sao-tome-and-principe-5: ;
+  
+    $fc-sao-tome-and-principe-6: ;
+  
+
+  
+    $fc-el-salvador: ;
+  
+    $fc-el-salvador-2: ;
+  
+    $fc-el-salvador-3: ;
+  
+    $fc-el-salvador-4: ;
+  
+    $fc-el-salvador-5: ;
+  
+    $fc-el-salvador-6: ;
+  
+
+  
+    $fc-syrian-arab-republic: ;
+  
+    $fc-syrian-arab-republic-2: ;
+  
+    $fc-syrian-arab-republic-3: ;
+  
+    $fc-syrian-arab-republic-4: ;
+  
+    $fc-syrian-arab-republic-5: ;
+  
+    $fc-syrian-arab-republic-6: ;
+  
+
+  
+    $fc-swaziland: ;
+  
+    $fc-swaziland-2: ;
+  
+    $fc-swaziland-3: ;
+  
+    $fc-swaziland-4: ;
+  
+    $fc-swaziland-5: ;
+  
+    $fc-swaziland-6: ;
+  
+
+  
+    $fc-turks-and-caicos-islands: ;
+  
+    $fc-turks-and-caicos-islands-2: ;
+  
+    $fc-turks-and-caicos-islands-3: ;
+  
+    $fc-turks-and-caicos-islands-4: ;
+  
+    $fc-turks-and-caicos-islands-5: ;
+  
+    $fc-turks-and-caicos-islands-6: ;
+  
+
+  
+    $fc-chad: ;
+  
+    $fc-chad-2: ;
+  
+    $fc-chad-3: ;
+  
+
+  
+    $fc-french-southern-territories: ;
+  
+    $fc-french-southern-territories-2: ;
+  
+    $fc-french-southern-territories-3: ;
+  
+    $fc-french-southern-territories-4: ;
+  
+    $fc-french-southern-territories-5: ;
+  
+    $fc-french-southern-territories-6: ;
+  
+
+  
+    $fc-togo: ;
+  
+    $fc-togo-2: ;
+  
+    $fc-togo-3: ;
+  
+    $fc-togo-4: ;
+  
+
+  
+    $fc-thailand: ;
+  
+    $fc-thailand-2: ;
+  
+    $fc-thailand-3: ;
+  
+
+  
+    $fc-tajikistan: ;
+  
+    $fc-tajikistan-2: ;
+  
+    $fc-tajikistan-3: ;
+  
+    $fc-tajikistan-4: ;
+  
+
+  
+    $fc-tokelau: ;
+  
+    $fc-tokelau-2: ;
+  
+    $fc-tokelau-3: ;
+  
+    $fc-tokelau-4: ;
+  
+    $fc-tokelau-5: ;
+  
+    $fc-tokelau-6: ;
+  
+
+  
+    $fc-timor-leste: ;
+  
+    $fc-timor-leste-2: ;
+  
+    $fc-timor-leste-3: ;
+  
+    $fc-timor-leste-4: ;
+  
+    $fc-timor-leste-5: ;
+  
+    $fc-timor-leste-6: ;
+  
+
+  
+    $fc-turkmenistan: ;
+  
+    $fc-turkmenistan-2: ;
+  
+    $fc-turkmenistan-3: ;
+  
+    $fc-turkmenistan-4: ;
+  
+    $fc-turkmenistan-5: ;
+  
+    $fc-turkmenistan-6: ;
+  
+
+  
+    $fc-tunisia: ;
+  
+    $fc-tunisia-2: ;
+  
+    $fc-tunisia-3: ;
+  
+    $fc-tunisia-4: ;
+  
+
+  
+    $fc-tonga: ;
+  
+    $fc-tonga-2: ;
+  
+
+  
+    $fc-turkey: ;
+  
+    $fc-turkey-2: ;
+  
+    $fc-turkey-3: ;
+  
+    $fc-turkey-4: ;
+  
+    $fc-turkey-5: ;
+  
+
+  
+    $fc-trinidad-and-tobago: ;
+  
+    $fc-trinidad-and-tobago-2: ;
+  
+    $fc-trinidad-and-tobago-3: ;
+  
+    $fc-trinidad-and-tobago-4: ;
+  
+    $fc-trinidad-and-tobago-5: ;
+  
+    $fc-trinidad-and-tobago-6: ;
+  
+
+  
+    $fc-tuvalu: ;
+  
+    $fc-tuvalu-2: ;
+  
+    $fc-tuvalu-3: ;
+  
+    $fc-tuvalu-4: ;
+  
+    $fc-tuvalu-5: ;
+  
+    $fc-tuvalu-6: ;
+  
+
+  
+    $fc-province-of-china-taiwan: ;
+  
+    $fc-province-of-china-taiwan-2: ;
+  
+    $fc-province-of-china-taiwan-3: ;
+  
+    $fc-province-of-china-taiwan-4: ;
+  
+    $fc-province-of-china-taiwan-5: ;
+  
+    $fc-province-of-china-taiwan-6: ;
+  
+
+  
+    $fc-united-republic-of-tanzania: ;
+  
+    $fc-united-republic-of-tanzania-2: ;
+  
+    $fc-united-republic-of-tanzania-3: ;
+  
+    $fc-united-republic-of-tanzania-4: ;
+  
+    $fc-united-republic-of-tanzania-5: ;
+  
+    $fc-united-republic-of-tanzania-6: ;
+  
+
+  
+    $fc-ukraine: ;
+  
+    $fc-ukraine-2: ;
+  
+
+  
+    $fc-uganda: ;
+  
+    $fc-uganda-2: ;
+  
+    $fc-uganda-3: ;
+  
+    $fc-uganda-4: ;
+  
+    $fc-uganda-5: ;
+  
+    $fc-uganda-6: ;
+  
+
+  
+    $fc-united-states-minor-outlying-islands: ;
+  
+    $fc-united-states-minor-outlying-islands-2: ;
+  
+    $fc-united-states-minor-outlying-islands-3: ;
+  
+    $fc-united-states-minor-outlying-islands-4: ;
+  
+    $fc-united-states-minor-outlying-islands-5: ;
+  
+    $fc-united-states-minor-outlying-islands-6: ;
+  
+
+  
+    $fc-united-states: ;
+  
+    $fc-united-states-2: ;
+  
+    $fc-united-states-3: ;
+  
+    $fc-united-states-4: ;
+  
+    $fc-united-states-5: ;
+  
+    $fc-united-states-6: ;
+  
+
+  
+    $fc-uruguay: ;
+  
+    $fc-uruguay-2: ;
+  
+    $fc-uruguay-3: ;
+  
+    $fc-uruguay-4: ;
+  
+    $fc-uruguay-5: ;
+  
+    $fc-uruguay-6: ;
+  
+
+  
+    $fc-uzbekistan: ;
+  
+    $fc-uzbekistan-2: ;
+  
+    $fc-uzbekistan-3: ;
+  
+    $fc-uzbekistan-4: ;
+  
+
+  
+    $fc-holy-see-vatican-city-state: ;
+  
+    $fc-holy-see-vatican-city-state-2: ;
+  
+    $fc-holy-see-vatican-city-state-3: ;
+  
+    $fc-holy-see-vatican-city-state-4: ;
+  
+    $fc-holy-see-vatican-city-state-5: ;
+  
+    $fc-holy-see-vatican-city-state-6: ;
+  
+
+  
+    $fc-saint-vincent-and-the-grenadines: ;
+  
+    $fc-saint-vincent-and-the-grenadines-2: ;
+  
+    $fc-saint-vincent-and-the-grenadines-3: ;
+  
+    $fc-saint-vincent-and-the-grenadines-4: ;
+  
+    $fc-saint-vincent-and-the-grenadines-5: ;
+  
+    $fc-saint-vincent-and-the-grenadines-6: ;
+  
+
+  
+    $fc-venezuela: ;
+  
+    $fc-venezuela-2: ;
+  
+    $fc-venezuela-3: ;
+  
+    $fc-venezuela-4: ;
+  
+    $fc-venezuela-5: ;
+  
+    $fc-venezuela-6: ;
+  
+
+  
+    $fc-british-virgin-islands: ;
+  
+    $fc-british-virgin-islands-2: ;
+  
+    $fc-british-virgin-islands-3: ;
+  
+    $fc-british-virgin-islands-4: ;
+  
+    $fc-british-virgin-islands-5: ;
+  
+    $fc-british-virgin-islands-6: ;
+  
+
+  
+    $fc-us-virgin-islands: ;
+  
+    $fc-us-virgin-islands-2: ;
+  
+    $fc-us-virgin-islands-3: ;
+  
+    $fc-us-virgin-islands-4: ;
+  
+    $fc-us-virgin-islands-5: ;
+  
+    $fc-us-virgin-islands-6: ;
+  
+
+  
+    $fc-viet-nam: ;
+  
+    $fc-viet-nam-2: ;
+  
+    $fc-viet-nam-3: ;
+  
+
+  
+    $fc-vanuatu: ;
+  
+    $fc-vanuatu-2: ;
+  
+    $fc-vanuatu-3: ;
+  
+    $fc-vanuatu-4: ;
+  
+    $fc-vanuatu-5: ;
+  
+    $fc-vanuatu-6: ;
+  
+
+  
+    $fc-wallis-and-futuna: ;
+  
+    $fc-wallis-and-futuna-2: ;
+  
+    $fc-wallis-and-futuna-3: ;
+  
+
+  
+    $fc-samoa: ;
+  
+    $fc-samoa-2: ;
+  
+    $fc-samoa-3: ;
+  
+    $fc-samoa-4: ;
+  
+    $fc-samoa-5: ;
+  
+    $fc-samoa-6: ;
+  
+
+  
+    $fc-yemen: ;
+  
+    $fc-yemen-2: ;
+  
+    $fc-yemen-3: ;
+  
+
+  
+    $fc-mayotte: ;
+  
+    $fc-mayotte-2: ;
+  
+    $fc-mayotte-3: ;
+  
+    $fc-mayotte-4: ;
+  
+    $fc-mayotte-5: ;
+  
+    $fc-mayotte-6: ;
+  
+
+  
+    $fc-serbia-and-montenegro: ;
+  
+    $fc-serbia-and-montenegro-2: ;
+  
+    $fc-serbia-and-montenegro-3: ;
+  
+
+  
+    $fc-south-africa: ;
+  
+    $fc-south-africa-2: ;
+  
+    $fc-south-africa-3: ;
+  
+    $fc-south-africa-4: ;
+  
+    $fc-south-africa-5: ;
+  
+    $fc-south-africa-6: ;
+  
+
+  
+    $fc-zambia: ;
+  
+    $fc-zambia-2: ;
+  
+    $fc-zambia-3: ;
+  
+    $fc-zambia-4: ;
+  
+    $fc-zambia-5: ;
+  
+    $fc-zambia-6: ;
+  
+
+  
+    $fc-zimbabwe: ;
+  
+    $fc-zimbabwe-2: ;
+  
+    $fc-zimbabwe-3: ;
+  
+    $fc-zimbabwe-4: ;
+  
+    $fc-zimbabwe-5: ;
+  

@@ -1,0 +1,4421 @@
+[{
+  "name": "ANDORRA",
+  "url": "http://www.crwflags.com/fotw/images/a/ad.gif",
+  "colors": [{
+    "hex": "#E70031",
+    "percent": 33.39
+  }, {
+    "hex": "#10188C",
+    "percent": 31.86
+  }, {
+    "hex": "#FFFF00",
+    "percent": 26.69
+  }, {
+    "hex": "#DEC693",
+    "percent": 4.56
+  }, {
+    "hex": "#AD9463",
+    "percent": 1.39
+  }, {
+    "hex": "#77562A",
+    "percent": 1.26
+  }]
+}, {
+  "name": "UNITED ARAB EMIRATES",
+  "url": "http://www.crwflags.com/fotw/images/a/ae.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 25.46
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 24.85
+  }, {
+    "hex": "#000000",
+    "percent": 24.85
+  }, {
+    "hex": "#009900",
+    "percent": 24.85
+  }]
+}, {
+  "name": "AFGHANISTAN",
+  "url": "http://www.crwflags.com/fotw/images/a/af.gif",
+  "colors": [{
+    "hex": "#006647",
+    "percent": 32.25
+  }, {
+    "hex": "#000000",
+    "percent": 32.15
+  }, {
+    "hex": "#CF142B",
+    "percent": 23.97
+  }, {
+    "hex": "#F4CED2",
+    "percent": 6.63
+  }, {
+    "hex": "#E78A96",
+    "percent": 2.08
+  }, {
+    "hex": "#DD5B6B",
+    "percent": 1.01
+  }]
+}, {
+  "name": "ANTIGUA AND BARBUDA",
+  "url": "http://www.crwflags.com/fotw/images/a/ag.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 49.97
+  }, {
+    "hex": "#000000",
+    "percent": 25.3
+  }, {
+    "hex": "#0066CC",
+    "percent": 11.04
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 7.43
+  }, {
+    "hex": "#FFCC00",
+    "percent": 5.48
+  }, {
+    "hex": "#374A95",
+    "percent": 0.03
+  }]
+}, {
+  "name": "ANGUILLA",
+  "url": "http://www.crwflags.com/fotw/images/a/ai.gif",
+  "colors": [{
+    "hex": "#08296B",
+    "percent": 72.32
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 13.41
+  }, {
+    "hex": "#C62929",
+    "percent": 8.92
+  }, {
+    "hex": "#E77329",
+    "percent": 1.39
+  }, {
+    "hex": "#B1642C",
+    "percent": 0.32
+  }, {
+    "hex": "#6FA5CA",
+    "percent": 0.09
+  }]
+}, {
+  "name": "ALBANIA",
+  "url": "http://www.crwflags.com/fotw/images/a/al.gif",
+  "colors": [{
+    "hex": "#CC0001",
+    "percent": 86.52
+  }, {
+    "hex": "#010101",
+    "percent": 11.94
+  }, {
+    "hex": "#6F0608",
+    "percent": 1.54
+  }]
+}, {
+  "name": "ARMENIA",
+  "url": "http://www.crwflags.com/fotw/images/a/am.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FF9900",
+    "percent": 33.33
+  }, {
+    "hex": "#000099",
+    "percent": 33.33
+  }]
+}, {
+  "name": "NETHERLANDS ANTILLES",
+  "url": "http://www.crwflags.com/fotw/images/a/an.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 52.28
+  }, {
+    "hex": "#000099",
+    "percent": 32.53
+  }, {
+    "hex": "#FF0000",
+    "percent": 14.81
+  }, {
+    "hex": "#333399",
+    "percent": 0.08
+  }, {
+    "hex": "#6666CC",
+    "percent": 0.07
+  }, {
+    "hex": "#9999CC",
+    "percent": 0.06
+  }]
+}, {
+  "name": "ANGOLA",
+  "url": "http://www.crwflags.com/fotw/images/a/ao.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 47.77
+  }, {
+    "hex": "#000000",
+    "percent": 45.73
+  }, {
+    "hex": "#212121",
+    "percent": 0.88
+  }, {
+    "hex": "#8E0503",
+    "percent": 0.43
+  }, {
+    "hex": "#D6AB00",
+    "percent": 0.4
+  }, {
+    "hex": "#6A5500",
+    "percent": 0.18
+  }]
+}, {
+  "name": "ANTARCTICA",
+  "url": "http://www.crwflags.com/fotw/images/a/aq.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 74.41
+  }, {
+    "hex": "#FEFEFF",
+    "percent": 19.23
+  }, {
+    "hex": "#A7A7DC",
+    "percent": 2.49
+  }, {
+    "hex": "#4F4FB8",
+    "percent": 2.41
+  }, {
+    "hex": "#D1D1ED",
+    "percent": 1.47
+  }]
+}, {
+  "name": "ARGENTINA",
+  "url": "http://www.crwflags.com/fotw/images/a/ar.gif",
+  "colors": [{
+    "hex": "#75AADB",
+    "percent": 66.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.91
+  }, {
+    "hex": "#D1964F",
+    "percent": 1.32
+  }, {
+    "hex": "#B87129",
+    "percent": 0.26
+  }, {
+    "hex": "#813210",
+    "percent": 0
+  }, {
+    "hex": "#924618",
+    "percent": 0
+  }]
+}, {
+  "name": "AMERICAN SAMOA",
+  "url": "http://www.crwflags.com/fotw/images/a/as.gif",
+  "colors": [{
+    "hex": "#0000FF",
+    "percent": 49.31
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.08
+  }, {
+    "hex": "#FF0000",
+    "percent": 10.94
+  }, {
+    "hex": "#A54A00",
+    "percent": 3.45
+  }, {
+    "hex": "#B5B5B2",
+    "percent": 1.07
+  }, {
+    "hex": "#FFFE00",
+    "percent": 0.94
+  }]
+}, {
+  "name": "AUSTRIA",
+  "url": "http://www.crwflags.com/fotw/images/a/at.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 66.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "AUSTRALIA",
+  "url": "http://www.crwflags.com/fotw/images/a/au.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 78.16
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 11.02
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.45
+  }, {
+    "hex": "#E47B7B",
+    "percent": 0.29
+  }, {
+    "hex": "#23237B",
+    "percent": 0.19
+  }, {
+    "hex": "#9B9BC3",
+    "percent": 0.05
+  }]
+}, {
+  "name": "ARUBA",
+  "url": "http://www.crwflags.com/fotw/images/a/aw.gif",
+  "colors": [{
+    "hex": "#3399CC",
+    "percent": 86.92
+  }, {
+    "hex": "#FFFF00",
+    "percent": 11.11
+  }, {
+    "hex": "#CC3333",
+    "percent": 0.17
+  }, {
+    "hex": "#6699CC",
+    "percent": 0.03
+  }, {
+    "hex": "#66CCCC",
+    "percent": 0.02
+  }, {
+    "hex": "#CC6666",
+    "percent": 0.01
+  }]
+}, {
+  "name": "AZERBAIJAN",
+  "url": "http://www.crwflags.com/fotw/images/a/az.gif",
+  "colors": [{
+    "hex": "#0099CC",
+    "percent": 33.33
+  }, {
+    "hex": "#009933",
+    "percent": 33.33
+  }, {
+    "hex": "#CC3333",
+    "percent": 31.66
+  }, {
+    "hex": "#FFFEFE",
+    "percent": 1.41
+  }, {
+    "hex": "#E39191",
+    "percent": 0.2
+  }, {
+    "hex": "#F2CDCD",
+    "percent": 0.06
+  }]
+}, {
+  "name": "BOSNIA AND HERZEGOVINA",
+  "url": "http://www.crwflags.com/fotw/images/b/ba.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 71.02
+  }, {
+    "hex": "#FFCC00",
+    "percent": 25.11
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 3.87
+  }]
+}, {
+  "name": "BARBADOS",
+  "url": "http://www.crwflags.com/fotw/images/b/bb.gif",
+  "colors": [{
+    "hex": "#003399",
+    "percent": 66.67
+  }, {
+    "hex": "#FFCC00",
+    "percent": 29.77
+  }, {
+    "hex": "#000000",
+    "percent": 2.99
+  }, {
+    "hex": "#7B6200",
+    "percent": 0.17
+  }, {
+    "hex": "#463800",
+    "percent": 0.05
+  }, {
+    "hex": "#3A2F00",
+    "percent": 0.05
+  }]
+}, {
+  "name": "BANGLADESH",
+  "url": "http://www.crwflags.com/fotw/images/b/bd.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 78.76
+  }, {
+    "hex": "#FF0000",
+    "percent": 20.79
+  }, {
+    "hex": "#2F5300",
+    "percent": 0.21
+  }, {
+    "hex": "#912B00",
+    "percent": 0.14
+  }, {
+    "hex": "#C41700",
+    "percent": 0.1
+  }]
+}, {
+  "name": "BELGIUM",
+  "url": "http://www.crwflags.com/fotw/images/b/be.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.46
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.46
+  }, {
+    "hex": "#000000",
+    "percent": 33.07
+  }]
+}, {
+  "name": "BURKINA FASO",
+  "url": "http://www.crwflags.com/fotw/images/b/bf.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 49.01
+  }, {
+    "hex": "#FF0000",
+    "percent": 48.87
+  }, {
+    "hex": "#FFFF00",
+    "percent": 2.03
+  }, {
+    "hex": "#72C700",
+    "percent": 0.06
+  }, {
+    "hex": "#FF6C00",
+    "percent": 0.03
+  }]
+}, {
+  "name": "BULGARIA",
+  "url": "http://www.crwflags.com/fotw/images/b/bg.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "BAHRAIN",
+  "url": "http://www.crwflags.com/fotw/images/b/bh.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 72.23
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 27.17
+  }, {
+    "hex": "#E76758",
+    "percent": 0.25
+  }, {
+    "hex": "#FAD3D0",
+    "percent": 0.22
+  }, {
+    "hex": "#EF958A",
+    "percent": 0.13
+  }]
+}, {
+  "name": "BURUNDI",
+  "url": "http://www.crwflags.com/fotw/images/b/bi.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 34.23
+  }, {
+    "hex": "#00CC00",
+    "percent": 33.67
+  }, {
+    "hex": "#FF0000",
+    "percent": 30.34
+  }, {
+    "hex": "#50DC50",
+    "percent": 0.39
+  }, {
+    "hex": "#FF4D4D",
+    "percent": 0.29
+  }, {
+    "hex": "#FF7676",
+    "percent": 0.15
+  }]
+}, {
+  "name": "BENIN",
+  "url": "http://www.crwflags.com/fotw/images/b/bj.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 40.12
+  }, {
+    "hex": "#FF0000",
+    "percent": 29.94
+  }, {
+    "hex": "#FFFF00",
+    "percent": 29.94
+  }]
+}, {
+  "name": "BERMUDA",
+  "url": "http://www.crwflags.com/fotw/images/b/bm.gif",
+  "colors": [{
+    "hex": "#CC0001",
+    "percent": 74.16
+  }, {
+    "hex": "#FEFEFF",
+    "percent": 11.67
+  }, {
+    "hex": "#010066",
+    "percent": 6.72
+  }, {
+    "hex": "#019901",
+    "percent": 2.24
+  }, {
+    "hex": "#C1A035",
+    "percent": 0.28
+  }, {
+    "hex": "#D02E30",
+    "percent": 0.27
+  }]
+}, {
+  "name": "BRUNEI DARUSSALAM",
+  "url": "http://www.crwflags.com/fotw/images/b/bn.gif",
+  "colors": [{
+    "hex": "#F7DB00",
+    "percent": 50.18
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 22.06
+  }, {
+    "hex": "#000000",
+    "percent": 17.54
+  }, {
+    "hex": "#CD4F47",
+    "percent": 5.47
+  }, {
+    "hex": "#6A2B25",
+    "percent": 1.24
+  }, {
+    "hex": "#DEA327",
+    "percent": 0.44
+  }]
+}, {
+  "name": "BOLIVIA",
+  "url": "http://www.crwflags.com/fotw/images/b/bo.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "BRAZIL",
+  "url": "http://www.crwflags.com/fotw/images/b/br.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 67.19
+  }, {
+    "hex": "#FFCC00",
+    "percent": 18.72
+  }, {
+    "hex": "#000099",
+    "percent": 11.58
+  }, {
+    "hex": "#3737C3",
+    "percent": 0.13
+  }, {
+    "hex": "#776671",
+    "percent": 0.09
+  }, {
+    "hex": "#FFF287",
+    "percent": 0.01
+  }]
+}, {
+  "name": "BAHAMAS",
+  "url": "http://www.crwflags.com/fotw/images/b/bs.gif",
+  "colors": [{
+    "hex": "#00CCCB",
+    "percent": 56.87
+  }, {
+    "hex": "#000000",
+    "percent": 21.67
+  }, {
+    "hex": "#FFCC00",
+    "percent": 21.22
+  }, {
+    "hex": "#0C8F8E",
+    "percent": 0.15
+  }, {
+    "hex": "#AE8E11",
+    "percent": 0.03
+  }, {
+    "hex": "#7A6411",
+    "percent": 0.03
+  }]
+}, {
+  "name": "BHUTAN",
+  "url": "http://www.crwflags.com/fotw/images/b/bt.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 42.67
+  }, {
+    "hex": "#FF6600",
+    "percent": 41.52
+  }, {
+    "hex": "#FDFDFD",
+    "percent": 5.8
+  }, {
+    "hex": "#16120D",
+    "percent": 0.68
+  }, {
+    "hex": "#382E05",
+    "percent": 0.68
+  }, {
+    "hex": "#725C05",
+    "percent": 0.21
+  }]
+}, {
+  "name": "BOUVET ISLAND",
+  "url": "http://www.crwflags.com/fotw/images/b/bv.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 61.36
+  }, {
+    "hex": "#003366",
+    "percent": 19.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 18.9
+  }]
+}, {
+  "name": "BOTSWANA",
+  "url": "http://www.crwflags.com/fotw/images/b/bw.gif",
+  "colors": [{
+    "hex": "#35CDFF",
+    "percent": 75
+  }, {
+    "hex": "#000000",
+    "percent": 16.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.33
+  }]
+}, {
+  "name": "BELARUS",
+  "url": "http://www.crwflags.com/fotw/images/b/by.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 64.03
+  }, {
+    "hex": "#009900",
+    "percent": 29.63
+  }, {
+    "hex": "#FFFEFE",
+    "percent": 4.28
+  }, {
+    "hex": "#FF5454",
+    "percent": 1.06
+  }, {
+    "hex": "#FFCFCF",
+    "percent": 0.61
+  }, {
+    "hex": "#FF9292",
+    "percent": 0.39
+  }]
+}, {
+  "name": "BELIZE",
+  "url": "http://www.crwflags.com/fotw/images/b/bz.gif",
+  "colors": [{
+    "hex": "#043E84",
+    "percent": 61.08
+  }, {
+    "hex": "#DC3A3B",
+    "percent": 20.04
+  }, {
+    "hex": "#FAFBFA",
+    "percent": 9.04
+  }, {
+    "hex": "#D3D4D2",
+    "percent": 2.61
+  }, {
+    "hex": "#24900C",
+    "percent": 2.44
+  }, {
+    "hex": "#C69E40",
+    "percent": 0.28
+  }]
+}, {
+  "name": "CANADA",
+  "url": "http://www.crwflags.com/fotw/images/c/ca.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 62.95
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 36.29
+  }, {
+    "hex": "#FF3232",
+    "percent": 0.44
+  }, {
+    "hex": "#FFCFCF",
+    "percent": 0.19
+  }, {
+    "hex": "#FF8C8C",
+    "percent": 0.13
+  }]
+}, {
+  "name": "COCOS KEELING ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/c/cc.gif",
+  "colors": [{
+    "hex": "#007B31",
+    "percent": 89.39
+  }, {
+    "hex": "#FECE10",
+    "percent": 9.49
+  }, {
+    "hex": "#6B9C21",
+    "percent": 0.67
+  }, {
+    "hex": "#318A29",
+    "percent": 0.24
+  }, {
+    "hex": "#BD8608",
+    "percent": 0.01
+  }, {
+    "hex": "#AE7106",
+    "percent": 0.01
+  }]
+}, {
+  "name": "THE DEMOCRATIC REPUBLIC OF THE CONGO",
+  "url": "http://www.crwflags.com/fotw/images/c/cd.gif",
+  "colors": [{
+    "hex": "#00A0E0",
+    "percent": 66.32
+  }, {
+    "hex": "#E00010",
+    "percent": 21.64
+  }, {
+    "hex": "#FFE000",
+    "percent": 10.29
+  }, {
+    "hex": "#2DA9B0",
+    "percent": 0.35
+  }, {
+    "hex": "#A7C846",
+    "percent": 0.34
+  }, {
+    "hex": "#EC5034",
+    "percent": 0
+  }]
+}, {
+  "name": "CENTRAL AFRICAN REPUBLIC",
+  "url": "http://www.crwflags.com/fotw/images/c/cf.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 21.76
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 20.83
+  }, {
+    "hex": "#009900",
+    "percent": 20.83
+  }, {
+    "hex": "#0000FF",
+    "percent": 19.73
+  }, {
+    "hex": "#FF0000",
+    "percent": 16.67
+  }, {
+    "hex": "#2E2ED0",
+    "percent": 0.06
+  }]
+}, {
+  "name": "CONGO",
+  "url": "http://www.crwflags.com/fotw/images/c/cg.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.49
+  }, {
+    "hex": "#00CC00",
+    "percent": 33.49
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.02
+  }]
+}, {
+  "name": "SWITZERLAND",
+  "url": "http://www.crwflags.com/fotw/images/c/ch.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 79.88
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 20.12
+  }]
+}, {
+  "name": "COTE DIVOIRE",
+  "url": "http://www.crwflags.com/fotw/images/c/ci.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF9900",
+    "percent": 33.33
+  }, {
+    "hex": "#00CC00",
+    "percent": 33.33
+  }]
+}, {
+  "name": "COOK ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/c/ck.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 76.73
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 11.99
+  }, {
+    "hex": "#CC0000",
+    "percent": 8.47
+  }, {
+    "hex": "#CCCCCC",
+    "percent": 0.35
+  }, {
+    "hex": "#CCCCFF",
+    "percent": 0.18
+  }, {
+    "hex": "#FF6666",
+    "percent": 0
+  }]
+}, {
+  "name": "CHILE",
+  "url": "http://www.crwflags.com/fotw/images/c/cl.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 34.49
+  }, {
+    "hex": "#000099",
+    "percent": 15.28
+  }, {
+    "hex": "#6F6FC5",
+    "percent": 0.13
+  }, {
+    "hex": "#2E2EAB",
+    "percent": 0.05
+  }, {
+    "hex": "#A9A9DC",
+    "percent": 0.02
+  }]
+}, {
+  "name": "CAMEROON",
+  "url": "http://www.crwflags.com/fotw/images/c/cm.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 35.01
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 31.4
+  }, {
+    "hex": "#FF5600",
+    "percent": 0.16
+  }, {
+    "hex": "#FF8F00",
+    "percent": 0.07
+  }, {
+    "hex": "#FFC500",
+    "percent": 0.03
+  }]
+}, {
+  "name": "CHINA",
+  "url": "http://www.crwflags.com/fotw/images/c/cn.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 97.53
+  }, {
+    "hex": "#FFCC00",
+    "percent": 2.29
+  }, {
+    "hex": "#EF8E00",
+    "percent": 0.18
+  }]
+}, {
+  "name": "COLOMBIA",
+  "url": "http://www.crwflags.com/fotw/images/c/co.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 50
+  }, {
+    "hex": "#FF0000",
+    "percent": 25
+  }, {
+    "hex": "#0000CC",
+    "percent": 25
+  }]
+}, {
+  "name": "COSTA RICA",
+  "url": "http://www.crwflags.com/fotw/images/c/cr.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#003399",
+    "percent": 33.33
+  }]
+}, {
+  "name": "CUBA",
+  "url": "http://www.crwflags.com/fotw/images/c/cu.gif",
+  "colors": [{
+    "hex": "#003399",
+    "percent": 48.72
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.84
+  }, {
+    "hex": "#CC0000",
+    "percent": 19.96
+  }, {
+    "hex": "#D52C2C",
+    "percent": 0.07
+  }, {
+    "hex": "#DD5252",
+    "percent": 0.05
+  }, {
+    "hex": "#452165",
+    "percent": 0.02
+  }]
+}, {
+  "name": "CAPE VERDE",
+  "url": "http://www.crwflags.com/fotw/images/c/cv.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 73.75
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 15.94
+  }, {
+    "hex": "#FF0000",
+    "percent": 8.32
+  }, {
+    "hex": "#B38F2D",
+    "percent": 0.13
+  }, {
+    "hex": "#FFDC50",
+    "percent": 0.08
+  }, {
+    "hex": "#FF6200",
+    "percent": 0.01
+  }]
+}, {
+  "name": "CHRISTMAS ISLAND",
+  "url": "http://www.crwflags.com/fotw/images/c/cx.gif",
+  "colors": [{
+    "hex": "#0000BF",
+    "percent": 46.5
+  }, {
+    "hex": "#00BF00",
+    "percent": 45.27
+  }, {
+    "hex": "#FFFF00",
+    "percent": 7.4
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 0.83
+  }]
+}, {
+  "name": "CYPRUS",
+  "url": "http://www.crwflags.com/fotw/images/c/cy.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 87.62
+  }, {
+    "hex": "#CC6600",
+    "percent": 9.46
+  }, {
+    "hex": "#004500",
+    "percent": 1.13
+  }, {
+    "hex": "#FFCC99",
+    "percent": 0.12
+  }, {
+    "hex": "#666666",
+    "percent": 0.09
+  }, {
+    "hex": "#669965",
+    "percent": 0.06
+  }]
+}, {
+  "name": "CZECH REPUBLIC",
+  "url": "http://www.crwflags.com/fotw/images/c/cz.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 37.5
+  }, {
+    "hex": "#FF0000",
+    "percent": 37.5
+  }, {
+    "hex": "#0000CC",
+    "percent": 24.55
+  }, {
+    "hex": "#7272E2",
+    "percent": 0.08
+  }, {
+    "hex": "#2C2CD4",
+    "percent": 0.07
+  }, {
+    "hex": "#B9B9F1",
+    "percent": 0.04
+  }]
+}, {
+  "name": "GERMANY",
+  "url": "http://www.crwflags.com/fotw/images/d/de.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFCC00",
+    "percent": 33.33
+  }, {
+    "hex": "#000000",
+    "percent": 33.33
+  }]
+}, {
+  "name": "DJIBOUTI",
+  "url": "http://www.crwflags.com/fotw/images/d/dj.gif",
+  "colors": [{
+    "hex": "#6699FF",
+    "percent": 37.36
+  }, {
+    "hex": "#00CC00",
+    "percent": 37.34
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 24.23
+  }, {
+    "hex": "#2FD52F",
+    "percent": 0.06
+  }, {
+    "hex": "#FF9090",
+    "percent": 0.05
+  }, {
+    "hex": "#FF4F4F",
+    "percent": 0.04
+  }]
+}, {
+  "name": "DENMARK",
+  "url": "http://www.crwflags.com/fotw/images/d/dk.gif",
+  "colors": [{
+    "hex": "#D81E05",
+    "percent": 76.42
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 23.58
+  }]
+}, {
+  "name": "DOMINICA",
+  "url": "http://www.crwflags.com/fotw/images/d/dm.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 55.76
+  }, {
+    "hex": "#FFFF00",
+    "percent": 11.97
+  }, {
+    "hex": "#000000",
+    "percent": 10.55
+  }, {
+    "hex": "#FF0000",
+    "percent": 10.4
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 10.37
+  }, {
+    "hex": "#7F7F00",
+    "percent": 0.11
+  }]
+}, {
+  "name": "DOMINICAN REPUBLIC",
+  "url": "http://www.crwflags.com/fotw/images/d/do.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 34.74
+  }, {
+    "hex": "#000099",
+    "percent": 34.69
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 28.78
+  }, {
+    "hex": "#D4603A",
+    "percent": 0.04
+  }, {
+    "hex": "#AF8815",
+    "percent": 0.03
+  }, {
+    "hex": "#2A218E",
+    "percent": 0.02
+  }]
+}, {
+  "name": "ALGERIA",
+  "url": "http://www.crwflags.com/fotw/images/d/dz.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 47.53
+  }, {
+    "hex": "#006633",
+    "percent": 45.89
+  }, {
+    "hex": "#FF0000",
+    "percent": 5.94
+  }, {
+    "hex": "#FF8B8B",
+    "percent": 0.18
+  }, {
+    "hex": "#FF4D4D",
+    "percent": 0.14
+  }, {
+    "hex": "#C76C61",
+    "percent": 0
+  }]
+}, {
+  "name": "ECUADOR",
+  "url": "http://www.crwflags.com/fotw/images/e/ec.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 50
+  }, {
+    "hex": "#FF0000",
+    "percent": 25
+  }, {
+    "hex": "#0000CC",
+    "percent": 25
+  }]
+}, {
+  "name": "ESTONIA",
+  "url": "http://www.crwflags.com/fotw/images/e/ee.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#0066CC",
+    "percent": 33.33
+  }, {
+    "hex": "#000000",
+    "percent": 33.33
+  }]
+}, {
+  "name": "EGYPT",
+  "url": "http://www.crwflags.com/fotw/images/e/eg.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 33.54
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.01
+  }, {
+    "hex": "#6D5701",
+    "percent": 0.85
+  }, {
+    "hex": "#2F2802",
+    "percent": 0.39
+  }, {
+    "hex": "#676458",
+    "percent": 0.17
+  }]
+}, {
+  "name": "WESTERN SAHARA",
+  "url": "http://www.crwflags.com/fotw/images/e/eh.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 29.58
+  }, {
+    "hex": "#009900",
+    "percent": 29.55
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 22.75
+  }, {
+    "hex": "#FF0000",
+    "percent": 17.63
+  }, {
+    "hex": "#710000",
+    "percent": 0.03
+  }, {
+    "hex": "#B12F00",
+    "percent": 0.02
+  }]
+}, {
+  "name": "ERITREA",
+  "url": "http://www.crwflags.com/fotw/images/e/er.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 43.46
+  }, {
+    "hex": "#0000CC",
+    "percent": 25.1
+  }, {
+    "hex": "#009900",
+    "percent": 24.51
+  }, {
+    "hex": "#FFFE00",
+    "percent": 5.41
+  }, {
+    "hex": "#FDCE18",
+    "percent": 0.26
+  }, {
+    "hex": "#4D6B00",
+    "percent": 0.12
+  }]
+}, {
+  "name": "SPAIN",
+  "url": "http://www.crwflags.com/fotw/images/e/es.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 51.71
+  }, {
+    "hex": "#FFFF00",
+    "percent": 43.91
+  }, {
+    "hex": "#CC9900",
+    "percent": 1.16
+  }, {
+    "hex": "#CCCCCC",
+    "percent": 0.29
+  }, {
+    "hex": "#9A708F",
+    "percent": 0.2
+  }, {
+    "hex": "#2A1900",
+    "percent": 0.09
+  }]
+}, {
+  "name": "ETHIOPIA",
+  "url": "http://www.crwflags.com/fotw/images/e/et.gif",
+  "colors": [{
+    "hex": "#006633",
+    "percent": 32.24
+  }, {
+    "hex": "#FF0000",
+    "percent": 32.2
+  }, {
+    "hex": "#FFFF00",
+    "percent": 27.01
+  }, {
+    "hex": "#3399FF",
+    "percent": 7.37
+  }, {
+    "hex": "#A4D171",
+    "percent": 0.1
+  }, {
+    "hex": "#DC1A2B",
+    "percent": 0.03
+  }]
+}, {
+  "name": "FINLAND",
+  "url": "http://www.crwflags.com/fotw/images/f/fi.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 59.98
+  }, {
+    "hex": "#003399",
+    "percent": 40.02
+  }]
+}, {
+  "name": "FIJI",
+  "url": "http://www.crwflags.com/fotw/images/f/fj.gif",
+  "colors": [{
+    "hex": "#3399FF",
+    "percent": 66.18
+  }, {
+    "hex": "#CC0000",
+    "percent": 12.93
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 9.27
+  }, {
+    "hex": "#010166",
+    "percent": 6.44
+  }, {
+    "hex": "#D73838",
+    "percent": 0.57
+  }, {
+    "hex": "#349034",
+    "percent": 0.04
+  }]
+}, {
+  "name": "FALKLAND ISLANDS MALVINAS",
+  "url": "http://www.crwflags.com/fotw/images/f/fk.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 69.52
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 10.51
+  }, {
+    "hex": "#107BCE",
+    "percent": 3.4
+  }, {
+    "hex": "#B3C1D3",
+    "percent": 1.35
+  }, {
+    "hex": "#A16638",
+    "percent": 1.15
+  }, {
+    "hex": "#E1BC78",
+    "percent": 1.04
+  }]
+}, {
+  "name": "FEDERATED STATES OF MICRONESIA",
+  "url": "http://www.crwflags.com/fotw/images/f/fm.gif",
+  "colors": [{
+    "hex": "#6699CC",
+    "percent": 97.16
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 2.4
+  }, {
+    "hex": "#B4CDE6",
+    "percent": 0.44
+  }]
+}, {
+  "name": "FAROE ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/f/fo.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 61.11
+  }, {
+    "hex": "#FF0000",
+    "percent": 21.17
+  }, {
+    "hex": "#0066CC",
+    "percent": 17.72
+  }]
+}, {
+  "name": "FRANCE",
+  "url": "http://www.crwflags.com/fotw/images/f/fr.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000066",
+    "percent": 33.33
+  }]
+}, {
+  "name": "GABON",
+  "url": "http://www.crwflags.com/fotw/images/g/ga.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 34.26
+  }, {
+    "hex": "#003399",
+    "percent": 33.33
+  }, {
+    "hex": "#008833",
+    "percent": 32.41
+  }]
+}, {
+  "name": "UNITED KINGDOM",
+  "url": "http://www.crwflags.com/fotw/images/g/gb.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 37.65
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 32.11
+  }, {
+    "hex": "#000066",
+    "percent": 28.04
+  }, {
+    "hex": "#E16B6B",
+    "percent": 0.34
+  }, {
+    "hex": "#D42A2A",
+    "percent": 0.3
+  }, {
+    "hex": "#E98F8F",
+    "percent": 0.19
+  }]
+}, {
+  "name": "GRENADA",
+  "url": "http://www.crwflags.com/fotw/images/g/gd.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 38.3
+  }, {
+    "hex": "#FFCC00",
+    "percent": 31.54
+  }, {
+    "hex": "#009900",
+    "percent": 29.19
+  }, {
+    "hex": "#4FA800",
+    "percent": 0.34
+  }, {
+    "hex": "#705500",
+    "percent": 0.04
+  }, {
+    "hex": "#3A7500",
+    "percent": 0.01
+  }]
+}, {
+  "name": "GEORGIA",
+  "url": "http://www.crwflags.com/fotw/images/g/ge.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 62.73
+  }, {
+    "hex": "#FF0000",
+    "percent": 36.35
+  }, {
+    "hex": "#FF4F4F",
+    "percent": 0.46
+  }, {
+    "hex": "#FFD2D2",
+    "percent": 0.25
+  }, {
+    "hex": "#FF9393",
+    "percent": 0.21
+  }]
+}, {
+  "name": "FRENCH GUIANA",
+  "url": "http://www.crwflags.com/fotw/images/g/gf.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000066",
+    "percent": 33.33
+  }]
+}, {
+  "name": "GHANA",
+  "url": "http://www.crwflags.com/fotw/images/g/gh.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 30.52
+  }, {
+    "hex": "#000000",
+    "percent": 2.48
+  }, {
+    "hex": "#393900",
+    "percent": 0.17
+  }, {
+    "hex": "#6A6A00",
+    "percent": 0.02
+  }]
+}, {
+  "name": "GIBRALTAR",
+  "url": "http://www.crwflags.com/fotw/images/g/gi.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 55.02
+  }, {
+    "hex": "#FF0000",
+    "percent": 40.16
+  }, {
+    "hex": "#FA9601",
+    "percent": 0.3
+  }, {
+    "hex": "#8F5406",
+    "percent": 0.08
+  }, {
+    "hex": "#4F2E04",
+    "percent": 0.05
+  }, {
+    "hex": "#343230",
+    "percent": 0.01
+  }]
+}, {
+  "name": "GREENLAND",
+  "url": "http://www.crwflags.com/fotw/images/g/gl.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 49.65
+  }, {
+    "hex": "#FF0000",
+    "percent": 49.65
+  }, {
+    "hex": "#FFB6B6",
+    "percent": 0.2
+  }, {
+    "hex": "#FF8080",
+    "percent": 0.17
+  }, {
+    "hex": "#FF4949",
+    "percent": 0.14
+  }, {
+    "hex": "#FF2424",
+    "percent": 0.13
+  }]
+}, {
+  "name": "GAMBIA",
+  "url": "http://www.crwflags.com/fotw/images/g/gm.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#000099",
+    "percent": 22.22
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 11.11
+  }]
+}, {
+  "name": "GUINEA",
+  "url": "http://www.crwflags.com/fotw/images/g/gn.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "EQUATORIAL GUINEA",
+  "url": "http://www.crwflags.com/fotw/images/g/gq.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 30.89
+  }, {
+    "hex": "#FE0000",
+    "percent": 30.76
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 24.53
+  }, {
+    "hex": "#3399FF",
+    "percent": 11.22
+  }, {
+    "hex": "#BF324A",
+    "percent": 0.02
+  }, {
+    "hex": "#CD253E",
+    "percent": 0.02
+  }]
+}, {
+  "name": "GREECE",
+  "url": "http://www.crwflags.com/fotw/images/g/gr.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 56.38
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 43.62
+  }]
+}, {
+  "name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/g/gs.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 74.05
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 13.6
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.88
+  }, {
+    "hex": "#CFD733",
+    "percent": 0.11
+  }, {
+    "hex": "#CD863A",
+    "percent": 0.06
+  }, {
+    "hex": "#1D75BF",
+    "percent": 0.04
+  }]
+}, {
+  "name": "GUATEMALA",
+  "url": "http://www.crwflags.com/fotw/images/g/gt.gif",
+  "colors": [{
+    "hex": "#0066FF",
+    "percent": 66.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "GUAM",
+  "url": "http://www.crwflags.com/fotw/images/g/gu.gif",
+  "colors": [{
+    "hex": "#0000FF",
+    "percent": 76.84
+  }, {
+    "hex": "#FF0000",
+    "percent": 16.86
+  }, {
+    "hex": "#C6C6FF",
+    "percent": 4.01
+  }, {
+    "hex": "#FFFF00",
+    "percent": 0.87
+  }, {
+    "hex": "#008400",
+    "percent": 0.6
+  }, {
+    "hex": "#848452",
+    "percent": 0.45
+  }]
+}, {
+  "name": "GUINEA-BISSAU",
+  "url": "http://www.crwflags.com/fotw/images/g/gw.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 31.61
+  }, {
+    "hex": "#000000",
+    "percent": 1.54
+  }, {
+    "hex": "#8C0000",
+    "percent": 0.13
+  }, {
+    "hex": "#4D0000",
+    "percent": 0.06
+  }]
+}, {
+  "name": "GUYANA",
+  "url": "http://www.crwflags.com/fotw/images/g/gy.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 49.51
+  }, {
+    "hex": "#FF0000",
+    "percent": 19.48
+  }, {
+    "hex": "#FFFF00",
+    "percent": 15.37
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.71
+  }, {
+    "hex": "#000000",
+    "percent": 5.13
+  }, {
+    "hex": "#FFFF70",
+    "percent": 0.19
+  }]
+}, {
+  "name": "HONG KONG",
+  "url": "http://www.crwflags.com/fotw/images/h/hk.gif",
+  "colors": [{
+    "hex": "#FF0101",
+    "percent": 88.15
+  }, {
+    "hex": "#FFFDFD",
+    "percent": 9.71
+  }, {
+    "hex": "#FF2F2F",
+    "percent": 1.52
+  }, {
+    "hex": "#FEAEB1",
+    "percent": 0.47
+  }, {
+    "hex": "#FD6D71",
+    "percent": 0.15
+  }]
+}, {
+  "name": "HONDURAS",
+  "url": "http://www.crwflags.com/fotw/images/h/hn.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 67.78
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.86
+  }, {
+    "hex": "#4D4DB8",
+    "percent": 0.12
+  }, {
+    "hex": "#A8A8DC",
+    "percent": 0.11
+  }, {
+    "hex": "#CDCDEB",
+    "percent": 0.09
+  }, {
+    "hex": "#7070C6",
+    "percent": 0.04
+  }]
+}, {
+  "name": "CROATIA",
+  "url": "http://www.crwflags.com/fotw/images/h/hr.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 34.2
+  }, {
+    "hex": "#0000CC",
+    "percent": 32.9
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.1
+  }, {
+    "hex": "#A7BD24",
+    "percent": 0.07
+  }, {
+    "hex": "#3EA6CC",
+    "percent": 0.06
+  }, {
+    "hex": "#4C44AC",
+    "percent": 0.04
+  }]
+}, {
+  "name": "HAITI",
+  "url": "http://www.crwflags.com/fotw/images/h/ht.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50
+  }, {
+    "hex": "#000099",
+    "percent": 50
+  }]
+}, {
+  "name": "HUNGARY",
+  "url": "http://www.crwflags.com/fotw/images/h/hu.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.8
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#008400",
+    "percent": 32.87
+  }]
+}, {
+  "name": "INDONESIA",
+  "url": "http://www.crwflags.com/fotw/images/i/id.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50.23
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 49.77
+  }]
+}, {
+  "name": "IRELAND",
+  "url": "http://www.crwflags.com/fotw/images/i/ie.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF6600",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "ISRAEL",
+  "url": "http://www.crwflags.com/fotw/images/i/il.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 64.03
+  }, {
+    "hex": "#0000CC",
+    "percent": 35.26
+  }, {
+    "hex": "#6D6DE1",
+    "percent": 0.48
+  }, {
+    "hex": "#B1B1EF",
+    "percent": 0.23
+  }]
+}, {
+  "name": "INDIA",
+  "url": "http://www.crwflags.com/fotw/images/i/in.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 33.33
+  }, {
+    "hex": "#339933",
+    "percent": 33.33
+  }, {
+    "hex": "#FDFDFD",
+    "percent": 30.39
+  }, {
+    "hex": "#040468",
+    "percent": 1.29
+  }, {
+    "hex": "#27277D",
+    "percent": 0.37
+  }, {
+    "hex": "#4F4F95",
+    "percent": 0.18
+  }]
+}, {
+  "name": "BRITISH INDIAN OCEAN TERRITORY",
+  "url": "http://www.crwflags.com/fotw/images/i/io.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 40.63
+  }, {
+    "hex": "#000066",
+    "percent": 38.2
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.23
+  }, {
+    "hex": "#CCCCCC",
+    "percent": 1.93
+  }, {
+    "hex": "#9999CC",
+    "percent": 1.18
+  }, {
+    "hex": "#669965",
+    "percent": 0.21
+  }]
+}, {
+  "name": "IRAQ",
+  "url": "http://www.crwflags.com/fotw/images/i/iq.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.66
+  }, {
+    "hex": "#0C480C",
+    "percent": 2.28
+  }, {
+    "hex": "#B6C8B5",
+    "percent": 0.09
+  }, {
+    "hex": "#356736",
+    "percent": 0.05
+  }]
+}, {
+  "name": "ISLAMIC REPUBLIC OF IRAN",
+  "url": "http://www.crwflags.com/fotw/images/i/ir.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 35.63
+  }, {
+    "hex": "#FF0000",
+    "percent": 29.61
+  }, {
+    "hex": "#009933",
+    "percent": 28.95
+  }, {
+    "hex": "#339966",
+    "percent": 1.26
+  }, {
+    "hex": "#339933",
+    "percent": 0.06
+  }, {
+    "hex": "#66CC99",
+    "percent": 0.04
+  }]
+}, {
+  "name": "ICELAND",
+  "url": "http://www.crwflags.com/fotw/images/i/is.gif",
+  "colors": [{
+    "hex": "#0000CC",
+    "percent": 65.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 18.22
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 16.44
+  }]
+}, {
+  "name": "ITALY",
+  "url": "http://www.crwflags.com/fotw/images/i/it.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "JAMAICA",
+  "url": "http://www.crwflags.com/fotw/images/j/jm.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 33.67
+  }, {
+    "hex": "#009900",
+    "percent": 32.82
+  }, {
+    "hex": "#000000",
+    "percent": 32.45
+  }, {
+    "hex": "#584600",
+    "percent": 0.38
+  }, {
+    "hex": "#90B500",
+    "percent": 0.37
+  }, {
+    "hex": "#B89300",
+    "percent": 0.32
+  }]
+}, {
+  "name": "JORDAN",
+  "url": "http://www.crwflags.com/fotw/images/j/jo.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 27.7
+  }, {
+    "hex": "#000000",
+    "percent": 27.7
+  }, {
+    "hex": "#FF0000",
+    "percent": 24.44
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 19.84
+  }, {
+    "hex": "#FF6B6B",
+    "percent": 0.11
+  }, {
+    "hex": "#C9D2B2",
+    "percent": 0
+  }]
+}, {
+  "name": "JAPAN",
+  "url": "http://www.crwflags.com/fotw/images/j/jp.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 80.81
+  }, {
+    "hex": "#FF0000",
+    "percent": 18.79
+  }, {
+    "hex": "#FF9C9C",
+    "percent": 0.19
+  }, {
+    "hex": "#FF4A4A",
+    "percent": 0.16
+  }, {
+    "hex": "#FFC6C6",
+    "percent": 0.05
+  }]
+}, {
+  "name": "KENYA",
+  "url": "http://www.crwflags.com/fotw/images/k/ke.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 30.82
+  }, {
+    "hex": "#009900",
+    "percent": 29.03
+  }, {
+    "hex": "#CC0000",
+    "percent": 28.55
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 9.96
+  }, {
+    "hex": "#8A0000",
+    "percent": 0.05
+  }, {
+    "hex": "#932525",
+    "percent": 0.01
+  }]
+}, {
+  "name": "KYRGYZSTAN",
+  "url": "http://www.crwflags.com/fotw/images/k/kg.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 90.71
+  }, {
+    "hex": "#FFFF00",
+    "percent": 7.43
+  }, {
+    "hex": "#FFB000",
+    "percent": 1.42
+  }, {
+    "hex": "#FF6F00",
+    "percent": 0.44
+  }]
+}, {
+  "name": "CAMBODIA",
+  "url": "http://www.crwflags.com/fotw/images/k/kh.gif",
+  "colors": [{
+    "hex": "#000099",
+    "percent": 50
+  }, {
+    "hex": "#CC0000",
+    "percent": 36.45
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.85
+  }, {
+    "hex": "#000000",
+    "percent": 4.7
+  }]
+}, {
+  "name": "KIRIBATI",
+  "url": "http://www.crwflags.com/fotw/images/k/ki.gif",
+  "colors": [{
+    "hex": "#B23A3C",
+    "percent": 43.73
+  }, {
+    "hex": "#3D4971",
+    "percent": 23.02
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 22.9
+  }, {
+    "hex": "#F5B224",
+    "percent": 5.77
+  }, {
+    "hex": "#4E2F10",
+    "percent": 1.26
+  }, {
+    "hex": "#CD7F80",
+    "percent": 0.08
+  }]
+}, {
+  "name": "COMOROS",
+  "url": "http://www.crwflags.com/fotw/images/k/km.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 21.82
+  }, {
+    "hex": "#0000FF",
+    "percent": 21.77
+  }, {
+    "hex": "#008400",
+    "percent": 21.24
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 18.65
+  }, {
+    "hex": "#FF0000",
+    "percent": 15.52
+  }, {
+    "hex": "#67B800",
+    "percent": 0.03
+  }]
+}, {
+  "name": "SAINT KITTS AND NEVIS",
+  "url": "http://www.crwflags.com/fotw/images/k/kn.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 29.3
+  }, {
+    "hex": "#FF0000",
+    "percent": 27.79
+  }, {
+    "hex": "#009900",
+    "percent": 27.78
+  }, {
+    "hex": "#FFFF00",
+    "percent": 10.64
+  }, {
+    "hex": "#5D5D5D",
+    "percent": 0.12
+  }, {
+    "hex": "#4B4B00",
+    "percent": 0.08
+  }]
+}, {
+  "name": "DEMOCRATIC PEOPLES REPUBLIC OF KOREA",
+  "url": "http://www.crwflags.com/fotw/images/k/kp.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 55.74
+  }, {
+    "hex": "#0000FF",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 10.41
+  }, {
+    "hex": "#FF5151",
+    "percent": 0.29
+  }, {
+    "hex": "#FFB1B1",
+    "percent": 0.23
+  }]
+}, {
+  "name": "REPUBLIC OF KOREA",
+  "url": "http://www.crwflags.com/fotw/images/k/kr.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 76.96
+  }, {
+    "hex": "#000000",
+    "percent": 7.89
+  }, {
+    "hex": "#FF0000",
+    "percent": 6.41
+  }, {
+    "hex": "#003399",
+    "percent": 6.4
+  }, {
+    "hex": "#4F4F4F",
+    "percent": 0.53
+  }, {
+    "hex": "#E5202A",
+    "percent": 0.03
+  }]
+}, {
+  "name": "KUWAIT",
+  "url": "http://www.crwflags.com/fotw/images/k/kw.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 29.13
+  }, {
+    "hex": "#FF0000",
+    "percent": 29.09
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 25
+  }, {
+    "hex": "#000000",
+    "percent": 16.67
+  }, {
+    "hex": "#560101",
+    "percent": 0.02
+  }, {
+    "hex": "#217E21",
+    "percent": 0
+  }]
+}, {
+  "name": "CAYMAN ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/k/ky.gif",
+  "colors": [{
+    "hex": "#002173",
+    "percent": 69.03
+  }, {
+    "hex": "#C61018",
+    "percent": 10.73
+  }, {
+    "hex": "#012812",
+    "percent": 1.55
+  }, {
+    "hex": "#FEDC59",
+    "percent": 1.36
+  }, {
+    "hex": "#EDD0CD",
+    "percent": 1.29
+  }, {
+    "hex": "#0163BC",
+    "percent": 1.02
+  }]
+}, {
+  "name": "KAZAKHSTAN",
+  "url": "http://www.crwflags.com/fotw/images/k/kz.gif",
+  "colors": [{
+    "hex": "#0099FF",
+    "percent": 88.72
+  }, {
+    "hex": "#FFFF00",
+    "percent": 7.72
+  }, {
+    "hex": "#80CC80",
+    "percent": 1.54
+  }, {
+    "hex": "#BFE640",
+    "percent": 1.07
+  }, {
+    "hex": "#40B3BF",
+    "percent": 0.96
+  }]
+}, {
+  "name": "LAO PEOPLES DEMOCRATIC REPUBLIC",
+  "url": "http://www.crwflags.com/fotw/images/l/la.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50
+  }, {
+    "hex": "#000099",
+    "percent": 41.38
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.31
+  }, {
+    "hex": "#6E6EC5",
+    "percent": 0.1
+  }, {
+    "hex": "#9393D3",
+    "percent": 0.09
+  }, {
+    "hex": "#2F2FAC",
+    "percent": 0.08
+  }]
+}, {
+  "name": "LEBANON",
+  "url": "http://www.crwflags.com/fotw/images/l/lb.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 42.61
+  }, {
+    "hex": "#009900",
+    "percent": 6.48
+  }, {
+    "hex": "#60BF60",
+    "percent": 0.33
+  }, {
+    "hex": "#B8E2B8",
+    "percent": 0.22
+  }, {
+    "hex": "#8FD28F",
+    "percent": 0.14
+  }]
+}, {
+  "name": "SAINT LUCIA",
+  "url": "http://www.crwflags.com/fotw/images/l/lc.gif",
+  "colors": [{
+    "hex": "#66CCFF",
+    "percent": 86.12
+  }, {
+    "hex": "#FFCC00",
+    "percent": 6.88
+  }, {
+    "hex": "#AF8C00",
+    "percent": 0.05
+  }, {
+    "hex": "#717171",
+    "percent": 0.03
+  }, {
+    "hex": "#FBEBA0",
+    "percent": 0.01
+  }, {
+    "hex": "#FCDB5C",
+    "percent": 0.01
+  }]
+}, {
+  "name": "LIECHTENSTEIN",
+  "url": "http://www.crwflags.com/fotw/images/l/li.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50
+  }, {
+    "hex": "#000099",
+    "percent": 45.56
+  }, {
+    "hex": "#584601",
+    "percent": 1.43
+  }, {
+    "hex": "#020100",
+    "percent": 0.51
+  }, {
+    "hex": "#3D312F",
+    "percent": 0.19
+  }, {
+    "hex": "#1A1572",
+    "percent": 0.05
+  }]
+}, {
+  "name": "SRI LANKA",
+  "url": "http://www.crwflags.com/fotw/images/l/lk.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 37.34
+  }, {
+    "hex": "#991B33",
+    "percent": 32.76
+  }, {
+    "hex": "#FF6600",
+    "percent": 13.3
+  }, {
+    "hex": "#006600",
+    "percent": 13.12
+  }, {
+    "hex": "#B34825",
+    "percent": 2.7
+  }, {
+    "hex": "#D98B12",
+    "percent": 0.78
+  }]
+}, {
+  "name": "LIBERIA",
+  "url": "http://www.crwflags.com/fotw/images/l/lr.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 48.85
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 41.45
+  }, {
+    "hex": "#000066",
+    "percent": 9.5
+  }, {
+    "hex": "#24247B",
+    "percent": 0.08
+  }, {
+    "hex": "#8C8CBA",
+    "percent": 0.05
+  }, {
+    "hex": "#505096",
+    "percent": 0.02
+  }]
+}, {
+  "name": "LESOTHO",
+  "url": "http://www.crwflags.com/fotw/images/l/ls.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 34.79
+  }, {
+    "hex": "#000099",
+    "percent": 30.56
+  }, {
+    "hex": "#009933",
+    "percent": 30.09
+  }, {
+    "hex": "#131516",
+    "percent": 2.88
+  }, {
+    "hex": "#A9A9DD",
+    "percent": 0.56
+  }, {
+    "hex": "#4DB56D",
+    "percent": 0.46
+  }]
+}, {
+  "name": "LITHUANIA",
+  "url": "http://www.crwflags.com/fotw/images/l/lt.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "LUXEMBOURG",
+  "url": "http://www.crwflags.com/fotw/images/l/lu.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#0099FF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "LATVIA",
+  "url": "http://www.crwflags.com/fotw/images/l/lv.gif",
+  "colors": [{
+    "hex": "#990000",
+    "percent": 79.63
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 20.37
+  }]
+}, {
+  "name": "LIBYAN ARAB JAMAHIRIYA",
+  "url": "http://www.crwflags.com/fotw/images/l/ly.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 48.68
+  }, {
+    "hex": "#239E46",
+    "percent": 25
+  }, {
+    "hex": "#E70013",
+    "percent": 24.5
+  }, {
+    "hex": "#2F2F2F",
+    "percent": 0.07
+  }, {
+    "hex": "#6E6E6E",
+    "percent": 0.05
+  }, {
+    "hex": "#505050",
+    "percent": 0.05
+  }]
+}, {
+  "name": "MOROCCO",
+  "url": "http://www.crwflags.com/fotw/images/m/ma.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 96.32
+  }, {
+    "hex": "#666600",
+    "percent": 0.16
+  }, {
+    "hex": "#339900",
+    "percent": 0.15
+  }, {
+    "hex": "#336600",
+    "percent": 0.11
+  }, {
+    "hex": "#006600",
+    "percent": 0.06
+  }, {
+    "hex": "#339933",
+    "percent": 0.01
+  }]
+}, {
+  "name": "MONACO",
+  "url": "http://www.crwflags.com/fotw/images/m/mc.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 50
+  }, {
+    "hex": "#FF0000",
+    "percent": 50
+  }]
+}, {
+  "name": "REPUBLIC OF MOLDOVA",
+  "url": "http://www.crwflags.com/fotw/images/m/md.gif",
+  "colors": [{
+    "hex": "#CC092F",
+    "percent": 34.05
+  }, {
+    "hex": "#0046AE",
+    "percent": 33.84
+  }, {
+    "hex": "#FFD200",
+    "percent": 26.43
+  }, {
+    "hex": "#B07E5B",
+    "percent": 1.82
+  }, {
+    "hex": "#007A50",
+    "percent": 0.06
+  }, {
+    "hex": "#D43654",
+    "percent": 0.05
+  }]
+}, {
+  "name": "MADAGASCAR",
+  "url": "http://www.crwflags.com/fotw/images/m/mg.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "MARSHALL ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/m/mh.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 73.03
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 14.34
+  }, {
+    "hex": "#FF6600",
+    "percent": 10.22
+  }, {
+    "hex": "#25257C",
+    "percent": 0.52
+  }, {
+    "hex": "#AF461F",
+    "percent": 0.16
+  }, {
+    "hex": "#FF9F5E",
+    "percent": 0.16
+  }]
+}, {
+  "name": "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA",
+  "url": "http://www.crwflags.com/fotw/images/m/mk.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 66.8
+  }, {
+    "hex": "#FFFF00",
+    "percent": 31.87
+  }, {
+    "hex": "#FF6F00",
+    "percent": 0.71
+  }, {
+    "hex": "#FFB300",
+    "percent": 0.62
+  }]
+}, {
+  "name": "MALI",
+  "url": "http://www.crwflags.com/fotw/images/m/ml.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }]
+}, {
+  "name": "MYANMAR",
+  "url": "http://www.crwflags.com/fotw/images/m/mm.gif",
+  "colors": [{
+    "hex": "#FFDA23",
+    "percent": 32.7
+  }, {
+    "hex": "#EF5049",
+    "percent": 31.42
+  }, {
+    "hex": "#45B653",
+    "percent": 25.57
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 9.87
+  }, {
+    "hex": "#7DCB97",
+    "percent": 0.2
+  }, {
+    "hex": "#A5DBB7",
+    "percent": 0.05
+  }]
+}, {
+  "name": "MONGOLIA",
+  "url": "http://www.crwflags.com/fotw/images/m/mn.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 60.16
+  }, {
+    "hex": "#0000FF",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 5.57
+  }, {
+    "hex": "#FF6C00",
+    "percent": 0.64
+  }, {
+    "hex": "#FFB400",
+    "percent": 0.3
+  }]
+}, {
+  "name": "MACAO",
+  "url": "http://www.crwflags.com/fotw/images/m/mo.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 89.04
+  }, {
+    "hex": "#FEFFFE",
+    "percent": 7.61
+  }, {
+    "hex": "#D2EDD2",
+    "percent": 1.22
+  }, {
+    "hex": "#31AA31",
+    "percent": 0.74
+  }, {
+    "hex": "#8AD08A",
+    "percent": 0.41
+  }, {
+    "hex": "#4DB700",
+    "percent": 0.08
+  }]
+}, {
+  "name": "NORTHERN MARIANA ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/m/mp.gif",
+  "colors": [{
+    "hex": "#295598",
+    "percent": 81.94
+  }, {
+    "hex": "#FDFDFD",
+    "percent": 6.36
+  }, {
+    "hex": "#98B1B9",
+    "percent": 4.02
+  }, {
+    "hex": "#F8C60F",
+    "percent": 2.15
+  }, {
+    "hex": "#03923E",
+    "percent": 1.96
+  }, {
+    "hex": "#DB244D",
+    "percent": 1.87
+  }]
+}, {
+  "name": "MAURITANIA",
+  "url": "http://www.crwflags.com/fotw/images/m/mr.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 94.08
+  }, {
+    "hex": "#FFFF00",
+    "percent": 5.37
+  }, {
+    "hex": "#B9E200",
+    "percent": 0.31
+  }, {
+    "hex": "#60BF00",
+    "percent": 0.24
+  }]
+}, {
+  "name": "MONTSERRAT",
+  "url": "http://www.crwflags.com/fotw/images/m/ms.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 71.71
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.44
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 7.28
+  }, {
+    "hex": "#CC9933",
+    "percent": 1.83
+  }, {
+    "hex": "#CC2E2E",
+    "percent": 0.48
+  }, {
+    "hex": "#272795",
+    "percent": 0.35
+  }]
+}, {
+  "name": "MALTA",
+  "url": "http://www.crwflags.com/fotw/images/m/mt.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 50.54
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 46.98
+  }, {
+    "hex": "#83847D",
+    "percent": 0.62
+  }, {
+    "hex": "#A5A29E",
+    "percent": 0.54
+  }, {
+    "hex": "#605F55",
+    "percent": 0.15
+  }, {
+    "hex": "#C62A27",
+    "percent": 0.07
+  }]
+}, {
+  "name": "MAURITIUS",
+  "url": "http://www.crwflags.com/fotw/images/m/mu.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 25
+  }, {
+    "hex": "#CC0000",
+    "percent": 25
+  }, {
+    "hex": "#000066",
+    "percent": 25
+  }, {
+    "hex": "#009900",
+    "percent": 25
+  }]
+}, {
+  "name": "MALDIVES",
+  "url": "http://www.crwflags.com/fotw/images/m/mv.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 66.67
+  }, {
+    "hex": "#009900",
+    "percent": 31.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 1.37
+  }, {
+    "hex": "#51B951",
+    "percent": 0.11
+  }, {
+    "hex": "#BAE3BA",
+    "percent": 0.07
+  }, {
+    "hex": "#90D290",
+    "percent": 0.04
+  }]
+}, {
+  "name": "MALAWI",
+  "url": "http://www.crwflags.com/fotw/images/m/mw.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 38.85
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#000000",
+    "percent": 27.43
+  }, {
+    "hex": "#900000",
+    "percent": 0.39
+  }]
+}, {
+  "name": "MEXICO",
+  "url": "http://www.crwflags.com/fotw/images/m/mx.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#003300",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 28.63
+  }, {
+    "hex": "#723422",
+    "percent": 1.84
+  }, {
+    "hex": "#D28D3F",
+    "percent": 0.35
+  }, {
+    "hex": "#C0351F",
+    "percent": 0.04
+  }]
+}, {
+  "name": "MALAYSIA",
+  "url": "http://www.crwflags.com/fotw/images/m/my.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 35.88
+  }, {
+    "hex": "#CC0001",
+    "percent": 35.64
+  }, {
+    "hex": "#010066",
+    "percent": 24.12
+  }, {
+    "hex": "#FECD01",
+    "percent": 3.68
+  }, {
+    "hex": "#C4A220",
+    "percent": 0.26
+  }, {
+    "hex": "#8D7432",
+    "percent": 0.23
+  }]
+}, {
+  "name": "MOZAMBIQUE",
+  "url": "http://www.crwflags.com/fotw/images/m/mz.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 28.49
+  }, {
+    "hex": "#009900",
+    "percent": 27.08
+  }, {
+    "hex": "#000000",
+    "percent": 20.84
+  }, {
+    "hex": "#FF0000",
+    "percent": 17.93
+  }, {
+    "hex": "#A98D1E",
+    "percent": 0.04
+  }, {
+    "hex": "#A5591A",
+    "percent": 0.03
+  }]
+}, {
+  "name": "NAMIBIA",
+  "url": "http://www.crwflags.com/fotw/images/n/na.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 31.72
+  }, {
+    "hex": "#000099",
+    "percent": 28.57
+  }, {
+    "hex": "#FF0000",
+    "percent": 27.7
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 7.28
+  }, {
+    "hex": "#B38F2D",
+    "percent": 0.28
+  }, {
+    "hex": "#2D2996",
+    "percent": 0.1
+  }]
+}, {
+  "name": "NIGER",
+  "url": "http://www.crwflags.com/fotw/images/n/ne.gif",
+  "colors": [{
+    "hex": "#FF6600",
+    "percent": 35.98
+  }, {
+    "hex": "#009900",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 30.55
+  }, {
+    "hex": "#FF9650",
+    "percent": 0.11
+  }, {
+    "hex": "#FFBA8C",
+    "percent": 0.03
+  }]
+}, {
+  "name": "NORFOLK ISLAND",
+  "url": "http://www.crwflags.com/fotw/images/n/nf.gif",
+  "colors": [{
+    "hex": "#008348",
+    "percent": 67.37
+  }, {
+    "hex": "#FDFDFC",
+    "percent": 30.29
+  }, {
+    "hex": "#71AF8D",
+    "percent": 0.65
+  }, {
+    "hex": "#D6E3DA",
+    "percent": 0.64
+  }, {
+    "hex": "#30986B",
+    "percent": 0.62
+  }, {
+    "hex": "#9AC3AB",
+    "percent": 0.43
+  }]
+}, {
+  "name": "NIGERIA",
+  "url": "http://www.crwflags.com/fotw/images/n/ng.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 66.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "NICARAGUA",
+  "url": "http://www.crwflags.com/fotw/images/n/ni.gif",
+  "colors": [{
+    "hex": "#0066CC",
+    "percent": 66.78
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.31
+  }, {
+    "hex": "#37571C",
+    "percent": 0.08
+  }, {
+    "hex": "#95C5EB",
+    "percent": 0.06
+  }, {
+    "hex": "#B6A925",
+    "percent": 0.06
+  }, {
+    "hex": "#EF240E",
+    "percent": 0.05
+  }]
+}, {
+  "name": "NETHERLANDS",
+  "url": "http://www.crwflags.com/fotw/images/n/nl.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0033",
+    "percent": 33.33
+  }, {
+    "hex": "#003399",
+    "percent": 33.33
+  }]
+}, {
+  "name": "NORWAY",
+  "url": "http://www.crwflags.com/fotw/images/n/no.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 61.36
+  }, {
+    "hex": "#003366",
+    "percent": 19.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 18.9
+  }]
+}, {
+  "name": "NEPAL",
+  "url": "http://www.crwflags.com/fotw/images/n/np.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 41.94
+  }, {
+    "hex": "#CE0000",
+    "percent": 35.41
+  }, {
+    "hex": "#000063",
+    "percent": 11.96
+  }, {
+    "hex": "#FFFEFE",
+    "percent": 8.17
+  }, {
+    "hex": "#D62B2B",
+    "percent": 0.46
+  }, {
+    "hex": "#2D004B",
+    "percent": 0.09
+  }]
+}, {
+  "name": "NAURU",
+  "url": "http://www.crwflags.com/fotw/images/n/nr.gif",
+  "colors": [{
+    "hex": "#003366",
+    "percent": 89.16
+  }, {
+    "hex": "#FFCC33",
+    "percent": 8.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 2.17
+  }, {
+    "hex": "#C5D0DB",
+    "percent": 0.14
+  }, {
+    "hex": "#6F8CA9",
+    "percent": 0.14
+  }, {
+    "hex": "#315A83",
+    "percent": 0.04
+  }]
+}, {
+  "name": "NIUE",
+  "url": "http://www.crwflags.com/fotw/images/n/nu.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 76.13
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.3
+  }, {
+    "hex": "#CC0000",
+    "percent": 8.08
+  }, {
+    "hex": "#000066",
+    "percent": 7.49
+  }]
+}, {
+  "name": "NEW ZEALAND",
+  "url": "http://www.crwflags.com/fotw/images/n/nz.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 80.03
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.69
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 8.76
+  }, {
+    "hex": "#CF3233",
+    "percent": 0.33
+  }, {
+    "hex": "#2A2A79",
+    "percent": 0.27
+  }, {
+    "hex": "#DE8484",
+    "percent": 0.16
+  }]
+}, {
+  "name": "OMAN",
+  "url": "http://www.crwflags.com/fotw/images/o/om.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 53.38
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 22.43
+  }, {
+    "hex": "#009900",
+    "percent": 22.22
+  }, {
+    "hex": "#FF6D6D",
+    "percent": 0.63
+  }, {
+    "hex": "#FF9292",
+    "percent": 0.41
+  }, {
+    "hex": "#FF2828",
+    "percent": 0.33
+  }]
+}, {
+  "name": "PANAMA",
+  "url": "http://www.crwflags.com/fotw/images/p/pa.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 47.34
+  }, {
+    "hex": "#083E88",
+    "percent": 26.12
+  }, {
+    "hex": "#ED1C24",
+    "percent": 26.12
+  }, {
+    "hex": "#F68F93",
+    "percent": 0.21
+  }, {
+    "hex": "#4E75AA",
+    "percent": 0.02
+  }, {
+    "hex": "#36629E",
+    "percent": 0.02
+  }]
+}, {
+  "name": "PERU",
+  "url": "http://www.crwflags.com/fotw/images/p/pe.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 66.67
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "FRENCH POLYNESIA",
+  "url": "http://www.crwflags.com/fotw/images/p/pf.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 51.14
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 41.55
+  }, {
+    "hex": "#98B3D8",
+    "percent": 0.33
+  }, {
+    "hex": "#A0090B",
+    "percent": 0.32
+  }, {
+    "hex": "#6991C7",
+    "percent": 0.25
+  }, {
+    "hex": "#C7B162",
+    "percent": 0.03
+  }]
+}, {
+  "name": "PAPUA NEW GUINEA",
+  "url": "http://www.crwflags.com/fotw/images/p/pg.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 47.39
+  }, {
+    "hex": "#FF0000",
+    "percent": 43.31
+  }, {
+    "hex": "#FFFF00",
+    "percent": 6.17
+  }, {
+    "hex": "#900000",
+    "percent": 0.24
+  }, {
+    "hex": "#919191",
+    "percent": 0.1
+  }, {
+    "hex": "#717171",
+    "percent": 0.1
+  }]
+}, {
+  "name": "PHILIPPINES",
+  "url": "http://www.crwflags.com/fotw/images/p/ph.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 39.11
+  }, {
+    "hex": "#00009C",
+    "percent": 38.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 16.56
+  }, {
+    "hex": "#FCD114",
+    "percent": 4.26
+  }, {
+    "hex": "#480070",
+    "percent": 0.26
+  }, {
+    "hex": "#3030AE",
+    "percent": 0.08
+  }]
+}, {
+  "name": "PAKISTAN",
+  "url": "http://www.crwflags.com/fotw/images/p/pk.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 68.09
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.25
+  }, {
+    "hex": "#8AB98A",
+    "percent": 0.21
+  }, {
+    "hex": "#B2D1B2",
+    "percent": 0.17
+  }, {
+    "hex": "#257C25",
+    "percent": 0.15
+  }, {
+    "hex": "#4F964F",
+    "percent": 0.14
+  }]
+}, {
+  "name": "POLAND",
+  "url": "http://www.crwflags.com/fotw/images/p/pl.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 50
+  }, {
+    "hex": "#FF0000",
+    "percent": 50
+  }]
+}, {
+  "name": "SAINT PIERRE AND MIQUELON",
+  "url": "http://www.crwflags.com/fotw/images/p/pm.gif",
+  "colors": [{
+    "hex": "#38B8D8",
+    "percent": 49.46
+  }, {
+    "hex": "#FDFEFE",
+    "percent": 10.25
+  }, {
+    "hex": "#A69407",
+    "percent": 2.64
+  }, {
+    "hex": "#1C565C",
+    "percent": 1.87
+  }, {
+    "hex": "#2D90A8",
+    "percent": 1.34
+  }, {
+    "hex": "#A41B08",
+    "percent": 1.13
+  }]
+}, {
+  "name": "PITCAIRN",
+  "url": "http://www.crwflags.com/fotw/images/p/pn.gif",
+  "colors": [{
+    "hex": "#10319C",
+    "percent": 68.89
+  }, {
+    "hex": "#DE2110",
+    "percent": 9.12
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.02
+  }, {
+    "hex": "#42ADDE",
+    "percent": 1.26
+  }, {
+    "hex": "#095930",
+    "percent": 1.16
+  }, {
+    "hex": "#16241A",
+    "percent": 1.03
+  }]
+}, {
+  "name": "PUERTO RICO",
+  "url": "http://www.crwflags.com/fotw/images/p/pr.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 45.84
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 29.15
+  }, {
+    "hex": "#0000FF",
+    "percent": 25.01
+  }]
+}, {
+  "name": "OCCUPIED PALESTINIAN TERRITORY",
+  "url": "http://www.crwflags.com/fotw/images/p/ps.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 29.58
+  }, {
+    "hex": "#000000",
+    "percent": 29.48
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 23.97
+  }, {
+    "hex": "#FF0000",
+    "percent": 16.67
+  }, {
+    "hex": "#339900",
+    "percent": 0.03
+  }, {
+    "hex": "#330000",
+    "percent": 0.02
+  }]
+}, {
+  "name": "PORTUGAL",
+  "url": "http://www.crwflags.com/fotw/images/p/pt.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 56.11
+  }, {
+    "hex": "#006600",
+    "percent": 34.54
+  }, {
+    "hex": "#B1AF02",
+    "percent": 3.21
+  }, {
+    "hex": "#CD1C09",
+    "percent": 0.82
+  }, {
+    "hex": "#3D62AF",
+    "percent": 0.19
+  }, {
+    "hex": "#7A94C8",
+    "percent": 0.08
+  }]
+}, {
+  "name": "PALAU",
+  "url": "http://www.crwflags.com/fotw/images/p/pw.gif",
+  "colors": [{
+    "hex": "#0099FF",
+    "percent": 82.16
+  }, {
+    "hex": "#FFFF00",
+    "percent": 17.51
+  }, {
+    "hex": "#C5E739",
+    "percent": 0.12
+  }, {
+    "hex": "#9FD85F",
+    "percent": 0.11
+  }, {
+    "hex": "#73C78B",
+    "percent": 0.05
+  }, {
+    "hex": "#4DB8B1",
+    "percent": 0.05
+  }]
+}, {
+  "name": "PARAGUAY",
+  "url": "http://www.crwflags.com/fotw/images/p/py.gif",
+  "colors": [{
+    "hex": "#0038A8",
+    "percent": 33.33
+  }, {
+    "hex": "#D52B1E",
+    "percent": 33.33
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 31.57
+  }, {
+    "hex": "#28894D",
+    "percent": 0.05
+  }, {
+    "hex": "#FBCA01",
+    "percent": 0.03
+  }, {
+    "hex": "#D1B333",
+    "percent": 0.02
+  }]
+}, {
+  "name": "QATAR",
+  "url": "http://www.crwflags.com/fotw/images/q/qa.gif",
+  "colors": [{
+    "hex": "#8D1B3D",
+    "percent": 64.21
+  }, {
+    "hex": "#FFFEFF",
+    "percent": 35.33
+  }, {
+    "hex": "#B2657C",
+    "percent": 0.3
+  }, {
+    "hex": "#D5AAB7",
+    "percent": 0.16
+  }]
+}, {
+  "name": "REUNION",
+  "url": "http://www.crwflags.com/fotw/images/r/re.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000066",
+    "percent": 33.33
+  }]
+}, {
+  "name": "ROMANIA",
+  "url": "http://www.crwflags.com/fotw/images/r/ro.gif",
+  "colors": [{
+    "hex": "#FFCC00",
+    "percent": 33.33
+  }, {
+    "hex": "#CC0000",
+    "percent": 33.33
+  }, {
+    "hex": "#003399",
+    "percent": 33.33
+  }]
+}, {
+  "name": "RUSSIAN FEDERATION",
+  "url": "http://www.crwflags.com/fotw/images/r/ru.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#0000FF",
+    "percent": 33.33
+  }]
+}, {
+  "name": "RWANDA",
+  "url": "http://www.crwflags.com/fotw/images/r/rw.gif",
+  "colors": [{
+    "hex": "#3399FF",
+    "percent": 46.76
+  }, {
+    "hex": "#FFFF00",
+    "percent": 25
+  }, {
+    "hex": "#009900",
+    "percent": 25
+  }, {
+    "hex": "#8BAF8F",
+    "percent": 0.62
+  }, {
+    "hex": "#58A2D0",
+    "percent": 0.28
+  }, {
+    "hex": "#CDBF3D",
+    "percent": 0.23
+  }]
+}, {
+  "name": "SAUDI ARABIA",
+  "url": "http://www.crwflags.com/fotw/images/s/sa.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 90.95
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 6.12
+  }, {
+    "hex": "#ABCDAB",
+    "percent": 0.87
+  }, {
+    "hex": "#318431",
+    "percent": 0.86
+  }, {
+    "hex": "#D1E3D1",
+    "percent": 0.84
+  }, {
+    "hex": "#66A366",
+    "percent": 0.35
+  }]
+}, {
+  "name": "SOLOMON ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/s/sb.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 44.86
+  }, {
+    "hex": "#0000CC",
+    "percent": 41.31
+  }, {
+    "hex": "#FFFF00",
+    "percent": 9.71
+  }, {
+    "hex": "#2D2DD5",
+    "percent": 0.25
+  }, {
+    "hex": "#B6D300",
+    "percent": 0.23
+  }, {
+    "hex": "#609F00",
+    "percent": 0.12
+  }]
+}, {
+  "name": "SEYCHELLES",
+  "url": "http://www.crwflags.com/fotw/images/s/sc.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 32.58
+  }, {
+    "hex": "#FFFF00",
+    "percent": 16.63
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 16.59
+  }, {
+    "hex": "#000099",
+    "percent": 16.55
+  }, {
+    "hex": "#009900",
+    "percent": 16.43
+  }, {
+    "hex": "#ABAB32",
+    "percent": 0.08
+  }]
+}, {
+  "name": "SUDAN",
+  "url": "http://www.crwflags.com/fotw/images/s/sd.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 29.6
+  }, {
+    "hex": "#FF0000",
+    "percent": 29.55
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 23.97
+  }, {
+    "hex": "#009900",
+    "percent": 16.7
+  }, {
+    "hex": "#4D6A00",
+    "percent": 0.02
+  }, {
+    "hex": "#39B039",
+    "percent": 0.02
+  }]
+}, {
+  "name": "SWEDEN",
+  "url": "http://www.crwflags.com/fotw/images/s/se.gif",
+  "colors": [{
+    "hex": "#006699",
+    "percent": 70.14
+  }, {
+    "hex": "#FFCC00",
+    "percent": 29.86
+  }]
+}, {
+  "name": "SINGAPORE",
+  "url": "http://www.crwflags.com/fotw/images/s/sg.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 52.29
+  }, {
+    "hex": "#FF0000",
+    "percent": 46.95
+  }, {
+    "hex": "#FF2D2D",
+    "percent": 0.31
+  }, {
+    "hex": "#FFD2D2",
+    "percent": 0.25
+  }, {
+    "hex": "#FF6F6F",
+    "percent": 0.19
+  }]
+}, {
+  "name": "SAINT HELENA",
+  "url": "http://www.crwflags.com/fotw/images/s/sh.gif",
+  "colors": [{
+    "hex": "#000080",
+    "percent": 77.27
+  }, {
+    "hex": "#FF0000",
+    "percent": 9.77
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 7.75
+  }, {
+    "hex": "#3399CC",
+    "percent": 0.8
+  }, {
+    "hex": "#2F3399",
+    "percent": 0.05
+  }, {
+    "hex": "#669933",
+    "percent": 0.01
+  }]
+}, {
+  "name": "SLOVENIA",
+  "url": "http://www.crwflags.com/fotw/images/s/si.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.54
+  }, {
+    "hex": "#000099",
+    "percent": 33.45
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 32.4
+  }, {
+    "hex": "#FF9E9E",
+    "percent": 0.01
+  }, {
+    "hex": "#FFCFCF",
+    "percent": 0.01
+  }, {
+    "hex": "#C8C820",
+    "percent": 0.01
+  }]
+}, {
+  "name": "SVALBARD AND JAN MAYEN",
+  "url": "http://www.crwflags.com/fotw/images/s/sj.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 61.36
+  }, {
+    "hex": "#003366",
+    "percent": 19.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 18.9
+  }]
+}, {
+  "name": "SLOVAKIA",
+  "url": "http://www.crwflags.com/fotw/images/s/sk.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 38.53
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 33.62
+  }, {
+    "hex": "#0000CC",
+    "percent": 26.8
+  }, {
+    "hex": "#FF4C4C",
+    "percent": 0.23
+  }, {
+    "hex": "#FF7373",
+    "percent": 0.19
+  }, {
+    "hex": "#3535D6",
+    "percent": 0.08
+  }]
+}, {
+  "name": "SIERRA LEONE",
+  "url": "http://www.crwflags.com/fotw/images/s/sl.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#0000CC",
+    "percent": 33.33
+  }, {
+    "hex": "#00CC00",
+    "percent": 33.33
+  }]
+}, {
+  "name": "SAN MARINO",
+  "url": "http://www.crwflags.com/fotw/images/s/sm.gif",
+  "colors": [{
+    "hex": "#4CB2CC",
+    "percent": 44.43
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 44.07
+  }, {
+    "hex": "#407040",
+    "percent": 4.4
+  }, {
+    "hex": "#624F11",
+    "percent": 1.05
+  }, {
+    "hex": "#468FA4",
+    "percent": 0.78
+  }, {
+    "hex": "#66B266",
+    "percent": 0.22
+  }]
+}, {
+  "name": "SENEGAL",
+  "url": "http://www.crwflags.com/fotw/images/s/sn.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 35.43
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 30.99
+  }, {
+    "hex": "#6EC500",
+    "percent": 0.17
+  }, {
+    "hex": "#A8DC00",
+    "percent": 0.08
+  }]
+}, {
+  "name": "SOMALIA",
+  "url": "http://www.crwflags.com/fotw/images/s/so.gif",
+  "colors": [{
+    "hex": "#3399FF",
+    "percent": 95.05
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 4.69
+  }, {
+    "hex": "#AFD7FF",
+    "percent": 0.2
+  }, {
+    "hex": "#6FB7FF",
+    "percent": 0.06
+  }]
+}, {
+  "name": "SURINAME",
+  "url": "http://www.crwflags.com/fotw/images/s/sr.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 39.81
+  }, {
+    "hex": "#FF0000",
+    "percent": 36.57
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 20.37
+  }, {
+    "hex": "#FFFF00",
+    "percent": 2.96
+  }, {
+    "hex": "#FF9100",
+    "percent": 0.29
+  }]
+}, {
+  "name": "SAO TOME AND PRINCIPE",
+  "url": "http://www.crwflags.com/fotw/images/s/st.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 52.43
+  }, {
+    "hex": "#FFFF00",
+    "percent": 32.35
+  }, {
+    "hex": "#FF0000",
+    "percent": 12.62
+  }, {
+    "hex": "#000000",
+    "percent": 2.23
+  }, {
+    "hex": "#383800",
+    "percent": 0.19
+  }, {
+    "hex": "#909000",
+    "percent": 0.13
+  }]
+}, {
+  "name": "EL SALVADOR",
+  "url": "http://www.crwflags.com/fotw/images/s/sv.gif",
+  "colors": [{
+    "hex": "#0000FF",
+    "percent": 66.48
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.03
+  }, {
+    "hex": "#D2D21C",
+    "percent": 0.13
+  }, {
+    "hex": "#2F8B2D",
+    "percent": 0.11
+  }, {
+    "hex": "#3E40B5",
+    "percent": 0.09
+  }, {
+    "hex": "#A14733",
+    "percent": 0.03
+  }]
+}, {
+  "name": "SYRIAN ARAB REPUBLIC",
+  "url": "http://www.crwflags.com/fotw/images/s/sy.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.09
+  }, {
+    "hex": "#D2ECD2",
+    "percent": 0.11
+  }, {
+    "hex": "#91D291",
+    "percent": 0.11
+  }, {
+    "hex": "#4EB84E",
+    "percent": 0.11
+  }]
+}, {
+  "name": "SWAZILAND",
+  "url": "http://www.crwflags.com/fotw/images/s/sz.gif",
+  "colors": [{
+    "hex": "#6699CC",
+    "percent": 41.12
+  }, {
+    "hex": "#990000",
+    "percent": 31.09
+  }, {
+    "hex": "#FFCC00",
+    "percent": 12.22
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 6.7
+  }, {
+    "hex": "#FF0000",
+    "percent": 0.19
+  }, {
+    "hex": "#660099",
+    "percent": 0.01
+  }]
+}, {
+  "name": "TURKS AND CAICOS ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/t/tc.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 73.63
+  }, {
+    "hex": "#CC0101",
+    "percent": 9.15
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 7.95
+  }, {
+    "hex": "#9C6C2A",
+    "percent": 1.01
+  }, {
+    "hex": "#33CC66",
+    "percent": 0.73
+  }, {
+    "hex": "#D32929",
+    "percent": 0.7
+  }]
+}, {
+  "name": "CHAD",
+  "url": "http://www.crwflags.com/fotw/images/t/td.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#FFFF00",
+    "percent": 33.33
+  }, {
+    "hex": "#000066",
+    "percent": 33.33
+  }]
+}, {
+  "name": "FRENCH SOUTHERN TERRITORIES",
+  "url": "http://www.crwflags.com/fotw/images/t/tf.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 81.88
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 11.62
+  }, {
+    "hex": "#FF0000",
+    "percent": 5.8
+  }, {
+    "hex": "#4F4F95",
+    "percent": 0.24
+  }, {
+    "hex": "#9E9EC4",
+    "percent": 0.2
+  }, {
+    "hex": "#24247B",
+    "percent": 0.08
+  }]
+}, {
+  "name": "TOGO",
+  "url": "http://www.crwflags.com/fotw/images/t/tg.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 44.02
+  }, {
+    "hex": "#FFCC00",
+    "percent": 31.83
+  }, {
+    "hex": "#FF0000",
+    "percent": 22.29
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 1.85
+  }]
+}, {
+  "name": "THAILAND",
+  "url": "http://www.crwflags.com/fotw/images/t/th.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000099",
+    "percent": 33.33
+  }]
+}, {
+  "name": "TAJIKISTAN",
+  "url": "http://www.crwflags.com/fotw/images/t/tj.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 44.26
+  }, {
+    "hex": "#CC0000",
+    "percent": 27.31
+  }, {
+    "hex": "#006600",
+    "percent": 27.31
+  }, {
+    "hex": "#FFCC00",
+    "percent": 1.11
+  }]
+}, {
+  "name": "TOKELAU",
+  "url": "http://www.crwflags.com/fotw/images/t/tk.gif",
+  "colors": [{
+    "hex": "#000098",
+    "percent": 71.21
+  }, {
+    "hex": "#FFCC00",
+    "percent": 27.04
+  }, {
+    "hex": "#AF8C2F",
+    "percent": 0.28
+  }, {
+    "hex": "#D5AA19",
+    "percent": 0.11
+  }, {
+    "hex": "#4C4CB8",
+    "percent": 0.09
+  }, {
+    "hex": "#7373C7",
+    "percent": 0.05
+  }]
+}, {
+  "name": "TIMOR-LESTE",
+  "url": "http://www.crwflags.com/fotw/images/t/tl.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 74.6
+  }, {
+    "hex": "#000000",
+    "percent": 15.04
+  }, {
+    "hex": "#FFFF01",
+    "percent": 8.16
+  }, {
+    "hex": "#FB961B",
+    "percent": 0.4
+  }, {
+    "hex": "#AC9C09",
+    "percent": 0.1
+  }, {
+    "hex": "#807D7B",
+    "percent": 0.01
+  }]
+}, {
+  "name": "TURKMENISTAN",
+  "url": "http://www.crwflags.com/fotw/images/t/tm.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 81.98
+  }, {
+    "hex": "#950204",
+    "percent": 10.39
+  }, {
+    "hex": "#9F5F12",
+    "percent": 2.41
+  }, {
+    "hex": "#712F0F",
+    "percent": 1.95
+  }, {
+    "hex": "#C19865",
+    "percent": 0.19
+  }, {
+    "hex": "#51672B",
+    "percent": 0.16
+  }]
+}, {
+  "name": "TUNISIA",
+  "url": "http://www.crwflags.com/fotw/images/t/tn.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 90.19
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 8.87
+  }, {
+    "hex": "#FFB0B0",
+    "percent": 0.47
+  }, {
+    "hex": "#FF4F4F",
+    "percent": 0.47
+  }]
+}, {
+  "name": "TONGA",
+  "url": "http://www.crwflags.com/fotw/images/t/to.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 84.25
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 15.75
+  }]
+}, {
+  "name": "TURKEY",
+  "url": "http://www.crwflags.com/fotw/images/t/tr.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 93.6
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 5.49
+  }, {
+    "hex": "#FFB5B5",
+    "percent": 0.33
+  }, {
+    "hex": "#FF2E2E",
+    "percent": 0.32
+  }, {
+    "hex": "#FF8F8F",
+    "percent": 0.26
+  }]
+}, {
+  "name": "TRINIDAD AND TOBAGO",
+  "url": "http://www.crwflags.com/fotw/images/t/tt.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 69.06
+  }, {
+    "hex": "#000000",
+    "percent": 20.27
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 9.6
+  }, {
+    "hex": "#D0D0D0",
+    "percent": 0.12
+  }, {
+    "hex": "#909090",
+    "percent": 0.09
+  }, {
+    "hex": "#B0B0B0",
+    "percent": 0.08
+  }]
+}, {
+  "name": "TUVALU",
+  "url": "http://www.crwflags.com/fotw/images/t/tv.gif",
+  "colors": [{
+    "hex": "#6699FF",
+    "percent": 71.2
+  }, {
+    "hex": "#CC0001",
+    "percent": 9.22
+  }, {
+    "hex": "#FFFEFE",
+    "percent": 7.96
+  }, {
+    "hex": "#010066",
+    "percent": 6.67
+  }, {
+    "hex": "#FECC01",
+    "percent": 3.26
+  }, {
+    "hex": "#CF3435",
+    "percent": 0.15
+  }]
+}, {
+  "name": "PROVINCE OF CHINA TAIWAN",
+  "url": "http://www.crwflags.com/fotw/images/t/tw.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 75
+  }, {
+    "hex": "#000099",
+    "percent": 21.33
+  }, {
+    "hex": "#9999CC",
+    "percent": 0.15
+  }, {
+    "hex": "#333399",
+    "percent": 0.09
+  }, {
+    "hex": "#6666CC",
+    "percent": 0.06
+  }, {
+    "hex": "#3333CC",
+    "percent": 0.03
+  }]
+}, {
+  "name": "UNITED REPUBLIC OF TANZANIA",
+  "url": "http://www.crwflags.com/fotw/images/t/tz.gif",
+  "colors": [{
+    "hex": "#000000",
+    "percent": 29.27
+  }, {
+    "hex": "#0099FF",
+    "percent": 28.84
+  }, {
+    "hex": "#009900",
+    "percent": 28.81
+  }, {
+    "hex": "#FFFF00",
+    "percent": 11.99
+  }, {
+    "hex": "#93D36B",
+    "percent": 0.12
+  }, {
+    "hex": "#C5E700",
+    "percent": 0.07
+  }]
+}, {
+  "name": "UKRAINE",
+  "url": "http://www.crwflags.com/fotw/images/u/ua.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 50
+  }, {
+    "hex": "#0099FF",
+    "percent": 50
+  }]
+}, {
+  "name": "UGANDA",
+  "url": "http://www.crwflags.com/fotw/images/u/ug.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 33.35
+  }, {
+    "hex": "#000000",
+    "percent": 31.25
+  }, {
+    "hex": "#FF0000",
+    "percent": 30.87
+  }, {
+    "hex": "#DC3108",
+    "percent": 0.16
+  }, {
+    "hex": "#8E8E8E",
+    "percent": 0.13
+  }, {
+    "hex": "#B10300",
+    "percent": 0.07
+  }]
+}, {
+  "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/u/um.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 41.54
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 39.4
+  }, {
+    "hex": "#000066",
+    "percent": 16.8
+  }, {
+    "hex": "#8080B3",
+    "percent": 1.08
+  }, {
+    "hex": "#303083",
+    "percent": 0.65
+  }, {
+    "hex": "#D0D0E3",
+    "percent": 0.54
+  }]
+}, {
+  "name": "UNITED STATES",
+  "url": "http://www.crwflags.com/fotw/images/u/us.gif",
+  "colors": [{
+    "hex": "#CC0000",
+    "percent": 41.54
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 39.4
+  }, {
+    "hex": "#000066",
+    "percent": 16.8
+  }, {
+    "hex": "#8080B3",
+    "percent": 1.08
+  }, {
+    "hex": "#303083",
+    "percent": 0.65
+  }, {
+    "hex": "#D0D0E3",
+    "percent": 0.54
+  }]
+}, {
+  "name": "URUGUAY",
+  "url": "http://www.crwflags.com/fotw/images/u/uy.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 58.23
+  }, {
+    "hex": "#0066CC",
+    "percent": 36.21
+  }, {
+    "hex": "#4E4E05",
+    "percent": 1.55
+  }, {
+    "hex": "#E7E7D0",
+    "percent": 0.38
+  }, {
+    "hex": "#9E9E61",
+    "percent": 0.2
+  }, {
+    "hex": "#BABA87",
+    "percent": 0.07
+  }]
+}, {
+  "name": "UZBEKISTAN",
+  "url": "http://www.crwflags.com/fotw/images/u/uz.gif",
+  "colors": [{
+    "hex": "#007F00",
+    "percent": 31.8
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 31.05
+  }, {
+    "hex": "#00007F",
+    "percent": 29.78
+  }, {
+    "hex": "#7F0000",
+    "percent": 7.37
+  }]
+}, {
+  "name": "HOLY SEE VATICAN CITY STATE",
+  "url": "http://www.crwflags.com/fotw/images/v/va.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 50.64
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 41.6
+  }, {
+    "hex": "#D0D008",
+    "percent": 1.89
+  }, {
+    "hex": "#B4B4B1",
+    "percent": 1.67
+  }, {
+    "hex": "#D6D65F",
+    "percent": 0.43
+  }, {
+    "hex": "#D2201E",
+    "percent": 0.34
+  }]
+}, {
+  "name": "SAINT VINCENT AND THE GRENADINES",
+  "url": "http://www.crwflags.com/fotw/images/v/vc.gif",
+  "colors": [{
+    "hex": "#FFFF00",
+    "percent": 43.63
+  }, {
+    "hex": "#009900",
+    "percent": 30.86
+  }, {
+    "hex": "#0000CC",
+    "percent": 25
+  }, {
+    "hex": "#4EB800",
+    "percent": 0.23
+  }, {
+    "hex": "#D0EC00",
+    "percent": 0.19
+  }, {
+    "hex": "#8FD200",
+    "percent": 0.08
+  }]
+}, {
+  "name": "VENEZUELA",
+  "url": "http://www.crwflags.com/fotw/images/v/ve.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 33.56
+  }, {
+    "hex": "#0000F7",
+    "percent": 32.09
+  }, {
+    "hex": "#FFFF00",
+    "percent": 31
+  }, {
+    "hex": "#F5F5F9",
+    "percent": 1
+  }, {
+    "hex": "#4C37A0",
+    "percent": 0.16
+  }, {
+    "hex": "#BD3924",
+    "percent": 0.11
+  }]
+}, {
+  "name": "BRITISH VIRGIN ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/v/vg.gif",
+  "colors": [{
+    "hex": "#000066",
+    "percent": 73.42
+  }, {
+    "hex": "#CC0000",
+    "percent": 9.51
+  }, {
+    "hex": "#FEFEFE",
+    "percent": 7.63
+  }, {
+    "hex": "#CD2E2D",
+    "percent": 0.48
+  }, {
+    "hex": "#B75E38",
+    "percent": 0.14
+  }, {
+    "hex": "#BFBE4E",
+    "percent": 0.11
+  }]
+}, {
+  "name": "US VIRGIN ISLANDS",
+  "url": "http://www.crwflags.com/fotw/images/v/vi.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 69.87
+  }, {
+    "hex": "#FFFF00",
+    "percent": 14.25
+  }, {
+    "hex": "#000000",
+    "percent": 6.21
+  }, {
+    "hex": "#7E7EFF",
+    "percent": 3.82
+  }, {
+    "hex": "#0000FF",
+    "percent": 2.24
+  }, {
+    "hex": "#008000",
+    "percent": 1.83
+  }]
+}, {
+  "name": "VIET NAM",
+  "url": "http://www.crwflags.com/fotw/images/v/vn.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 91.35
+  }, {
+    "hex": "#FFFF00",
+    "percent": 8.22
+  }, {
+    "hex": "#FF8A00",
+    "percent": 0.43
+  }]
+}, {
+  "name": "VANUATU",
+  "url": "http://www.crwflags.com/fotw/images/v/vu.gif",
+  "colors": [{
+    "hex": "#006600",
+    "percent": 31.26
+  }, {
+    "hex": "#FF0000",
+    "percent": 31.25
+  }, {
+    "hex": "#000000",
+    "percent": 25.13
+  }, {
+    "hex": "#FFFF00",
+    "percent": 9.37
+  }, {
+    "hex": "#2D2D00",
+    "percent": 0.95
+  }, {
+    "hex": "#6B6B00",
+    "percent": 0.44
+  }]
+}, {
+  "name": "WALLIS AND FUTUNA",
+  "url": "http://www.crwflags.com/fotw/images/w/wf.gif",
+  "colors": [{
+    "hex": "#BF0000",
+    "percent": 83.8
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 10.33
+  }, {
+    "hex": "#0000AA",
+    "percent": 5.87
+  }]
+}, {
+  "name": "SAMOA",
+  "url": "http://www.crwflags.com/fotw/images/w/ws.gif",
+  "colors": [{
+    "hex": "#FF0000",
+    "percent": 75
+  }, {
+    "hex": "#000066",
+    "percent": 23.74
+  }, {
+    "hex": "#6262A1",
+    "percent": 0.12
+  }, {
+    "hex": "#8C8CBA",
+    "percent": 0.03
+  }, {
+    "hex": "#333385",
+    "percent": 0.03
+  }, {
+    "hex": "#23237B",
+    "percent": 0.03
+  }]
+}, {
+  "name": "YEMEN",
+  "url": "http://www.crwflags.com/fotw/images/y/ye.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 34.1
+  }, {
+    "hex": "#000000",
+    "percent": 33.18
+  }, {
+    "hex": "#FF0000",
+    "percent": 32.72
+  }]
+}, {
+  "name": "MAYOTTE",
+  "url": "http://www.crwflags.com/fotw/images/y/yt.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 77.57
+  }, {
+    "hex": "#FF0101",
+    "percent": 6.43
+  }, {
+    "hex": "#D3D2D2",
+    "percent": 2.88
+  }, {
+    "hex": "#50473E",
+    "percent": 2.16
+  }, {
+    "hex": "#736D70",
+    "percent": 1.28
+  }, {
+    "hex": "#221C26",
+    "percent": 1.28
+  }]
+}, {
+  "name": "SERBIA AND MONTENEGRO",
+  "url": "http://www.crwflags.com/fotw/images/y/yu.gif",
+  "colors": [{
+    "hex": "#FFFFFF",
+    "percent": 33.33
+  }, {
+    "hex": "#FF0000",
+    "percent": 33.33
+  }, {
+    "hex": "#000099",
+    "percent": 33.33
+  }]
+}, {
+  "name": "SOUTH AFRICA",
+  "url": "http://www.crwflags.com/fotw/images/z/za.gif",
+  "colors": [{
+    "hex": "#009933",
+    "percent": 30.53
+  }, {
+    "hex": "#003399",
+    "percent": 21.05
+  }, {
+    "hex": "#FF0000",
+    "percent": 20.76
+  }, {
+    "hex": "#FDFEFD",
+    "percent": 12.07
+  }, {
+    "hex": "#000000",
+    "percent": 8.7
+  }, {
+    "hex": "#FECC00",
+    "percent": 5.21
+  }]
+}, {
+  "name": "ZAMBIA",
+  "url": "http://www.crwflags.com/fotw/images/z/zm.gif",
+  "colors": [{
+    "hex": "#339933",
+    "percent": 71.8
+  }, {
+    "hex": "#FF6600",
+    "percent": 10.08
+  }, {
+    "hex": "#000000",
+    "percent": 8.28
+  }, {
+    "hex": "#FF0000",
+    "percent": 8.23
+  }, {
+    "hex": "#874600",
+    "percent": 1.22
+  }, {
+    "hex": "#375E0E",
+    "percent": 0.4
+  }]
+}, {
+  "name": "ZIMBABWE",
+  "url": "http://www.crwflags.com/fotw/images/z/zw.gif",
+  "colors": [{
+    "hex": "#009900",
+    "percent": 27.13
+  }, {
+    "hex": "#FFFF00",
+    "percent": 25.74
+  }, {
+    "hex": "#CC0000",
+    "percent": 22.74
+  }, {
+    "hex": "#FFFFFF",
+    "percent": 12.56
+  }, {
+    "hex": "#000000",
+    "percent": 11.83
+  }]
+}]
